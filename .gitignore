@@ -1,0 +1,38 @@
+# Python environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+
+# Third-party payloads and private review materials
+data/raw/
+data/interim/
+data/validation_private/
+reviewer_packages/
+**/*source_body*
+**/*raw_response*
+
+# Regenerated outputs
+outputs/
+
+# Archive, database, and package files
+*.warc
+*.warc.gz
+*.wet
+*.wet.gz
+*.duckdb
+*.sqlite
+*.sqlite3
+*.zip
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+

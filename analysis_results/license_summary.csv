@@ -1,0 +1,11 @@
+measure,category,count,denominator,share
+rights_review_status,app_license_missing,295,530,0.5566037735849056
+rights_review_status,no_observed_model_dependency,159,530,0.3
+rights_review_status,no_automated_flag,52,530,0.09811320754716982
+rights_review_status,manual_review,9,530,0.016981132075471698
+rights_review_status,upstream_license_unresolved,6,530,0.011320754716981131
+rights_review_status,review_rights_asymmetry,5,530,0.009433962264150943
+rights_review_status,review_incomplete_upstream_terms,4,530,0.007547169811320755
+app_license_disclosure,disclosed,235,530,0.44339622641509435
+model_reference_license_disclosure,disclosed,114,145,0.7862068965517242
+official_linked_model_license_disclosure,disclosed,112,125,0.896

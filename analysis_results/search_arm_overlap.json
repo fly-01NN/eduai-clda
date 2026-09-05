@@ -1,0 +1,18 @@
+{
+  "arms": {
+    "createdAt": {
+      "candidate_union": 561,
+      "strict_projects": 355
+    },
+    "likes": {
+      "candidate_union": 557,
+      "strict_projects": 399
+    }
+  },
+  "boundary": "sensitivity within the frozen query vocabulary and returned ranks; not a representativeness correction",
+  "candidate_audit_rows": 764,
+  "full_strict_sample": 530,
+  "strict_arm_jaccard": 0.4226415094339623,
+  "strict_overlap_projects": 224,
+  "strict_union_projects": 530
+}

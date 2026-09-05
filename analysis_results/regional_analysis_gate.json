@@ -1,0 +1,12 @@
+{
+  "asia_provider_model_share_among_model_spaces": 0.1111111111111111,
+  "author_location_coverage": 0.0,
+  "author_location_projects": 0,
+  "author_region_comparison_status": "NOT_ESTIMABLE",
+  "boundary": "model-provider origin is not developer geography or data-sovereignty compliance",
+  "declared_language_coverage": 0.0,
+  "declared_language_projects": 0,
+  "language_orientation_comparison_status": "NOT_ESTIMABLE",
+  "spaces_with_asia_provider_model": 22,
+  "spaces_with_linked_models": 198
+}

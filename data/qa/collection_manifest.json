@@ -1,0 +1,42 @@
+{
+  "broad_education_ai_spaces": 538,
+  "completed_at": "2026-09-02T19:09:32.724466+00:00",
+  "dependency_signal_rows": 1318,
+  "discovery_candidates": 764,
+  "geography_rule": "explicit public author-profile country names only; hosting region excluded",
+  "http_requests_this_run": 182,
+  "http_retries_this_run": 0,
+  "interpretive_boundary": "bounded query-defined public Hugging Face Spaces sample, not a platform census",
+  "per_query_limit": 100,
+  "protocol_version": "2026-08-31.5",
+  "raw_source_cache_released": false,
+  "search_arms": [
+    "likes",
+    "createdAt"
+  ],
+  "search_terms": [
+    "ai tutor",
+    "socratic tutor",
+    "tutor chatbot",
+    "education chatbot",
+    "educational chatbot",
+    "educational ai",
+    "quiz generator",
+    "course generator",
+    "teaching assistant",
+    "study assistant",
+    "learning companion",
+    "homework assistant",
+    "lesson plan generator",
+    "grading assistant",
+    "language tutor"
+  ],
+  "snapshot_date": "2026-08-31",
+  "started_at": "2026-09-02T19:08:24.322528+00:00",
+  "strict_dependency_observable_spaces": 530,
+  "strict_education_ai_spaces": 530,
+  "strict_education_phrase_spaces": 706,
+  "strict_identifiable_dependency_spaces": 512,
+  "strict_spaces_with_unmapped_service_candidates": 127,
+  "unique_linked_models": 148
+}

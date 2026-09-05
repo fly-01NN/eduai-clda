@@ -1,0 +1,43 @@
+space_id,github_repository,provider,layer,evidence_type,evidence_value,source_file,confidence,model_family,provider_basis
+Aditya1546/ai-study-assistant,Aditya1546/ai-study-assistant,Groq,inference_service,code_signature,groq_sdk,rag_engine.py,high,,code_signature
+Aditya1546/ai-study-assistant,Aditya1546/ai-study-assistant,Groq,inference_service,package,groq,requirements.txt,high,,package
+ayushsainime/socratic_maths_tutor.ai,ayushsainime/SOCRATIC_MATH_TUTOR.AI,Groq,inference_service,package,groq,requirements.txt,high,,package
+brcew/ai-engineering-tutor,brcew/AI-Engineering-Tutor,Groq,inference_service,code_signature,groq_sdk,.env.example,medium,,code_signature
+brcew/ai-engineering-tutor,brcew/AI-Engineering-Tutor,Groq,inference_service,code_signature,groq_sdk,ai_engineering_tutor.py,high,,code_signature
+brcew/ai-engineering-tutor,brcew/AI-Engineering-Tutor,Groq,inference_service,code_signature,groq_sdk,index.html,high,,code_signature
+brcew/ai-engineering-tutor,brcew/AI-Engineering-Tutor,Groq,inference_service,code_signature,groq_sdk,server.js,high,,code_signature
+brcew/ai-engineering-tutor,brcew/AI-Engineering-Tutor,Groq,inference_service,code_signature,groq_sdk,sw.js,high,,code_signature
+brcew/ai-engineering-tutor,brcew/AI-Engineering-Tutor,Groq,inference_service,package,groq,requirements.txt,high,,package
+cosmoEagle/DSA-Teaching-Assistant,cosmoEagle/Teaching_assistant,Google,inference_service,package,google-generativeai,requirements.txt,high,,package
+tools4ds/ai_tutor,edubotics-ai/edubotics-core,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,package
+tools4ds/ai_tutor,edubotics-ai/edubotics-core,OpenAI,inference_service,package,langchain-openai,requirements.txt,high,,package
+tools4ds/ai_tutor,edubotics-ai/edubotics-core,OpenAI,inference_service,package,openai,requirements.txt,high,,package
+tools4ds/ai_tutor,edubotics-ai/edubotics-core,User-managed runtime,local_runtime,package,llama-cpp-python,requirements.txt,high,,package
+tools4ds/ai_tutor,edubotics-ai/edubotics-core,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,package
+jonowrenn/cs-study-assistant,jonowrenn/GPTChatbot,OpenAI,inference_service,code_signature,openai_import,app.py,high,,code_signature
+jonowrenn/cs-study-assistant,jonowrenn/GPTChatbot,OpenAI,inference_service,package,openai,requirements.txt,high,,package
+ayushsainime/socratic_maths_tutor.ai,lukas-blecher/LaTeX-OCR,User-managed runtime,local_runtime,package,transformers,setup.py,high,,package
+midlajvalappil/AI-Powered-YouTube-Transcript-Tutor,midlaj-muhammed/AI-Powered-YouTube-Transcript-Tutor,OpenAI,inference_service,code_signature,openai_import,.env.example,medium,,code_signature
+midlajvalappil/AI-Powered-YouTube-Transcript-Tutor,midlaj-muhammed/AI-Powered-YouTube-Transcript-Tutor,OpenAI,inference_service,code_signature,openai_import,app.py,high,,code_signature
+midlajvalappil/AI-Powered-YouTube-Transcript-Tutor,midlaj-muhammed/AI-Powered-YouTube-Transcript-Tutor,OpenAI,inference_service,package,langchain-openai,requirements.txt,high,,package
+midlajvalappil/AI-Powered-YouTube-Transcript-Tutor,midlaj-muhammed/AI-Powered-YouTube-Transcript-Tutor,OpenAI,inference_service,package,openai,requirements.txt,high,,package
+Boyston/reachy_mini_language_tutor,mwvaughn/reachy_mini_language_tutor,Hugging Face,hub_sdk,package,huggingface-hub,pyproject.toml,high,,package
+Boyston/reachy_mini_language_tutor,mwvaughn/reachy_mini_language_tutor,OpenAI,inference_service,code_signature,openai_import,.env.example,medium,,code_signature
+Boyston/reachy_mini_language_tutor,mwvaughn/reachy_mini_language_tutor,OpenAI,inference_service,code_signature,openai_import,index.html,high,,code_signature
+Boyston/reachy_mini_language_tutor,mwvaughn/reachy_mini_language_tutor,OpenAI,inference_service,package,openai,pyproject.toml,high,,package
+Boyston/reachy_mini_language_tutor,mwvaughn/reachy_mini_language_tutor,User-managed runtime,local_runtime,package,transformers,pyproject.toml,high,,package
+mattdotvaughn/reachy_mini_language_tutor,mwvaughn/reachy_mini_language_tutor,Hugging Face,hub_sdk,package,huggingface-hub,pyproject.toml,high,,package
+mattdotvaughn/reachy_mini_language_tutor,mwvaughn/reachy_mini_language_tutor,OpenAI,inference_service,code_signature,openai_import,.env.example,medium,,code_signature
+mattdotvaughn/reachy_mini_language_tutor,mwvaughn/reachy_mini_language_tutor,OpenAI,inference_service,code_signature,openai_import,index.html,high,,code_signature
+mattdotvaughn/reachy_mini_language_tutor,mwvaughn/reachy_mini_language_tutor,OpenAI,inference_service,package,openai,pyproject.toml,high,,package
+mattdotvaughn/reachy_mini_language_tutor,mwvaughn/reachy_mini_language_tutor,User-managed runtime,local_runtime,package,transformers,pyproject.toml,high,,package
+build-small-hackathon/tutordesk-ai,Naazimsnh02/tutordesk_ai,Cohere,inference_service,code_signature,cohere_sdk,.env.example,medium,,code_signature
+build-small-hackathon/tutordesk-ai,Naazimsnh02/tutordesk_ai,Cohere,inference_service,code_signature,cohere_sdk,config.py,high,,code_signature
+build-small-hackathon/tutordesk-ai,Naazimsnh02/tutordesk_ai,Cohere,inference_service,package,cohere,requirements.txt,high,,package
+build-small-hackathon/tutordesk-ai,Naazimsnh02/tutordesk_ai,User-managed runtime,local_runtime,package,llama-cpp-python,requirements-local.txt,high,,package
+build-small-hackathon/tutordesk-ai,Naazimsnh02/tutordesk_ai,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,package
+Boyston/reachy_mini_language_tutor,pollen-robotics/reachy_mini,Hugging Face,hub_sdk,package,huggingface-hub,pyproject.toml,high,,package
+mattdotvaughn/reachy_mini_language_tutor,pollen-robotics/reachy_mini,Hugging Face,hub_sdk,package,huggingface-hub,pyproject.toml,high,,package
+srinivas25046/ai-study-assistant,Srinivas25046/ai-study-assistant,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,code_signature
+srinivas25046/ai-study-assistant,Srinivas25046/ai-study-assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,package
+srinivas25046/ai-study-assistant,Srinivas25046/ai-study-assistant,namespace:sshleifer,model_dependency,github_code_model_id,sshleifer/distilbart-cnn-12-6,selected_github_source_files,medium,distilbart,unmapped_public_namespace

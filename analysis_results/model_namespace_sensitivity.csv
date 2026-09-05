@@ -1,0 +1,4 @@
+namespace_variant,matched_projects,service_hhi,model_hhi,hhi_difference_service_minus_model,service_top_provider,model_top_provider_or_namespace,model_provider_categories
+disaggregated_unmapped_namespaces,99,0.3389450056116723,0.12379830856261834,0.21514669704905395,Hugging Face,Mistral AI,26
+pooled_unmapped_namespaces,99,0.3389450056116723,0.18445963563808682,0.15448536997358547,Hugging Face,Unmapped namespace,11
+mapped_publishers_only,74,0.5148831263696129,0.19534230176122064,0.3195408246083922,Hugging Face,Mistral AI,10

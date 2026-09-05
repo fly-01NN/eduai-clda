@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software or its derived data, please cite the associated manuscript."
+type: software
+title: "EduAI CLDA research code and derived data"
+version: 0.1.0
+date-released: 2026-09-05
+license: MIT
+repository-code: "https://github.com/fly-01NN/eduai-clda"
+url: "https://github.com/fly-01NN/eduai-clda/tree/v0.1.0"
+authors:
+  - family-names: Shi
+    given-names: Hui
+    orcid: "https://orcid.org/0009-0001-7136-7155"
+  - family-names: Pan
+    given-names: Zhuangzhuang
+    orcid: "https://orcid.org/0009-0009-0451-2162"
+  - family-names: Meng
+    given-names: Xiaoyu
+    orcid: "https://orcid.org/0009-0005-0179-840X"
+  - family-names: Xia
+    given-names: Yan
+    orcid: "https://orcid.org/0009-0006-3559-4680"
+preferred-citation:
+  type: article
+  title: "Model Plurality, Service Concentration: A Cross-Layer Audit of Public Educational AI Projects"
+  authors:
+    - family-names: Shi
+      given-names: Hui
+    - family-names: Pan
+      given-names: Zhuangzhuang
+    - family-names: Meng
+      given-names: Xiaoyu
+    - family-names: Xia
+      given-names: Yan
+  year: 2026

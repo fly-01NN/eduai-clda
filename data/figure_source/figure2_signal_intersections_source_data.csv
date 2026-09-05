@@ -1,0 +1,16 @@
+category,value,service,model,runtime,candidate,matched
+signal intersection,243,True,False,False,False,False
+signal intersection,86,False,True,True,False,False
+signal intersection,50,True,False,False,True,False
+signal intersection,49,True,True,False,False,True
+signal intersection,33,True,True,False,True,True
+signal intersection,18,False,False,False,True,False
+signal intersection,12,False,False,True,False,False
+signal intersection,10,True,True,True,False,True
+signal intersection,7,True,True,True,True,True
+signal intersection,7,True,False,True,False,False
+signal intersection,6,False,True,False,False,False
+signal intersection,4,False,True,True,True,False
+signal intersection,3,False,True,False,True,False
+signal intersection,1,True,False,True,True,False
+signal intersection,1,False,False,True,True,False

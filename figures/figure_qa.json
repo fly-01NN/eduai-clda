@@ -1,0 +1,65 @@
+{
+  "generator": "direct SVG schematic plus src/make_figures.py",
+  "figure_count": 5,
+  "style_reference": "01-ai-crawler-governance final figures",
+  "font_floor_points": 8,
+  "manual_labels": 0,
+  "records": [
+    {
+      "stem": "figure1_study_design",
+      "drawing_source": "direct SVG",
+      "paper_pdf": "figures/Figure_1.pdf",
+      "paper_svg": "figures/Figure_1.svg",
+      "source_data": "data/figure_source/figure1_study_design_source_data.csv",
+      "size_inches": [
+        7,
+        3.0333
+      ],
+      "pdf_sha256": "b27cef4e1321bd4648a82a0158f4e1f334fb39285dbd31ca498f938f43554b59"
+    },
+    {
+      "stem": "figure2_signal_intersections",
+      "paper_pdf": "figures/Figure_2.pdf",
+      "paper_svg": "figures/Figure_2.svg",
+      "source_data": "data/figure_source/figure2_signal_intersections_source_data.csv",
+      "size_inches": [
+        6.5,
+        3.25
+      ],
+      "pdf_sha256": "ba3ee576407b14aa88314da170ed21a79c290ca333572f449117e7860e170a82"
+    },
+    {
+      "stem": "figure3_service_model_composition",
+      "paper_pdf": "figures/Figure_3.pdf",
+      "paper_svg": "figures/Figure_3.svg",
+      "source_data": "data/figure_source/figure3_service_model_composition_source_data.csv",
+      "size_inches": [
+        6.5,
+        3.15
+      ],
+      "pdf_sha256": "31036faf64bd2544a88710e793cecc9d33888bbf723097293d1e0ddd8131f194"
+    },
+    {
+      "stem": "figure4_cross_layer_association",
+      "paper_pdf": "figures/Figure_4.pdf",
+      "paper_svg": "figures/Figure_4.svg",
+      "source_data": "data/figure_source/figure4_cross_layer_association_source_data.csv",
+      "size_inches": [
+        6.5,
+        2.52
+      ],
+      "pdf_sha256": "3f4ba463ff8e5f713726ef391db30870d088a1590a81991d4a1f80eec71a5fc3"
+    },
+    {
+      "stem": "figure5_matched_robustness",
+      "paper_pdf": "figures/Figure_5.pdf",
+      "paper_svg": "figures/Figure_5.svg",
+      "source_data": "data/figure_source/figure5_matched_robustness_source_data.csv",
+      "size_inches": [
+        6.5,
+        5.1
+      ],
+      "pdf_sha256": "b7b518e4c67d0a02b01b7d8f6e2907f33da5ba363b78fe45d68baeb42622fc7d"
+    }
+  ]
+}

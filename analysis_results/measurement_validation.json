@@ -1,0 +1,80 @@
+{
+  "bootstrap_draws": 2000,
+  "bootstrap_seed": 20260903,
+  "dependency_edge_rule": {
+    "bootstrap_intervals": {
+      "precision_overall": [
+        0.9652750491159134,
+        0.9990176817288802
+      ]
+    },
+    "precision_overall": 0.9867878192534382,
+    "supported_records": 156
+  },
+  "dependency_evidence": {
+    "initial_interreviewer_agreement": {
+      "agreement": 0.8375,
+      "kappa": 0.45833333333333326,
+      "n": 160
+    },
+    "records": 160,
+    "resolved_records": 160,
+    "unresolved_records": 0
+  },
+  "education_relevance": {
+    "initial_interreviewer_agreement": {
+      "agreement": 0.9775280898876404,
+      "kappa": 0.7794982966862802,
+      "n": 178
+    },
+    "records": 178,
+    "resolved_records": 178,
+    "unresolved_records": 0
+  },
+  "education_rule": {
+    "bootstrap_intervals": {
+      "precision": [
+        0.9082625118035883,
+        0.9916902738432484
+      ],
+      "recall_within_query_union": [
+        0.9193432233904653,
+        0.9296306855421805
+      ],
+      "specificity_within_query_union": [
+        0.0,
+        0.40449438202247184
+      ]
+    },
+    "precision": 0.9541548630783758,
+    "recall_within_query_union": 0.9245162175762844,
+    "specificity_within_query_union": 0.08482563619227142,
+    "weighted_false_negative": 55.0,
+    "weighted_false_positive": 32.366666666666674,
+    "weighted_true_negative": 3.0,
+    "weighted_true_positive": 673.6333333333336
+  },
+  "interpretation": "post-analysis measurement validation; labels evaluate but do not adjudicate the frozen sample or dependency edges",
+  "labels_do_not_change_frozen_analysis": true,
+  "service_negative_audit": {
+    "all_missed_service_projects_in_candidate_boundary": true,
+    "bootstrap_intervals": {
+      "missed_service_share": [
+        0.1123076923076923,
+        0.27692307692307694
+      ]
+    },
+    "initial_interreviewer_agreement": {
+      "agreement": 0.7375,
+      "kappa": 0.4991055456171736,
+      "n": 80
+    },
+    "missed_service_records": 15,
+    "missed_service_records_in_candidate_boundary": 15,
+    "missed_service_share": 0.18820512820512825,
+    "records": 80,
+    "resolved_records": 80,
+    "unresolved_records": 0
+  },
+  "status": "COMPLETE"
+}

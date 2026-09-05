@@ -1,0 +1,15 @@
+{
+  "interpretation": "within-project co-declaration association; not evidence that a service routes traffic to a co-declared model",
+  "joint_fractional_share_sum": 1.0,
+  "matched_projects": 99,
+  "mutual_information": 0.6906560182996411,
+  "normalized_mutual_information_sqrt": 0.36979343807767956,
+  "permutation_null_interval": [
+    0.2825777212493419,
+    0.43238195570850263
+  ],
+  "permutation_null_mean": 0.35231270544927745,
+  "permutations": 10000,
+  "randomization_p": 9.999000099990002e-05,
+  "seed": 20260831
+}

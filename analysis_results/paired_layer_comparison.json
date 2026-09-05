@@ -1,0 +1,46 @@
+{
+  "bootstrap_draws": 2000,
+  "bootstrap_fraction_service_hhi_gt_model_hhi": 1.0,
+  "bootstrap_seed": 20260831,
+  "hhi_difference_bootstrap_ci": [
+    0.1424894993708125,
+    0.29643290367196085
+  ],
+  "hhi_difference_service_minus_model": 0.21514669704905393,
+  "hhi_ratio_bootstrap_ci": [
+    2.04939908051816,
+    3.3409903047635856
+  ],
+  "hhi_ratio_service_over_model": 2.7378807477020635,
+  "independent_unit": "project",
+  "interpretation": "paired descriptive bootstrap stability; the dominance fraction is not a p value",
+  "matched_projects": 99,
+  "model_hhi": 0.12379830856261832,
+  "model_hhi_bootstrap_ci": [
+    0.10717851211327643,
+    0.1583909734267478
+  ],
+  "model_publishers_or_namespaces": 26,
+  "model_shannon_effective_categories": 11.310042730073583,
+  "model_shannon_entropy": 2.4256910681999004,
+  "model_top_share": 0.19696969696969696,
+  "service_hhi": 0.33894500561167223,
+  "service_hhi_bootstrap_ci": [
+    0.26859249056218754,
+    0.43620612692582383
+  ],
+  "service_providers": 9,
+  "service_shannon_effective_categories": 4.212413847848084,
+  "service_shannon_entropy": 1.4380358439199281,
+  "service_top_share": 0.5353535353535354,
+  "shannon_entropy_difference_bootstrap_ci": [
+    0.7076017677393421,
+    1.1306553980022715
+  ],
+  "shannon_entropy_difference_model_minus_service": 0.9876552242799723,
+  "top_share_difference_bootstrap_ci": [
+    0.21717171717171718,
+    0.41414141414141414
+  ],
+  "top_share_difference_service_minus_model": 0.3383838383838384
+}

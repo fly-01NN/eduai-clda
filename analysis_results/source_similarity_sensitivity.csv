@@ -1,0 +1,4 @@
+threshold,shingle_size,minimum_shingles,eligible_projects,clustered_projects,non_singleton_clusters,largest_cluster,effective_project_clusters,combined_hhi,provider_only_hhi,combined_top_provider,combined_top_share
+0.85,7,50,524,115,25,27,440.0,0.17119984616761125,0.18414302519323858,Google,0.32499298895058615
+0.9,7,50,524,109,26,24,447.0,0.17455059552114374,0.18821647919639609,Google,0.3328527234559717
+0.95,7,50,524,101,30,13,459.0,0.18229818904344636,0.1973522414518358,Google,0.3487423411802644

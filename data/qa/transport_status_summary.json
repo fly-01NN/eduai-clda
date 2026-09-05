@@ -1,0 +1,19 @@
+{
+  "historical_source_cache_integrity": {
+    "content_mismatches": 0,
+    "files": 1607,
+    "invalid": 0
+  },
+  "model_resolution_statuses": {
+    "200": 131,
+    "401": 24
+  },
+  "selected_source_cache_integrity": {
+    "content_mismatches": 0,
+    "invalid": 0,
+    "manifest_rows": 2838,
+    "metadata_mismatches": 0,
+    "missing": 0
+  },
+  "snapshot_date": "2026-08-31"
+}

@@ -1,0 +1,34 @@
+{
+  "dependency_evidence": {
+    "initial_interreviewer_agreement": {
+      "agreement": 0.8375,
+      "kappa": 0.45833333333333326,
+      "n": 160
+    },
+    "records": 160,
+    "resolved_records": 160,
+    "unresolved_records": 0
+  },
+  "education_relevance": {
+    "initial_interreviewer_agreement": {
+      "agreement": 0.9775280898876404,
+      "kappa": 0.7794982966862802,
+      "n": 178
+    },
+    "records": 178,
+    "resolved_records": 178,
+    "unresolved_records": 0
+  },
+  "labels_do_not_change_frozen_analysis": true,
+  "service_negative_audit": {
+    "initial_interreviewer_agreement": {
+      "agreement": 0.7375,
+      "kappa": 0.4991055456171736,
+      "n": 80
+    },
+    "records": 80,
+    "resolved_records": 80,
+    "unresolved_records": 0
+  },
+  "status": "COMPLETE"
+}

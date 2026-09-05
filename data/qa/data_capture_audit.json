@@ -1,0 +1,74 @@
+{
+  "active_model_resolution_statuses": {
+    "200": 130,
+    "401": 18
+  },
+  "boundary": "HTTP 401/403/404 identifiers and rank-cap warnings are recorded, not silently recoded as transport failures; only complete public primary inputs pass the gate",
+  "candidate_audit_projects": 764,
+  "capped_query_arms": [
+    "ai-tutor__likes.json",
+    "ai-tutor__createdat.json",
+    "quiz-generator__likes.json",
+    "quiz-generator__createdat.json",
+    "study-assistant__likes.json",
+    "study-assistant__createdat.json"
+  ],
+  "failures": [],
+  "gate_status": "PASS",
+  "github_resolution_statuses": {
+    "200": 16,
+    "404": 7
+  },
+  "history": {
+    "expected_strict_rows": 530,
+    "initial_states": {
+      "RESOLVED": 530
+    },
+    "invalid_source_caches": 0,
+    "present": true,
+    "rows": 530,
+    "source_cache_content_mismatches": 0,
+    "source_cache_files": 1607,
+    "status_codes": {
+      "200": 530
+    }
+  },
+  "invalid_source_caches": 0,
+  "missing_source_caches": 0,
+  "model_resolution_statuses": {
+    "200": 131,
+    "401": 24
+  },
+  "required_space_metadata_missing": {
+    "created_at": 0,
+    "last_modified": 0,
+    "revision": 0,
+    "space_id": 0
+  },
+  "search_length_distribution": {
+    "0": 2,
+    "100": 6,
+    "13": 8,
+    "18": 2,
+    "2": 2,
+    "23": 2,
+    "34": 2,
+    "50": 2,
+    "78": 2,
+    "8": 2
+  },
+  "search_response_files": 30,
+  "search_union_projects": 764,
+  "snapshot_date": "2026-08-31",
+  "source_cache_content_mismatches": 0,
+  "source_cache_metadata_mismatches": 0,
+  "source_manifest_rows": 2838,
+  "source_status_codes": {
+    "200": 2838
+  },
+  "warnings": [
+    "6 query arms reach the frozen rank cap; this is bounded-design truncation, not a failed response",
+    "18 active exposed model identifiers are not publicly resolvable Hub artifacts; they remain explicitly unresolved",
+    "7 README-linked GitHub identifiers are unresolved or placeholders; this connector is supplementary"
+  ]
+}

@@ -1,0 +1,1319 @@
+space_id,provider,layer,evidence_type,evidence_value,source_file,confidence,model_family,upstream_license,provider_basis
+10805j/aitutor,OpenAI,inference_service,code_signature,openai_official,utils/ai_helper.py,high,,not_applicable,code_signature
+13yashjadhav11/study_assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+13yashjadhav11/study_assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+24-cka-ML/quiz-generator,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+3atar/Study-assistant,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+3atar/Study-assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+3atar/Study-assistant,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+3atar/Study-assistant,Microsoft,model_dependency,hf_linked_model,microsoft/DialoGPT-medium,hub_metadata,high,DialoGPT,mit,model_namespace
+3atar/Study-assistant,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+77skaul/edu-tutor-chatbot,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+77skaul/edu-tutor-chatbot,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+77skaul/edu-tutor-chatbot,Google,model_dependency,hf_linked_model,google/flan-t5-base,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+aakashdevdat/Quiz_generator_1,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+aakashdevdat/Quiz_generator_1,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+aakashdevdat/Quiz_generator_1,namespace:valhalla,model_dependency,hf_linked_model,valhalla/t5-base-e2e-qg,hub_metadata,high,T5/FLAN-T5,mit,unmapped_public_namespace
+aazankhanYousafzai/Ai_Study_Assistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+aazankhanYousafzai/Ai_Study_Assistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+abai-cn/linux-teaching-assistant,DeepSeek,inference_service,code_signature,deepseek_endpoint,modules/llm.py,high,,not_applicable,code_signature
+Abdalaziz2026/Syria-ai-tutor,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+Abdalaziz2026/Syria-ai-tutor,Alibaba,model_dependency,hf_linked_model,Qwen/Qwen2.5-7B-Instruct,hub_metadata,high,Qwen,apache-2.0,base_model_namespace
+Abde1ra7man/Quiz_Generator,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-120b,hub_metadata,high,gpt,apache-2.0,model_namespace
+Abdelrahman04/egyptian-educational-chatbot-demo,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Abdelrahman04/egyptian-educational-chatbot-demo,namespace:Abdelrahman04,model_dependency,hf_linked_model,Abdelrahman04/egyptian-educational-chatbot-model,hub_metadata,high,Llama,missing,unmapped_public_namespace
+abdullahkhankakar/quiz-generator,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+abdullahkhankakar/quiz-generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+abdullahkhankakar/quiz-generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,model.py,high,,not_applicable,code_signature
+abdullahkhankakar/quiz-generator,namespace:HuggingFaceTB,model_dependency,hf_linked_model,HuggingFaceTB/SmolLM2-1.7B-Instruct,hub_metadata,high,SmolLM2,apache-2.0,unmapped_public_namespace
+abhey-patel/quiz-generator-space,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+abhey-patel/quiz-generator-space,namespace:koshkosh,model_dependency,hf_linked_model,koshkosh/quiz-generator,hub_metadata,high,quiz,missing,unmapped_public_namespace
+Abhinaychatla/language_voice_tutor,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Abhinaychatla/language_voice_tutor,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+AbhiReddy1/AI_datascince_Tutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+AbhiReddy1/AI_datascince_Tutor,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+AbhiReddy1/AI_datascince_Tutor,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+AbhiReddy1/AI_datascince_Tutor,User-managed runtime,local_runtime,code_signature,transformers_runtime,DS_AI_TUTOR.py,high,,not_applicable,code_signature
+AbhiReddy1/AI_datascince_Tutor,Mistral AI,model_dependency,code_model_id,mistralai/Mistral-7B-Instruct,selected_source_files,medium,Mistral/Mixtral,missing,model_namespace
+ABRB0917/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+ABRB0917/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+abubakaraabi786/programming-tutor-chatbot,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+abubakaraabi786/programming-tutor-chatbot,Alibaba,model_dependency,hf_linked_model,Qwen/Qwen3-32B,hub_metadata,high,Qwen,apache-2.0,model_namespace
+abubakaraabi786/programming-tutor-chatbot,Meta,model_dependency,hf_linked_model,meta-llama/Llama-4-Maverick-17B-128E-Instruct,hub_metadata,high,Llama,other,base_model_namespace
+abubakaraabi786/programming-tutor-chatbot,Meta,model_dependency,hf_linked_model,meta-llama/Llama-4-Scout-17B-16E-Instruct,hub_metadata,high,Llama,other,base_model_namespace
+abubakaraabi786/programming-tutor-chatbot,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-120b,hub_metadata,high,gpt,apache-2.0,model_namespace
+abubakaraabi786/programming-tutor-chatbot,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-20b,hub_metadata,high,gpt,apache-2.0,model_namespace
+Achyutar/Engross-Educational-AI,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+Achyutar/Engross-Educational-AI,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+Achyutar/Engross-Educational-AI,Mistral AI,model_dependency,hf_linked_model,HuggingFaceH4/zephyr-7b-beta,hub_metadata,high,Mistral/Mixtral,mit,base_model_namespace
+Aditya1546/ai-study-assistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+Aditya1546/ai-study-assistant,Groq,inference_service,code_signature,groq_sdk,rag_engine.py,high,,not_applicable,code_signature
+AdityaKokate/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+AdityaKokate/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+adriiita/TeachingAssistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+adriiita/TeachingAssistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+adriiita/TeachingAssistant,Groq,inference_service,code_signature,groq_sdk,core/note_generator.py,high,,not_applicable,code_signature
+adriiita/TeachingAssistant,Groq,inference_service,code_signature,groq_sdk,core/quiz_generator.py,high,,not_applicable,code_signature
+Agents-MCP-Hackathon/AI-Tutor-and-Syllabus-Planner,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Agents-MCP-Hackathon/AI_tutor,OpenAI,inference_service,code_signature,openai_official,app/chatbot.py,high,,not_applicable,code_signature
+Agents-MCP-Hackathon/AI_tutor,OpenAI,inference_service,code_signature,openai_official,app/gradio_interface.py,high,,not_applicable,code_signature
+Agents-MCP-Hackathon/AI_tutor,OpenAI,inference_service,code_signature,openai_official,app/lecture_generator.py,high,,not_applicable,code_signature
+Agents-MCP-Hackathon/AI_tutor,OpenAI,inference_service,code_signature,openai_official,app/rag_system.py,high,,not_applicable,code_signature
+Akash035/my_study_assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Akash035/my_study_assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+akhileshjethi/Study-assistant-ai,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+akhileshjethi/Study-assistant-ai,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+akhileshjethi/Study-assistant-ai,namespace:distilbert,model_dependency,hf_linked_model,distilbert/distilbert-base-cased-distilled-squad,hub_metadata,high,distilbert,apache-2.0,unmapped_public_namespace
+akshay0149/TeachingAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+akshay0149/TeachingAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Aleesha29/socratic_tutor,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+Aleesha29/socratic_tutor,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+alusinebarrie/ai-teaching-assistant,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+alusinebarrie/ai-teaching-assistant,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+alusinebarrie/ai-teaching-assistant,Mistral AI,model_dependency,hf_linked_model,HuggingFaceH4/zephyr-7b-beta,hub_metadata,high,Mistral/Mixtral,mit,base_model_namespace
+alusinebarrie/your-ai-teaching-assistant,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+alusinebarrie/your-ai-teaching-assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+amalrajmp/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+amalrajmp/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+aman7935/Quiz_generator,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+aman7935/Quiz_generator,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-20b,hub_metadata,high,gpt,apache-2.0,model_namespace
+AneelaFatima/AI_Friendly_Study_Tutor,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+AneelaFatima/AI_Friendly_Study_Tutor,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Anil3920/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Anil3920/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Anilkumar12/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Anilkumar12/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+anir-1995/AI_Quiz_Generator,Groq,inference_service,code_signature,groq_sdk,quiz_generator_app.py,high,,not_applicable,code_signature
+anir-1995/AI_Quiz_Generator,Groq,inference_service,code_signature,groq_sdk,resume_screener_app.py,high,,not_applicable,code_signature
+anir-1995/AI_Quiz_Generator,Groq,inference_service,code_signature,groq_sdk,src/streamlit_app.py,high,,not_applicable,code_signature
+AnishaG0201/maths_quiz_generator,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+AnishaG0201/maths_quiz_generator,OpenAI,inference_service,code_signature,openai_official,function.py,high,,not_applicable,code_signature
+ankittumu/Ace-Study-Assistant,User-managed runtime,local_runtime,package,ollama,requirements.txt,high,,not_applicable,package
+ankittumu/Ace-Study-Assistant,User-managed runtime,local_runtime,code_signature,ollama_runtime,app.py,high,,not_applicable,code_signature
+Anmol2006/AI_Study_Assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Anmol2006/AI_Study_Assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+antedotee/teachingAssistant,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+antedotee/teachingAssistant,OpenAI,inference_service,code_signature,openai_official,open_ai_assistants.py,high,,not_applicable,code_signature
+antedotee/teachingAssistant,OpenAI,inference_service,code_signature,openai_official,utils.py,high,,not_applicable,code_signature
+Anupam251272/Education-Chatbot-Anupam,OpenAI,inference_service,code_signature,openai_official,openai-app.py,high,,not_applicable,code_signature
+Anupam251272/Education-Chatbot-Anupam,Together AI,inference_service,package,together,requirements.txt,high,,not_applicable,package
+Anupam251272/Education-Chatbot-Anupam,Together AI,inference_service,code_signature,together_sdk,app.py,high,,not_applicable,code_signature
+Anupam251272/Education-Chatbot-Anupam,Together AI,inference_service,code_signature,together_sdk,guardrail.py,high,,not_applicable,code_signature
+Anupam251272/Education-Chatbot-Anupam,Meta,model_dependency,code_model_id,meta-llama/Llama-3-70b-chat-hf,selected_source_files,medium,Llama,missing,model_namespace
+Anupam251272/Education-Chatbot-Anupam,Meta,model_dependency,code_model_id,Meta-Llama/LlamaGuard-2-8b,selected_source_files,medium,Llama,missing,model_namespace
+Apoorvahu/my-study-assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Apoorvahu/my-study-assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+appcreator199/studyassistant,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+appcreator199/studyassistant,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+appcreator199/studyassistant,Mistral AI,model_dependency,hf_linked_model,HuggingFaceH4/zephyr-7b-beta,hub_metadata,high,Mistral/Mixtral,mit,base_model_namespace
+Archimagos/ai_tutor,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Archimagos/ai_tutor,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+Archimagos/ai_tutor,Meta,model_dependency,hf_linked_model,meta-llama/Llama-3.2-3B-Instruct,hub_metadata,high,Llama,llama3.2,model_namespace
+Archimagos/ai_tutor_3.2,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Archimagos/ai_tutor_3.2,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+Archimagos/ai_tutor_3.2,Meta,model_dependency,hf_linked_model,meta-llama/Llama-3.2-3B-Instruct,hub_metadata,high,Llama,llama3.2,model_namespace
+arjunjuneja/socratic-tutor,Hugging Face,inference_service,code_signature,hf_inference,inference.py,high,,not_applicable,code_signature
+arjunjuneja/socratic-tutor,Hugging Face,inference_service,code_signature,hf_inference,my_env_v4.py,high,,not_applicable,code_signature
+arjunjuneja/socratic-tutor,Hugging Face,inference_service,code_signature,hf_inference,server/student_simulator.py,high,,not_applicable,code_signature
+arjunjuneja/socratic-tutor,Alibaba,model_dependency,hf_linked_model,Qwen/Qwen2.5-72B-Instruct,hub_metadata,high,Qwen,other,base_model_namespace
+arjunnnnn0720/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+arjunnnnn0720/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Arko3910/Study_Assistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+Arko3910/Study_Assistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Armour-12/Quiz-generator-t5base,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Armour-12/Quiz-generator-t5base,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+Armour-12/Quiz-generator-t5base,Google,model_dependency,hf_linked_model,google/flan-t5-base,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+Armour-12/Quiz_Generator,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+ARNABMAJI1234/interactive-study-assistant-demo,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+ARNABMAJI1234/interactive-study-assistant-demo,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+arsalan16/Quiz-Generator-App,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+arsalan16/Quiz-Generator-App,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+arsalan16/Quiz-Generator-App,namespace:facebook,model_dependency,hf_linked_model,facebook/bart-large-cnn,hub_metadata,high,bart,mit,unmapped_public_namespace
+arsalan16/Quiz-Generator-App,namespace:valhalla,model_dependency,hf_linked_model,valhalla/t5-small-qg-prepend,hub_metadata,high,T5/FLAN-T5,missing,unmapped_public_namespace
+Artykun/Ai-Quiz-Generator,Groq,inference_service,package,groq,backend/requirements.txt,high,,not_applicable,package
+Artykun/Ai-Quiz-Generator,Groq,inference_service,code_signature,groq_sdk,backend/main.py,high,,not_applicable,code_signature
+arumugam-rockstar/Myfirst-AITutor,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+arumugam-rockstar/Myfirst-AITutor,Alibaba,model_dependency,hf_linked_model,Qwen/Qwen2.5-7B-Instruct,hub_metadata,high,Qwen,apache-2.0,base_model_namespace
+asad9641/AI-Study-Assistant-Ragbase,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+asad9641/AI-Study-Assistant-Ragbase,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+asad9641/AI-Study-Assistant-Ragbase,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+Ashwand5/AI_Educational_Assistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+Ashwand5/AI_Educational_Assistant,Groq,inference_service,code_signature,groq_sdk,src/streamlit_app.py,high,,not_applicable,code_signature
+Ashwand5/AI_Educational_Assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Ashwand5/AI_Educational_Assistant,Alibaba,model_dependency,hf_linked_model,Qwen/Qwen3-32B,hub_metadata,high,Qwen,apache-2.0,model_namespace
+Ashwand5/AI_Educational_Assistant,Meta,model_dependency,hf_linked_model,meta-llama/Llama-4-Maverick-17B-128E-Instruct,hub_metadata,high,Llama,other,base_model_namespace
+Ashwand5/AI_Educational_Assistant,Meta,model_dependency,hf_linked_model,meta-llama/Llama-4-Scout-17B-16E-Instruct,hub_metadata,high,Llama,other,base_model_namespace
+Ashwand5/AI_Educational_Assistant,Meta,model_dependency,hf_linked_model,meta-llama/Llama-Guard-4-12B,hub_metadata,high,Llama,other,model_namespace
+Ashwand5/AI_Educational_Assistant,Moonshot AI,model_dependency,hf_linked_model,moonshotai/Kimi-K2-Instruct,hub_metadata,high,Kimi,other,model_namespace
+Ashwand5/AI_Educational_Assistant,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-120b,hub_metadata,high,gpt,apache-2.0,model_namespace
+Ashwand5/AI_Educational_Assistant,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-20b,hub_metadata,high,gpt,apache-2.0,model_namespace
+Asif1karim/Study_Assistant,Google,inference_service,code_signature,gemini_sdk,rag.py,high,,not_applicable,code_signature
+Asif1karim/Study_Assistant,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+Asif1karim/Study_Assistant,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+Asif1karim/Study_Assistant,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+aviatrix/Ai_Powered_Study_Assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+aviatrix/Ai_Powered_Study_Assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Axiosingular/ai-tutor,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+Axiosingular/ai-tutor,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+Axiosingular/ai-tutor,Alibaba,model_dependency,hf_linked_model,Qwen/Qwen2.5-7B-Instruct,hub_metadata,high,Qwen,apache-2.0,base_model_namespace
+ay3shaa/ai-study-assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+ay3shaa/ai-study-assistant,User-managed runtime,local_runtime,code_signature,transformers_runtime,llm.py,high,,not_applicable,code_signature
+ay3shaa/ai-study-assistant,Mistral AI,model_dependency,hf_linked_model,mistralai/Mistral-7B-Instruct-v0.1,hub_metadata,high,Mistral/Mixtral,apache-2.0,base_model_namespace
+AyeshaMasood/quiz-generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+AyeshaMasood/quiz-generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+AyeshaMasood/quiz-generator,namespace:google-t5,model_dependency,hf_linked_model,google-t5/t5-small,hub_metadata,high,T5/FLAN-T5,apache-2.0,unmapped_public_namespace
+ayudellastuti/rag-quiz-generator,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+ayudellastuti/rag-quiz-generator,Hugging Face,inference_service,code_signature,hf_inference,modules/generator.py,high,,not_applicable,code_signature
+ayudellastuti/rag-quiz-generator,Alibaba,model_dependency,hf_linked_model,Qwen/Qwen2.5-7B-Instruct,hub_metadata,high,Qwen,apache-2.0,base_model_namespace
+ayudellastuti/rag-quiz-generator,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+ayushsainime/socratic_maths_tutor.ai,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+BadaPoojitha/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+BadaPoojitha/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Bahauddin01/language-tutor-ai,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+Bahauddin01/language-tutor-ai,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+Bahauddin01/language-tutor-ai,Mistral AI,model_dependency,hf_linked_model,mistralai/Mistral-7B-Instruct-v0.3,hub_metadata,high,Mistral/Mixtral,apache-2.0,base_model_namespace
+Belliar666/english-tutor-chatbot,OpenRouter,inference_service,code_signature,openrouter_endpoint,app.py,high,,not_applicable,code_signature
+Belliar666/english-tutor-chatbot,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Belliar666/english-tutor-chatbot,namespace:deepseek,model_dependency,code_model_id,deepseek/deepseek-chat-v3.1:free,selected_source_files,medium,DeepSeek,missing,unmapped_public_namespace
+Bhargavi-31/Ai_tutor,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+bhaskarreddy2006/my-study-assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+bhaskarreddy2006/my-study-assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Bhuvana908/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Bhuvana908/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+bielik-chatbot-devteam/english_tutor_bielik_ai,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+bielik-chatbot-devteam/english_tutor_bielik_ai,namespace:bielik-chatbot-devteam,model_dependency,code_model_id,bielik-chatbot-devteam/english-tutor-logs,selected_source_files,medium,english,missing,unmapped_public_namespace
+bielik-chatbot-devteam/english_tutor_bielik_ai,namespace:speakleash,model_dependency,hf_linked_model,speakleash/Bielik-7B-Instruct-v0.1-GGUF,hub_metadata,high,Bielik,cc-by-nc-4.0,unmapped_public_namespace
+bimboawo2026/AI-Tutor,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+bobo0000/PDF-Quiz-Generator,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+bobo0000/PDF-Quiz-Generator,Google,inference_service,code_signature,gemini_sdk,app_old.py,high,,not_applicable,code_signature
+bobo0000/PDF-Quiz-Generator,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Boyston/reachy_mini_language_tutor,Hugging Face,hub_sdk,package,huggingface-hub,pyproject.toml,high,,not_applicable,package
+Boyston/reachy_mini_language_tutor,OpenAI,inference_service,code_signature,openai_official,index.html,high,,not_applicable,code_signature
+Boyston/reachy_mini_language_tutor,OpenAI,inference_service,code_signature,openai_official,reachy_mini_language_tutor/config.py,high,,not_applicable,code_signature
+Boyston/reachy_mini_language_tutor,OpenAI,inference_service,code_signature,openai_official,reachy_mini_language_tutor/console.py,high,,not_applicable,code_signature
+Boyston/reachy_mini_language_tutor,OpenAI,inference_service,configuration_signature,openai_official,.env.example,medium,,not_applicable,configuration_signature
+Boyston/reachy_mini_language_tutor,namespace:AdamCodd,model_dependency,hf_linked_model,AdamCodd/YOLOv11n-face-detection,hub_metadata,high,YOLO11,apache-2.0,unmapped_public_namespace
+Boyston/reachy_mini_language_tutor,namespace:HuggingFaceTB,model_dependency,hf_linked_model,HuggingFaceTB/SmolVLM2-2.2B-Instruct,hub_metadata,high,SmolVLM,apache-2.0,unmapped_public_namespace
+brcew/ai-engineering-tutor,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+brcew/ai-engineering-tutor,Groq,inference_service,code_signature,groq_sdk,ai_engineering_tutor.py,high,,not_applicable,code_signature
+brcew/ai-engineering-tutor,Groq,inference_service,code_signature,groq_sdk,index.html,high,,not_applicable,code_signature
+brcew/ai-engineering-tutor,Groq,inference_service,code_signature,groq_sdk,server.js,high,,not_applicable,code_signature
+brcew/ai-engineering-tutor,Groq,inference_service,code_signature,groq_sdk,sw.js,high,,not_applicable,code_signature
+brcew/ai-engineering-tutor,Groq,inference_service,configuration_signature,groq_sdk,.env.example,medium,,not_applicable,configuration_signature
+BRH-Burhanudin/kimia-ai-tutor,Google,inference_service,code_signature,gemini_sdk,extract_soal.py,high,,not_applicable,code_signature
+BRH-Burhanudin/kimia-ai-tutor,Google,inference_service,code_signature,gemini_sdk,generate_hints.py,high,,not_applicable,code_signature
+BRH-Burhanudin/kimia-ai-tutor,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+BRH-Burhanudin/kimia-ai-tutor,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+BRH-Burhanudin/kimia-ai-tutor,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+BRH-Burhanudin/kimia-ai-tutor,namespace:models,model_dependency,code_model_id,models/gemini-3.1-flash-lite,selected_source_files,medium,gemini,missing,unmapped_public_namespace
+Brisha124/AI_TUTOR,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+build-small-hackathon/tutordesk-ai,Cohere,inference_service,package,cohere,requirements.txt,high,,not_applicable,package
+build-small-hackathon/tutordesk-ai,Cohere,inference_service,configuration_signature,cohere_sdk,.env.example,medium,,not_applicable,configuration_signature
+build-small-hackathon/tutordesk-ai,User-managed runtime,local_runtime,package,llama-cpp-python,requirements-local.txt,high,,not_applicable,package
+build-small-hackathon/tutordesk-ai,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+build-small-hackathon/tutordesk-ai,Alibaba,model_dependency,hf_linked_model,naazimsnh02/tutordesk-qwen3-4b,hub_metadata,high,Qwen,apache-2.0,base_model_namespace
+build-small-hackathon/tutordesk-ai,Alibaba,model_dependency,hf_linked_model,Qwen/Qwen3-4B,hub_metadata,high,Qwen,apache-2.0,base_model_namespace
+build-small-hackathon/tutordesk-ai,Alibaba,model_dependency,hf_linked_model,Qwen/Qwen3-4B-GGUF,hub_metadata,high,Qwen,apache-2.0,base_model_namespace
+build-small-hackathon/tutordesk-ai,Black Forest Labs,model_dependency,hf_linked_model,black-forest-labs/FLUX.1-schnell,hub_metadata,high,FLUX.1,apache-2.0,model_namespace
+build-small-hackathon/tutordesk-ai,namespace:CohereLabs,model_dependency,hf_linked_model,CohereLabs/tiny-aya-fire,hub_metadata,high,tiny,cc-by-nc-4.0,unmapped_public_namespace
+build-small-hackathon/tutordesk-ai,namespace:openbmb,model_dependency,hf_linked_model,openbmb/MiniCPM-V-4.6,hub_metadata,high,MiniCPM,apache-2.0,unmapped_public_namespace
+build-small-hackathon/tutordesk-ai,namespace:openbmb,model_dependency,hf_linked_model,openbmb/MiniCPM-V-4_5,hub_metadata,high,MiniCPM,apache-2.0,unmapped_public_namespace
+BUNNY95R/AI_study_assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+BUNNY95R/AI_study_assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+chandanareddy1234/AITutor,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+ChandiniSiri/AI_TUTOR,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+ChandiniSiri/AI_TUTOR,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+chandrakireeti/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+chandrakireeti/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+chapeljj/PISA-Teaching-Assistant-Chatbot,Google,inference_service,code_signature,gemini_sdk,app-v2.py,high,,not_applicable,code_signature
+chapeljj/PISA-Teaching-Assistant-Chatbot,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Charan-27-10/AI_TUTOR,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+cheriftassii/my-ai-tutor,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+cheriftassii/my-ai-tutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+Chidvilash3/socratic-tutor,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+Chidvilash3/socratic-tutor,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+chsubhasis/AI_Tutor,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+chsubhasis/AI_Tutor,Mistral AI,model_dependency,hf_linked_model,HuggingFaceH4/zephyr-7b-beta,hub_metadata,high,Mistral/Mixtral,mit,base_model_namespace
+chsubhasis/AI_Tutor,namespace:mixedbread-ai,model_dependency,hf_linked_model,mixedbread-ai/mxbai-embed-large-v1,hub_metadata,high,mxbai,apache-2.0,unmapped_public_namespace
+cipher2150/Study-Assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+cipher2150/Study-Assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+clugg25/cluggos-ai-quiz-generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+clugg25/cluggos-ai-quiz-generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+clugg25/cluggos-ai-quiz-generator,Google,model_dependency,hf_linked_model,google/flan-t5-base,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+CodeDiva42/study-assistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+CodeDiva42/study-assistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+codewithchaitanya15/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+codewithchaitanya15/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+cosmoEagle/DSA-Teaching-Assistant,Google,inference_service,code_signature,gemini_sdk,agents/teaching_assistant.py,high,,not_applicable,code_signature
+cosmoEagle/DSA-Teaching-Assistant,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+crystallizedcrust/quiz-generator,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+CT-AITUTOR/AITUTOR,Amazon Web Services,cloud_sdk,package,boto3,requirements.txt,high,,not_applicable,package
+CT-AITUTOR/AITUTOR,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+curalearning/lesson_plan_generator,Google,inference_service,code_signature,gemini_sdk,src/gpt_method.py,high,,not_applicable,code_signature
+curalearning/lesson_plan_generator,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+Cyfer-ap/AI-Coding-Tutor,Hugging Face,inference_service,code_signature,hf_inference,backend/debug_hf_api.py,high,,not_applicable,code_signature
+Cyfer-ap/AI-Coding-Tutor,Alibaba,model_dependency,hf_linked_model,Qwen/Qwen3-235B-A22B,hub_metadata,high,Qwen,apache-2.0,model_namespace
+Cyfer-ap/AI-Coding-Tutor,Google,model_dependency,hf_linked_model,google/gemma-3-27b-it,hub_metadata,high,Gemma,gemma,base_model_namespace
+Cyfer-ap/AI-Coding-Tutor,namespace:Salesforce,model_dependency,hf_linked_model,Salesforce/codegen-350M-mono,hub_metadata,high,codegen,bsd-3-clause,unmapped_public_namespace
+DakshSadotra/my-study-assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+DakshSadotra/my-study-assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+danielspba/Chatbot-Tutor-IA,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+danielspba/Chatbot-Tutor-IA,OpenRouter,inference_service,code_signature,openrouter_endpoint,app.py,high,,not_applicable,code_signature
+danielspba/Chatbot-Tutor-IA,Mistral AI,model_dependency,code_model_id,mistralai/mistral-7b-instruct:free,selected_source_files,medium,Mistral/Mixtral,missing,model_namespace
+danielspba/Chatbot_prof_tutor,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+danielspba/Chatbot_prof_tutor,OpenRouter,inference_service,code_signature,openrouter_endpoint,app.py,high,,not_applicable,code_signature
+danielspba/Chatbot_prof_tutor,namespace:deepseek,model_dependency,code_model_id,deepseek/deepseek-r1:free,selected_source_files,medium,DeepSeek,missing,unmapped_public_namespace
+Danny2311/Quiz-Generator,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Danny2311/Quiz-Generator,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Danny2311/Quiz-Generator,namespace:models,model_dependency,code_model_id,models/gemini-2.5-flash,selected_source_files,medium,gemini,missing,unmapped_public_namespace
+danrdoran/ai_tutor_flan_base,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+danrdoran/ai_tutor_flan_base,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+danrdoran/ai_tutor_flan_base,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+danrdoran/ai_tutor_flan_base,Google,model_dependency,hf_linked_model,google/flan-t5-base,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+danrdoran/ai_tutor_flan_t5_large,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+danrdoran/ai_tutor_flan_t5_large,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+danrdoran/ai_tutor_flan_t5_large,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+danrdoran/ai_tutor_flan_t5_large,Google,model_dependency,hf_linked_model,google/flan-t5-large,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+danrdoran/ai_tutor_gpt_neox,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+danrdoran/ai_tutor_gpt_neox,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+danrdoran/ai_tutor_gpt_neox,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+danrdoran/ai_tutor_gpt_neox,EleutherAI,model_dependency,hf_linked_model,EleutherAI/gpt-neox-20b,hub_metadata,high,gpt,apache-2.0,model_namespace
+danrdoran/ai_tutor_llama,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+danrdoran/ai_tutor_llama,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+danrdoran/ai_tutor_llama,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+danrdoran/ai_tutor_llama,Meta,model_dependency,hf_linked_model,meta-llama/Llama-3.2-1B,hub_metadata,high,Llama,llama3.2,model_namespace
+danrdoran/ai_tutor_v2,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+danrdoran/ai_tutor_v2,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+danrdoran/ai_tutor_v2,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+danrdoran/ai_tutor_v2,namespace:danrdoran,model_dependency,hf_linked_model,danrdoran/flan-t5-simplified-squad,hub_metadata,high,T5/FLAN-T5,missing,unmapped_public_namespace
+DataRebels/chatbot_language_tutor,User-managed runtime,local_runtime,package,ollama,requirements.txt,high,,not_applicable,package
+DataRebels/chatbot_language_tutor,User-managed runtime,local_runtime,code_signature,ollama_runtime,experiments/autogen_hooks.py,high,,not_applicable,code_signature
+DataRebels/chatbot_language_tutor,User-managed runtime,local_runtime,code_signature,ollama_runtime,stream_app.py,high,,not_applicable,code_signature
+david280010195/Teaching_Assistant_AI,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+david280010195/Teaching_Assistant_AI,OpenAI,inference_service,code_signature,openai_official,config.py,high,,not_applicable,code_signature
+david280010195/Teaching_Assistant_AI,OpenAI,inference_service,code_signature,openai_official,models.py,high,,not_applicable,code_signature
+deepang1902/quiz-generator-api,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+deepang1902/quiz-generator-api,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+deepang1902/quiz-generator-api,namespace:valhalla,model_dependency,hf_linked_model,valhalla/t5-base-e2e-qg,hub_metadata,high,T5/FLAN-T5,mit,unmapped_public_namespace
+DeepLearningAI/quiz-generator-v3,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+DeepLearningAI/quiz-generator-v3,OpenAI,inference_service,code_signature,openai_official,learning_objective_generator/generator.py,high,,not_applicable,code_signature
+deepthi8518/StudyAssistantApp,OpenAI,inference_service,code_signature,openai_official,studyassistant_quiz_question.py,high,,not_applicable,code_signature
+deneve07/pharma-quiz-generator,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+deneve07/pharma-quiz-generator,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+dhanushshenoyh/study_assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+dhanushshenoyh/study_assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+DheerajKausik/RAG_BASED_AI_TEACHING_ASSISTANT,User-managed runtime,local_runtime,package,ollama,requirements.txt,high,,not_applicable,package
+DheerajKausik/RAG_BASED_AI_TEACHING_ASSISTANT,User-managed runtime,local_runtime,code_signature,ollama_runtime,rag_pipeline.py,high,,not_applicable,code_signature
+dhivakar/my-study-assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+dhivakar/my-study-assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Diid12rt/AITUTOR,OpenAI,inference_service,code_signature,openai_official,utils/ai_helper.py,high,,not_applicable,code_signature
+dikshita0503/pdf-to-quiz-generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+dikshita0503/pdf-to-quiz-generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,src/processor.py,high,,not_applicable,code_signature
+dikshita0503/pdf-to-quiz-generator,namespace:mrm8488,model_dependency,hf_linked_model,mrm8488/t5-base-finetuned-question-generation-ap,hub_metadata,high,T5/FLAN-T5,apache-2.0,unmapped_public_namespace
+dineshstark7/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+dineshstark7/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+dineshstark7/StudyAssistant,OpenRouter,inference_service,code_signature,openrouter_endpoint,app.py,high,,not_applicable,code_signature
+dineshstark7/StudyAssistant,Google,model_dependency,code_model_id,google/gemini-2.5-pro,selected_source_files,medium,gemini,missing,model_namespace
+dinu143/Study-Assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+dinu143/Study-Assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+DipakBundheliya/flask_ai_tutor,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+DipakBundheliya/flask_ai_tutor,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+djaber15/ai_tutor,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+DoctorHolly/BIO_Tutor_Chatbot,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+doudoug1/educational-chatbot,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+doudoug1/educational-chatbot,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+DroolingPanda/teachingAssistant,User-managed runtime,local_runtime,package,transformers,pyproject.toml,high,,not_applicable,package
+DroolingPanda/teachingAssistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+DroolingPanda/teachingAssistant,namespace:facebook,model_dependency,hf_linked_model,facebook/nllb-200-3.3B,hub_metadata,high,nllb,cc-by-nc-4.0,unmapped_public_namespace
+echarif/education_chatbot,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+echarif/education_chatbot,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+echarif/education_chatbot,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+echarif/education_chatbot,Meta,model_dependency,hf_linked_model,echarif/lora_adapter_llama3.2_1B,hub_metadata,high,Llama,other,base_model_namespace
+echarif/education_chatbot,Meta,model_dependency,hf_linked_model,meta-llama/Llama-3.2-1B-Instruct,hub_metadata,high,Llama,llama3.2,model_namespace
+educationAI/education-ai-study-assistant,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+educationAI/education-ai-study-assistant,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-20b,hub_metadata,high,gpt,apache-2.0,model_namespace
+Ehtisham-84/Study-Assistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+ekantabanik/Tutor_Ai,Groq,inference_service,code_signature,groq_sdk,agents/agents.py,high,,not_applicable,code_signature
+ekerin/german-tutor-chatbot,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+ekerin/german-tutor-chatbot,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-20b,hub_metadata,high,gpt,apache-2.0,model_namespace
+ekerin/german-tutor-chatbot-v2,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+ekerin/german-tutor-chatbot-v2,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+ekerin/german-tutor-chatbot-v2,Mistral AI,model_dependency,hf_linked_model,mistralai/Mistral-7B-Instruct-v0.2,hub_metadata,high,Mistral/Mixtral,apache-2.0,model_namespace
+ekerin/german-tutor-chatbot-v2,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+elsi29/Quiz-Generator-NLP,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+elsi29/Quiz-Generator-NLP,BAAI,model_dependency,hf_linked_model,BAAI/bge-m3,hub_metadata,high,bge,mit,model_namespace
+elsi29/Quiz-Generator-NLP,Meta,model_dependency,hf_linked_model,meta-llama/Meta-Llama-3-8B-Instruct,hub_metadata,high,Llama,llama3,model_namespace
+elsi29/Quiz-Generator-TextPy,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+elsi29/Quiz-Generator-TextPy,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+elsi29/Quiz-Generator-TextPy,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+emanramadan/Tutor_Chatbot,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+emanramadan/Tutor_Chatbot,Google,inference_service,code_signature,gemini_sdk,webapp.py,high,,not_applicable,code_signature
+emanramadan/Tutor_Chatbot,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+emanramadan/Tutor_Chatbot,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+emanramadan/Tutor_Chatbot_,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+emanramadan/Tutor_Chatbot_,Google,inference_service,code_signature,gemini_sdk,webapp.py,high,,not_applicable,code_signature
+emanramadan/Tutor_Chatbot_,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+emanramadan/Tutor_Chatbot_,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+emashahzad/StudyAssistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+emashahzad/StudyAssistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+engrsalman/Educational-AI-Chatbot,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+engrsalman/Educational-AI-Chatbot,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+eoinmcg/ai_tutor,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+eoinmcg/ai_tutor,namespace:jaiganesan,model_dependency,code_model_id,jaiganesan/ai_tutor_knowledge_vector_Store,selected_source_files,medium,ai,missing,unmapped_public_namespace
+fabeha-raheel/ai_study_assistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+fabeha-raheel/ai_study_assistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+fahadsiddiqui337/AI-education-chatbot,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+fahadsiddiqui337/AI-education-chatbot,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+Faiz3399/Ai-tutor-assistant,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+Faiz3399/Ai-tutor-assistant,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+Faiz3399/Ai-tutor-assistant,Mistral AI,model_dependency,hf_linked_model,HuggingFaceH4/zephyr-7b-beta,hub_metadata,high,Mistral/Mixtral,mit,base_model_namespace
+Fatma033/Educational-Chatbot,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+fatymah12/AI_Quiz_Generator,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+fatymah12/AI_Quiz_Generator,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Felrose/trisem-lesson-plan-generator,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Felrose/trisem-lesson-plan-generator,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+Felrose/trisem-lesson-plan-generator-ENGLISH-LINK2,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Felrose/trisem-lesson-plan-generator-ENGLISH-LINK2,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+firobeid/AI_Tutor,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+fizailyas783/smart-study-assistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+fizailyas783/smart-study-assistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+flexfitfury9/ai-educational-platform,Hugging Face,hub_sdk,package,huggingface-hub,requirements_hf.txt,high,,not_applicable,package
+flexfitfury9/ai-educational-platform,OpenRouter,inference_service,code_signature,openrouter_endpoint,config.py,high,,not_applicable,code_signature
+flexfitfury9/Ai_educational_platform,Hugging Face,hub_sdk,package,huggingface-hub,Advanced_Face_Recognition_Atttendence/requirements_hf.txt,high,,not_applicable,package
+flexfitfury9/Ai_educational_platform,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+flexfitfury9/Ai_educational_platform,Hugging Face,hub_sdk,package,huggingface-hub,requirements_fixed.txt,high,,not_applicable,package
+flexfitfury9/Ai_educational_platform,OpenRouter,inference_service,code_signature,openrouter_endpoint,app_huggingface.py,high,,not_applicable,code_signature
+flexfitfury9/Ai_educational_platform,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+flexfitfury9/Ai_educational_platform,User-managed runtime,local_runtime,package,transformers,requirements_fixed.txt,high,,not_applicable,package
+flexfitfury9/Ai_educational_platform,Meta,model_dependency,hf_linked_model,meta-llama/Llama-3.2-11B-Vision-Instruct,hub_metadata,high,Llama,llama3.2,model_namespace
+forWard666/AL_TEACHING_ASSISTANT,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+forWard666/AL_TEACHING_ASSISTANT,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+forWard666/AL_TEACHING_ASSISTANT,Mistral AI,model_dependency,hf_linked_model,HuggingFaceH4/zephyr-7b-beta,hub_metadata,high,Mistral/Mixtral,mit,base_model_namespace
+forwebdevelopmentuse/quiz-ai-generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+forwebdevelopmentuse/quiz-ai-generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+forwebdevelopmentuse/quiz-ai-generator,Mistral AI,model_dependency,hf_linked_model,mistralai/Mistral-7B-Instruct-v0.2,hub_metadata,high,Mistral/Mixtral,apache-2.0,model_namespace
+forwebdevelopmentuse/quiz-ai-generator,TII,model_dependency,hf_linked_model,tiiuae/falcon-7b-instruct,hub_metadata,high,Falcon,apache-2.0,model_namespace
+gaurav9821/AI-language-Tutor,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+gaurav9821/AI-language-Tutor,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+gaurav9821/AI-language-Tutor,Google,model_dependency,hf_linked_model,google/flan-t5-base,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+geekaijosh/Agent_AI_Tutor,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+Gimgaru/finalproject_aitutor,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+gneya/educational_chatbot,Cohere,inference_service,package,cohere,requirements.txt,high,,not_applicable,package
+gneya/educational_chatbot,Groq,inference_service,code_signature,groq_sdk,utils.py,high,,not_applicable,code_signature
+gobikrishna87/TechBytz-AI-Tutor,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+gobikrishna87/TechBytz-AI-Tutor,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+gobikrishna87/TechBytz-AI-Tutor,namespace:openai-community,model_dependency,hf_linked_model,openai-community/gpt2,hub_metadata,high,gpt2,mit,unmapped_public_namespace
+GoIpKrIsHnA/studyAssistantAI,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+GoIpKrIsHnA/studyAssistantAI,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+google/rad_learning_companion,User-managed runtime,local_runtime,package,transformers,backend/requirements.txt,high,,not_applicable,package
+gopichand55k/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+gopichand55k/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+gouravbathla/Language_Tutor,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+gouravbathla/Language_Tutor,OpenAI,inference_service,code_signature,openai_official,grammar_evaluator_agent.py,high,,not_applicable,code_signature
+gouravbathla/Language_Tutor,OpenAI,inference_service,code_signature,openai_official,grammar_mcq_agent.py,high,,not_applicable,code_signature
+gr3g0r-i/quiz-generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+gr3g0r-i/quiz-generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+gr3g0r-i/quiz-generator,EleutherAI,model_dependency,hf_linked_model,EleutherAI/gpt-neo-1.3B,hub_metadata,high,gpt,mit,model_namespace
+gr3g0r-i/quiz-generator,namespace:distilbert,model_dependency,hf_linked_model,distilbert/distilgpt2,hub_metadata,high,distilgpt2,apache-2.0,unmapped_public_namespace
+gr3g0r-i/quiz-generator,namespace:openai-community,model_dependency,hf_linked_model,openai-community/gpt2-large,hub_metadata,high,gpt2,mit,unmapped_public_namespace
+gr3g0r-i/quiz-generator,namespace:openai-community,model_dependency,hf_linked_model,openai-community/gpt2-medium,hub_metadata,high,gpt2,mit,unmapped_public_namespace
+guddolla/ai.tutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+guddolla/ai.tutor,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+guddolla/AI_TUTOR,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+guddolla/AI_TUTOR,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+habiba-elshrkawy/quiz-generator,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+habiba-elshrkawy/quiz-generator,Groq,inference_service,code_signature,groq_sdk,Quiz.py,high,,not_applicable,code_signature
+hackmisty123/hack-misty-ai-tutor,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Hafeezaqsa01/Quiz_generator,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+Hafsah-Fatima/Programming_Tutor_Chatbot,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Hafsah-Fatima/Programming_Tutor_Chatbot_0.2,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+haiderijaz/mock-quiz-generator,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+haiderijaz/mock-quiz-generator,Groq,inference_service,code_signature,groq_sdk,quiz_generator.py,high,,not_applicable,code_signature
+Hardik2704/Teaching_Assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Hardik2704/Teaching_Assistant,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+Hareesh221/30-day-course-generator,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Hareesh221/30-day-course-generator,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+harika-donthula/my-study-assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+harika-donthula/my-study-assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Harika06/AI_TUTOR,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Harika06/AI_TUTOR,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+harikagajjala/AI_TUTOR,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Hariprasaadh/QuizGenerator,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+HarryPotter1o1/Study_Assistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+HarryPotter1o1/Study_Assistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+harsha17v/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+harsha17v/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Harsha855/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Harsha855/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+harshj0506/teachingAssistant,Together AI,inference_service,code_signature,together_sdk,app.py,high,,not_applicable,code_signature
+harshu07/ai_tutor,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+harshu07/ai_tutor,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+harshu07/ai_tutor,Mistral AI,model_dependency,hf_linked_model,HuggingFaceH4/zephyr-7b-beta,hub_metadata,high,Mistral/Mixtral,mit,base_model_namespace
+hasithmutha/quiz-generator-ai,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+hasithmutha/quiz-generator-ai,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+hasithmutha/quiz-generator-ai,Mistral AI,model_dependency,hf_linked_model,HuggingFaceH4/zephyr-7b-beta,hub_metadata,high,Mistral/Mixtral,mit,base_model_namespace
+HemanthRaj/Socratic-AI-Tutor-Model,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+HemanthRaj/Socratic-AI-Tutor-Model,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+HemanthRaj/Socratic-AI-Tutor-Model,Mistral AI,model_dependency,hf_linked_model,mistralai/Mistral-7B-Instruct-v0.3,hub_metadata,high,Mistral/Mixtral,apache-2.0,base_model_namespace
+HemanthRaj/socratic-tutor-embedder,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+HemanthRaj/socratic-tutor-embedder,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+HumeraAI/lesson-plan-generator,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+HumeraAI/lesson-plan-generator,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+HumeraAI/quiz-generator-from-PDF,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+HumeraAI/quiz-generator-from-PDF,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+HumeraAI/quiz-generator-from-PDF,Google,model_dependency,hf_linked_model,google/flan-t5-base,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+hussainzaidi/AI-Teaching-Assistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+hussainzaidi/AI-Teaching-Assistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+husseinhug321/Study-Buddy-AI-Learning-Assistant,namespace:HuggingFaceTB,model_dependency,hf_linked_model,HuggingFaceTB/SmolLM-135M-Instruct,hub_metadata,high,SmolLM,apache-2.0,unmapped_public_namespace
+hyder-ali/ai_tutor,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+hyder-ali/ai_tutor,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+iamyash222/studyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+iamyash222/studyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+ifaundezf/estudiapp-quiz-generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+ifaundezf/estudiapp-quiz-generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+ifaundezf/estudiapp-quiz-generator,namespace:lmqg,model_dependency,hf_linked_model,lmqg/mt5-small-esquad-qg,hub_metadata,high,mt5,cc-by-4.0,unmapped_public_namespace
+iju123/Quiz_Generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+ilangs/AI_Math_Tutor,OpenAI,inference_service,code_signature,openai_official,RAG_sys/csv_refiner.py,high,,not_applicable,code_signature
+ilangs/AI_Math_Tutor,OpenAI,inference_service,code_signature,openai_official,RAG_sys/rag_helper.py,high,,not_applicable,code_signature
+ilsa15/educational_chatbot,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Imsachinsingh00/education_chatbot,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+Imsachinsingh00/education_chatbot,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+Imsachinsingh00/education_chatbot,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Imsachinsingh00/education_chatbot,DeepSeek,model_dependency,hf_linked_model,deepseek-ai/DeepSeek-R1,hub_metadata,high,DeepSeek,mit,model_namespace
+ishanmm0410/rag-quiz-generator,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+ishanmm0410/rag-quiz-generator,Groq,inference_service,code_signature,groq_sdk,quiz_generator.py,high,,not_applicable,code_signature
+isreyas/Study_Assistant,Google,inference_service,code_signature,gemini_sdk,study.py,high,,not_applicable,code_signature
+itsh4r01/AI-Quiz-Generator,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+itsh4r01/AI-Quiz-Generator,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+itsh4r01/AI-Quiz-Generator,Meta,model_dependency,hf_linked_model,meta-llama/Meta-Llama-3-8B-Instruct,hub_metadata,high,Llama,llama3,model_namespace
+Jainish210705/Quiz_Generator,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+Jainish210705/Quiz_Generator,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+jakeeeeeeee/my-study-assistant,Google,inference_service,code_signature,gemini_sdk,app (1).py,high,,not_applicable,code_signature
+jakeeeeeeee/my-study-assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+jakeeeeeeee/my-study-assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Janakimeena/RAG-Base-Educational-Chatbot,Google,inference_service,code_signature,gemini_sdk,chat_faiss.py,high,,not_applicable,code_signature
+Janakimeena/RAG-Base-Educational-Chatbot,Google,inference_service,code_signature,gemini_sdk,rag_fastapi_gui.py,high,,not_applicable,code_signature
+Janakimeena/RAG-Base-Educational-Chatbot,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+Janakimeena/RAG-Base-Educational-Chatbot,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+Jangasathwika/ai.tutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+Jangasathwika/ai.tutor,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+Jangasathwika/aitutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+Jangasathwika/aitutor,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+Jayadityasahu/my-study-assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Jayadityasahu/my-study-assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+jayeshjachak/Study_Assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+jayeshjachak/Study_Assistant,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+jayeshjachak/Study_Assistant,Google,model_dependency,hf_linked_model,google/flan-t5-small,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+jayeshjachak/Study_Assistant,namespace:sshleifer,model_dependency,hf_linked_model,sshleifer/distilbart-cnn-12-6,hub_metadata,high,distilbart,apache-2.0,unmapped_public_namespace
+jdbolter/language-tutor,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+jdbolter/language-tutor,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+jee-ai-tutor/jee-ai-tutor-app,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+jee-ai-tutor/jee-ai-tutor-app,DeepSeek,model_dependency,hf_linked_model,deepseek-ai/DeepSeek-R1,hub_metadata,high,DeepSeek,mit,model_namespace
+jenny-yuu/english-teaching-assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+jenny-yuu/english-teaching-assistant,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+jenny-yuu/english-teaching-assistant,Google,model_dependency,hf_linked_model,google/flan-t5-base,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+jenny-yuu/english-teaching-assistant,Google,model_dependency,hf_linked_model,google/flan-t5-small,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+jenny-yuu/english-teaching-assistant,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+jenny-yuu/english-teaching-assistant,namespace:sshleifer,model_dependency,hf_linked_model,sshleifer/distilbart-cnn-12-6,hub_metadata,high,distilbart,apache-2.0,unmapped_public_namespace
+jeyabala2905/12th-biology-ai-tutor,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+jeyabala2905/12th-biology-ai-tutor,Alibaba,model_dependency,hf_linked_model,Qwen/Qwen2.5-VL-7B-Instruct,hub_metadata,high,Qwen,apache-2.0,model_namespace
+jimmyyzz/Quiz_Generator,Anthropic,inference_service,code_signature,anthropic_import,app/config.py,high,,not_applicable,code_signature
+jimmyyzz/Quiz_Generator,Groq,inference_service,code_signature,groq_sdk,app/config.py,high,,not_applicable,code_signature
+jimmyyzz/Quiz_Generator,User-managed runtime,local_runtime,code_signature,ollama_runtime,app/config.py,high,,not_applicable,code_signature
+jlazoflores/Language_Tutor,Google,inference_service,code_signature,gemini_sdk,language_tutor.py,high,,not_applicable,code_signature
+john-supplychain/cpim-ai-tutor,DeepSeek,inference_service,code_signature,deepseek_endpoint,hybrid_rag.py,high,,not_applicable,code_signature
+jonowrenn/cs-study-assistant,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+Josebert/JR_Quiz_Generator,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+Josebert/JR_Quiz_Generator,Mistral AI,model_dependency,hf_linked_model,mistralai/Mistral-7B-Instruct-v0.3,hub_metadata,high,Mistral/Mixtral,apache-2.0,base_model_namespace
+JPPD/Tutor-fisica-abp-chatbot,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+jsilbersky/AI-language-tutor,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+jsilbersky/AI-language-tutor,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+jsilbersky/AI-language-tutor,namespace:facebook,model_dependency,hf_linked_model,facebook/blenderbot-400M-distill,hub_metadata,high,blenderbot,apache-2.0,unmapped_public_namespace
+JulsdL/AI-Notebook-Tutor,OpenAI,inference_service,code_signature,openai_official,notebook_tutor/document_processing.py,high,,not_applicable,code_signature
+Junaidblr/lesson-plan-generator,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+Junaidblr/lesson-plan-generator,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+jyoti210303/quiz-question-generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+jyoti210303/quiz-question-generator,namespace:openai-community,model_dependency,hf_linked_model,openai-community/gpt2,hub_metadata,high,gpt2,mit,unmapped_public_namespace
+KaifKohari/ai-math-tutor,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+kalai1915/AI-Tutor-Image-Gen,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+kalai1915/AI-Tutor-Image-Gen,namespace:runwayml,model_dependency,hf_linked_model,runwayml/stable-diffusion-v1-5,hub_metadata,high,Stable Diffusion,creativeml-openrail-m,unmapped_public_namespace
+kanagaraj/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+kanagaraj/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Kanharamgurjar/Study_assistant_model,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Kanharamgurjar/Study_assistant_model,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+karibubybsf/ai_tutor,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+karibubybsf/ai_tutor,Hugging Face,inference_service,code_signature,hf_inference,main.py,high,,not_applicable,code_signature
+karibubybsf/ai_tutor,Meta,model_dependency,hf_linked_model,meta-llama/Llama-3.3-70B-Instruct,hub_metadata,high,Llama,llama3.3,base_model_namespace
+karibubybsf/ai_tutor_v2,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+karibubybsf/ai_tutor_v2,Hugging Face,inference_service,code_signature,hf_inference,main.py,high,,not_applicable,code_signature
+karibubybsf/ai_tutor_v2,Meta,model_dependency,hf_linked_model,meta-llama/Llama-3.3-70B-Instruct,hub_metadata,high,Llama,llama3.3,base_model_namespace
+karibubybsf/ai_tutor_v3,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+karibubybsf/ai_tutor_v3,Fireworks AI,inference_service,package,fireworks-ai,requirements.txt,high,,not_applicable,package
+karibubybsf/ai_tutor_v3,Fireworks AI,inference_service,code_signature,fireworks_endpoint,main.py,high,,not_applicable,code_signature
+karibubybsf/ai_tutor_v3,Meta,model_dependency,hf_linked_model,meta-llama/Llama-3.3-70B-Instruct,hub_metadata,high,Llama,llama3.3,base_model_namespace
+Karishma-19/AI-Tutor,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+KashishM/study_assistant,Groq,inference_service,code_signature,groq_sdk,backend/poc_app.py,high,,not_applicable,code_signature
+KashishM/study_assistant,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+KashishM/study_assistant,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-120b,hub_metadata,high,gpt,apache-2.0,model_namespace
+KashTheDev123/Accounting-Tutor-AI,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+KashTheDev123/Accounting-Tutor-AI,Mistral AI,model_dependency,hf_linked_model,mistralai/Mistral-7B-Instruct-v0.2,hub_metadata,high,Mistral/Mixtral,apache-2.0,model_namespace
+kastan/ai-teaching-assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+kastan/ai-teaching-assistant,BigScience,model_dependency,hf_linked_model,bigscience/bloom,hub_metadata,high,BLOOM,bigscience-bloom-rail-1.0,model_namespace
+kastan/ai-teaching-assistant,BigScience,model_dependency,hf_linked_model,bigscience/bloomz,hub_metadata,high,BLOOM,bigscience-bloom-rail-1.0,model_namespace
+kastan/ai-teaching-assistant,EleutherAI,model_dependency,hf_linked_model,EleutherAI/gpt-neox-20b,hub_metadata,high,gpt,apache-2.0,model_namespace
+kastan/ai-teaching-assistant,Google,model_dependency,hf_linked_model,google/flan-t5-xxl,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+kastan/ai-teaching-assistant,Google,model_dependency,hf_linked_model,google/flan-ul2,hub_metadata,high,flan,apache-2.0,model_namespace
+kastan/ai-teaching-assistant,namespace:intfloat,model_dependency,hf_linked_model,intfloat/e5-large,hub_metadata,high,e5,mit,unmapped_public_namespace
+kastan/ai-teaching-assistant,namespace:OpenAssistant,model_dependency,hf_linked_model,OpenAssistant/oasst-sft-1-pythia-12b,hub_metadata,high,oasst,apache-2.0,unmapped_public_namespace
+kastan/ai-teaching-assistant,namespace:togethercomputer,model_dependency,hf_linked_model,togethercomputer/GPT-NeoXT-Chat-Base-20B,hub_metadata,high,GPT,apache-2.0,unmapped_public_namespace
+kastan/ai-teaching-assistant-beta,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+kastan/ai-teaching-assistant-beta,BigScience,model_dependency,hf_linked_model,bigscience/bloom,hub_metadata,high,BLOOM,bigscience-bloom-rail-1.0,model_namespace
+kastan/ai-teaching-assistant-beta,BigScience,model_dependency,hf_linked_model,bigscience/bloomz,hub_metadata,high,BLOOM,bigscience-bloom-rail-1.0,model_namespace
+kastan/ai-teaching-assistant-beta,EleutherAI,model_dependency,hf_linked_model,EleutherAI/gpt-neox-20b,hub_metadata,high,gpt,apache-2.0,model_namespace
+kastan/ai-teaching-assistant-beta,Google,model_dependency,hf_linked_model,google/flan-t5-xxl,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+kastan/ai-teaching-assistant-beta,Google,model_dependency,hf_linked_model,google/flan-ul2,hub_metadata,high,flan,apache-2.0,model_namespace
+kastan/ai-teaching-assistant-beta,namespace:intfloat,model_dependency,hf_linked_model,intfloat/e5-large,hub_metadata,high,e5,mit,unmapped_public_namespace
+kastan/ai-teaching-assistant-beta,namespace:OpenAssistant,model_dependency,hf_linked_model,OpenAssistant/oasst-sft-1-pythia-12b,hub_metadata,high,oasst,apache-2.0,unmapped_public_namespace
+kastan/ai-teaching-assistant-beta,namespace:togethercomputer,model_dependency,hf_linked_model,togethercomputer/GPT-NeoXT-Chat-Base-20B,hub_metadata,high,GPT,apache-2.0,unmapped_public_namespace
+Kaveri2109/rag-teaching-assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Kaveri2109/rag-teaching-assistant,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+Kaveri2109/rag-teaching-assistant,namespace:cross-encoder,model_dependency,code_model_id,cross-encoder/ms-marco-MiniLM-L-6-v2,selected_source_files,medium,ms,apache-2.0,unmapped_public_namespace
+Kaveri2109/rag-teaching-assistant,namespace:cross-encoder,model_dependency,hf_linked_model,cross-encoder/ms-marco-MiniLM-L6-v2,hub_metadata,high,ms,apache-2.0,unmapped_public_namespace
+Kavya-Thakar/ai-teaching-assistant-v2,Google,inference_service,code_signature,gemini_sdk,src/streamlit_app.py,high,,not_applicable,code_signature
+Kavya-Thakar/ai-teaching-assistant-v2,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+kavyasri0821/AI_Converstational_Data_Science_Tutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+kavyasri0821/AI_Converstational_Data_Science_Tutor,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+ke955/smm2-course-generator,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+ke955/smm2-course-generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+ke955/smm2-course-generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+ke955/smm2-course-generator,namespace:ke955,model_dependency,hf_linked_model,ke955/smm2-course-generator,hub_metadata,high,smm2,missing,unmapped_public_namespace
+Keerthana96/bridge_course_generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Keerthana96/bridge_course_generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+Keerthana96/bridge_course_generator,Google,model_dependency,hf_linked_model,google/flan-t5-base,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+khankashif/education_assistant_chatbot,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+khankashif/education_assistant_chatbot,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Khanmx99/Pak-Angels-AI-Tutor,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+Khanmx99/Pak-Angels-AI-Tutor,OpenAI,inference_service,code_signature,openai_official,config.py,high,,not_applicable,code_signature
+Khanmx99/Pak-Angels-AI-Tutor,OpenAI,inference_service,code_signature,openai_official,deploy_to_huggingface.py,high,,not_applicable,code_signature
+Khanmx99/Pak-Angels-AI-Tutor,OpenAI,inference_service,code_signature,openai_official,openai_service.py,high,,not_applicable,code_signature
+Khanmx99/Pak-Angels-AI-Tutor,OpenAI,inference_service,configuration_signature,openai_official,.env.example,medium,,not_applicable,configuration_signature
+KhansaAQureshi/AI_Tutor,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+KhansaAQureshi/AI_Tutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+kinely/Study-Assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+kinely/Study-Assistant,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+kinely/Study-Assistant,Google,model_dependency,hf_linked_model,google/flan-t5-base,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+king011/AI-quiz-generator,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+king011/AI-quiz-generator,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+king011/AI-quiz-generator,Mistral AI,model_dependency,hf_linked_model,HuggingFaceH4/zephyr-7b-beta,hub_metadata,high,Mistral/Mixtral,mit,base_model_namespace
+kodamkarthik281/AI_Conversational_Tutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+kodamkarthik281/AI_Conversational_Tutor,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+kollalekhan/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+kollalekhan/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+kr1shnasharma/academic-tutor-ai,Hugging Face,hub_sdk,package,huggingface-hub,backend/requirements.txt,high,,not_applicable,package
+kr1shnasharma/academic-tutor-ai,Google,inference_service,configuration_signature,gemini_sdk,backend/.env.example,medium,,not_applicable,configuration_signature
+kr1shnasharma/academic-tutor-ai,Groq,inference_service,code_signature,groq_sdk,backend/main.py,high,,not_applicable,code_signature
+kr1shnasharma/academic-tutor-ai,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+kr1shnasharma/swp1-academic-ai-tutor,Groq,inference_service,code_signature,groq_sdk,app/config.py,high,,not_applicable,code_signature
+kr1shnasharma/swp1-academic-ai-tutor,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+krishala/TutorChatbot,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+krishala/TutorChatbot,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+krishala/TutorChatbot,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+Krishna-108/study-assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Krishna-108/study-assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+krishnachaithanya26/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+krishnachaithanya26/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Krishnajha18/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app (3).py,high,,not_applicable,code_signature
+Krishnajha18/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+KSaiManikanta/Ai_Data-Science_Tutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+KSaiManikanta/Ai_Data-Science_Tutor,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+KunalGupta1212/Quiz-generator,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+KunalGupta1212/Quiz-generator,Hugging Face,inference_service,code_signature,hf_inference,hf_quiz_generator.py,high,,not_applicable,code_signature
+KunalGupta1212/Quiz-generator,Google,model_dependency,hf_linked_model,google/flan-t5-large,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+kunalhugface/Football_Tutor_Chatbot,OpenRouter,inference_service,code_signature,openrouter_endpoint,app.py,high,,not_applicable,code_signature
+kunalhugface/Football_Tutor_Chatbot,Google,model_dependency,hf_linked_model,google/gemma-3-27b-it,hub_metadata,high,Gemma,gemma,base_model_namespace
+kunalhugface/Football_Tutor_Chatbot,Meta,model_dependency,hf_linked_model,meta-llama/Llama-3.1-8B-Instruct,hub_metadata,high,Llama,llama3.1,base_model_namespace
+kunalhugface/Football_Tutor_Chatbot,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-20b,hub_metadata,high,gpt,apache-2.0,model_namespace
+kunalhugface/Football_Tutor_Chatbot,OpenAI,model_dependency,code_model_id,openai/gpt-oss-20b:free,selected_source_files,medium,gpt,missing,model_namespace
+kundan857/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+kundan857/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+lekhankolla/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+lekhankolla/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,Groq,inference_service,package,groq,requirements2.txt,high,,not_applicable,package
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,Groq,inference_service,package,groq,requirements_temp.txt,high,,not_applicable,package
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,Groq,inference_service,code_signature,groq_sdk,app3.py,high,,not_applicable,code_signature
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,Groq,inference_service,code_signature,groq_sdk,app_R3.py,high,,not_applicable,code_signature
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,Groq,inference_service,code_signature,groq_sdk,app_temp.py,high,,not_applicable,code_signature
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,User-managed runtime,local_runtime,package,llama-cpp-python,requirements2.txt,high,,not_applicable,package
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,User-managed runtime,local_runtime,package,transformers,requirements2.txt,high,,not_applicable,package
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,User-managed runtime,local_runtime,package,transformers,requirements_temp.txt,high,,not_applicable,package
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,User-managed runtime,local_runtime,code_signature,transformers_runtime,app3.py,high,,not_applicable,code_signature
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,User-managed runtime,local_runtime,code_signature,transformers_runtime,app_R3.py,high,,not_applicable,code_signature
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,User-managed runtime,local_runtime,code_signature,transformers_runtime,app_temp.py,high,,not_applicable,code_signature
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,OpenAI,model_dependency,hf_linked_model,openai/whisper-base.en,hub_metadata,high,Whisper,apache-2.0,model_namespace
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,OpenAI,model_dependency,hf_linked_model,openai/whisper-medium.en,hub_metadata,high,Whisper,apache-2.0,model_namespace
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,OpenAI,model_dependency,hf_linked_model,openai/whisper-small.en,hub_metadata,high,Whisper,apache-2.0,model_namespace
+Lipely/FYP-lesson-plan-generator,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Lipely/FYP-lesson-plan-generator,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+Lipely/FYP-lesson-plan-generator,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+louiecerv/problem_solving_ai_tutor,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+louiecerv/problem_solving_ai_tutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+LoveJesus/biblical-language-tutor-chirho,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+LoveJesus/biblical-language-tutor-chirho,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+LoveJesus/biblical-language-tutor-chirho,namespace:LoveJesus,model_dependency,hf_linked_model,LoveJesus/biblical-parser-chirho,hub_metadata,high,biblical,mit,unmapped_public_namespace
+LSATAdaptiveTutor/chatbot_tutor,Google,inference_service,code_signature,gemini_sdk,pages/llm_tutor.py,high,,not_applicable,code_signature
+LSATAdaptiveTutor/chatbot_tutor,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+lynnnnrz/ai-teaching-assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+lynnnnrz/ai-teaching-assistant,Google,inference_service,code_signature,gemini_sdk,gemini_chatbot.py,high,,not_applicable,code_signature
+lynnnnrz/ai_teaching_assistant,Google,inference_service,code_signature,gemini_sdk,gemini_chatbot.py,high,,not_applicable,code_signature
+Madni2025/MDCAT-AI-TUTOR,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+Madni2025/MDCAT-AI-TUTOR,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Madni2025/MDCAT_AI_TUTOR,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Madni2025/MDCAT_AI_TUTOR,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Madni2025/MDCAT_AI_TUTOR,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+Madni2025/MDCAT_AI_TUTOR,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Madni2025/MDCAT_AI_TUTOR,Alibaba,model_dependency,hf_linked_model,Qwen/Qwen3.6-27B,hub_metadata,high,Qwen,apache-2.0,model_namespace
+Madni2025/MDCAT_AI_TUTOR,Alibaba,model_dependency,code_model_id,qwen/qwen3.6-27b,selected_source_files,medium,Qwen,apache-2.0,model_namespace
+maheshj90/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+maheshj90/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+ManarMagdy6/Professional-Quiz-Generator,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+ManarMagdy6/Professional-Quiz-Generator,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+ManarMagdy6/Professional-Quiz-Generator,Meta,model_dependency,hf_linked_model,meta-llama/Meta-Llama-3-70B-Instruct,hub_metadata,high,Llama,llama3,base_model_namespace
+Mani-krishna/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Mani-krishna/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Manikanta2793/my-study-assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+manojkonathala/educational-rag-chatbot,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+manojkonathala/educational-rag-chatbot,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-20b,hub_metadata,high,gpt,apache-2.0,model_namespace
+Maram-almasary/AI_Study_Assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Maram-almasary/AI_Study_Assistant,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+Maram-almasary/AI_Study_Assistant,namespace:csebuetnlp,model_dependency,hf_linked_model,csebuetnlp/mT5_multilingual_XLSum,hub_metadata,high,mT5,missing,unmapped_public_namespace
+Maram-almasary/AI_Study_Assistant,namespace:valhalla,model_dependency,hf_linked_model,valhalla/t5-small-e2e-qg,hub_metadata,high,T5/FLAN-T5,mit,unmapped_public_namespace
+maria355/Ai_teaching_assistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+maria355/Ai_teaching_assistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+maria355/Quiz-Generator,namespace:3morg,model_dependency,hf_linked_model,3morg/assets,hub_metadata,high,assets,missing,unmapped_public_namespace
+marty331/AI_Tutor,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+marty331/AI_Tutor,namespace:jaiganesan,model_dependency,code_model_id,jaiganesan/ai_tutor_knowledge_vector_Store,selected_source_files,medium,ai,missing,unmapped_public_namespace
+mashetti-17varshitha/AI_tutor,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Masterlew/math-tutor-chatbot,Hugging Face,hub_sdk,package,huggingface-hub,setup.py,high,,not_applicable,package
+Masterlew/math-tutor-chatbot,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Masterlew/math-tutor-chatbot,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+Masterlew/math-tutor-chatbot,Google,model_dependency,hf_linked_model,google/flan-t5-base,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+Masterlew/math-tutor-chatbot,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+Masterlew/math-tutor-chatbot,namespace:TinyLlama,model_dependency,hf_linked_model,TinyLlama/TinyLlama-1.1B-Chat-v1.0,hub_metadata,high,TinyLlama,apache-2.0,unmapped_public_namespace
+mattdotvaughn/reachy_mini_language_tutor,Hugging Face,hub_sdk,package,huggingface-hub,pyproject.toml,high,,not_applicable,package
+mattdotvaughn/reachy_mini_language_tutor,OpenAI,inference_service,code_signature,openai_official,index.html,high,,not_applicable,code_signature
+mattdotvaughn/reachy_mini_language_tutor,OpenAI,inference_service,code_signature,openai_official,reachy_mini_language_tutor/config.py,high,,not_applicable,code_signature
+mattdotvaughn/reachy_mini_language_tutor,OpenAI,inference_service,code_signature,openai_official,reachy_mini_language_tutor/console.py,high,,not_applicable,code_signature
+mattdotvaughn/reachy_mini_language_tutor,OpenAI,inference_service,configuration_signature,openai_official,.env.example,medium,,not_applicable,configuration_signature
+mattdotvaughn/reachy_mini_language_tutor,namespace:AdamCodd,model_dependency,hf_linked_model,AdamCodd/YOLOv11n-face-detection,hub_metadata,high,YOLO11,apache-2.0,unmapped_public_namespace
+mattdotvaughn/reachy_mini_language_tutor,namespace:HuggingFaceTB,model_dependency,hf_linked_model,HuggingFaceTB/SmolVLM2-2.2B-Instruct,hub_metadata,high,SmolVLM,apache-2.0,unmapped_public_namespace
+mayankjen/AI-Powered_Teaching-Assistant,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+MeetThakkar/quiz-generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+MeetThakkar/quiz-generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+MeetThakkar/quiz-generator,Google,model_dependency,hf_linked_model,google/flan-t5-base,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+Megana10/ai_study_assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Megana10/ai_study_assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Mehak0711/AI_TUTOR,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Mehak0711/AI_TUTOR,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+Mehak0711/AI_TUTOR,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-20b,hub_metadata,high,gpt,apache-2.0,model_namespace
+mehakkhan/Kaggle_Study_Assistant,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+mehakkhan/Kaggle_Study_Assistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+mehakkhan/Kaggle_Study_Assistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+mehakkhan/Kaggle_Study_Assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Mehrann123/AI-tutor,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Mehrann123/AI-tutor,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+Mehrann123/AI-tutor,namespace:distilbert,model_dependency,hf_linked_model,distilbert/distilbert-base-uncased-distilled-squad,hub_metadata,high,distilbert,apache-2.0,unmapped_public_namespace
+Mehrann123/MMB-Quiz-Generator,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+Mehrann123/MMB-Quiz-Generator,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Mehrann123/MMB-Quiz-Generator,BAAI,model_dependency,hf_linked_model,BAAI/bge-small-en-v1.5,hub_metadata,high,bge,mit,model_namespace
+mehtisham/AI-Powered-Educational-Video_Generator,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+mehtisham/AI-Powered-Educational-Video_Generator,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+mehtisham/AI-Powered-Educational-Video_Generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+mehtisham/AI-Powered-Educational-Video_Generator,namespace:runwayml,model_dependency,hf_linked_model,runwayml/stable-diffusion-v1-5,hub_metadata,high,Stable Diffusion,creativeml-openrail-m,unmapped_public_namespace
+mehwishafsa/education_chatbot,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+mehwishafsa/education_chatbot,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+mehwishafsa/education_chatbot,Google,model_dependency,hf_linked_model,google/flan-t5-small,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+mercLH44/new-ai-tutor,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+mercLH44/new-ai-tutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+midlajvalappil/AI-Powered-YouTube-Transcript-Tutor,OpenAI,inference_service,code_signature,openai_official,src/streamlit_app.py,high,,not_applicable,code_signature
+mithilesh22/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+mithilesh22/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+mkT83303/spanish-tutor-chatbot,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+mkT83303/spanish-tutor-chatbot,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+mkT83303/spanish-tutor-chatbot,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+mkT83303/spanish-tutor-chatbot,Mistral AI,model_dependency,hf_linked_model,HuggingFaceH4/zephyr-7b-beta,hub_metadata,high,Mistral/Mixtral,mit,base_model_namespace
+MMustafa313/RAG_Study_Assistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+MMustafa313/RAG_Study_Assistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+mogbuehi/LO_AI_Tutor,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+mogbuehi/YT_Language_Tutor,OpenAI,inference_service,code_signature,openai_official,app-Copy1.py,high,,not_applicable,code_signature
+mogbuehi/YT_Language_Tutor,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+mogbuehi/YT_Language_Tutor_2,OpenAI,inference_service,code_signature,openai_official,app-Copy1.py,high,,not_applicable,code_signature
+mogbuehi/YT_Language_Tutor_2,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+MohammadYaseen/personalized-study-assistant-chatbot,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+MohammadYaseen/personalized-study-assistant-chatbot,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+mohammednouman/CB-Quiz-Generator,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+Mohd-Dilshan/ai-quiz-generator,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+Mohd-Dilshan/ai-quiz-generator,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Mohit99Chand/EducationalAIChatbot,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+Mohit99Chand/EducationalAIChatbot,User-managed runtime,local_runtime,package,llama-cpp-python,requirements.txt,high,,not_applicable,package
+Mohit99Chand/EducationalAIChatbot,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+Mohitha/Conversational_AI_Data_Science_Tutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+Mohitha/Conversational_AI_Data_Science_Tutor,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+montue/Teaching_Assistant,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+montue/Teaching_Assistant,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+montue/Teaching_Assistant,Mistral AI,model_dependency,hf_linked_model,HuggingFaceH4/zephyr-7b-beta,hub_metadata,high,Mistral/Mixtral,mit,base_model_namespace
+Moon33/linda-quiz-generator,User-managed runtime,local_runtime,code_signature,ollama_runtime,linda_test_eval2.py,high,,not_applicable,code_signature
+MOrgan27/AI-study-assistant,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+MOrgan27/AI-study-assistant,Google,model_dependency,hf_linked_model,google/flan-t5-small,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+motsimaslam/Afri-AI-Tutor,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+motsimaslam/Afri-AI-Tutor,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+motsimaslam/Afri-AI-Tutor,Mistral AI,model_dependency,hf_linked_model,mistralai/Mistral-7B-Instruct-v0.2,hub_metadata,high,Mistral/Mixtral,apache-2.0,model_namespace
+motsimaslam/Afri-AI-Tutor,namespace:castorini,model_dependency,hf_linked_model,castorini/afriberta_base,hub_metadata,high,afriberta,missing,unmapped_public_namespace
+mounikathatikonda/AI_TUTOR,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Mpavan45/Ai_Data-Science_Tutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+Mpavan45/Ai_Data-Science_Tutor,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+mrhamxa/Gradio-based-RAG-study-assistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+mrhamxa/Gradio-based-RAG-study-assistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+mrhamxa/Gradio-based-RAG-study-assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+MrSimple01/QuizGenerator,Anthropic,inference_service,package,anthropic,requirements.txt,high,,not_applicable,package
+MrSimple01/QuizGenerator,Anthropic,inference_service,code_signature,anthropic_import,app.py,high,,not_applicable,code_signature
+MrSimple01/QuizGenerator,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+MrSimple01/QuizGenerator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+MrSimple01/QuizGenerator,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+MrSimple01/QuizGenerator,namespace:answerdotai,model_dependency,hf_linked_model,answerdotai/ModernBERT-base,hub_metadata,high,ModernBERT,apache-2.0,unmapped_public_namespace
+muhammadHassan123/quiz-generator-ai,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+muhammadHassan123/quiz-generator-ai,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+muhammadHassan123/quiz-generator-ai,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+Mujahid1122/AI-Based-Quiz-Generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Mujahid1122/AI-Based-Quiz-Generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+Mujahid1122/AI-Based-Quiz-Generator,namespace:google-t5,model_dependency,hf_linked_model,google-t5/t5-small,hub_metadata,high,T5/FLAN-T5,apache-2.0,unmapped_public_namespace
+mukeshpatel1006/Study_Assistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+mukeshpatel1006/Study_Assistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Murtaza249/Text_to_Quiz_Generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Murtaza249/Text_to_Quiz_Generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+Murtaza249/Text_to_Quiz_Generator,namespace:valhalla,model_dependency,hf_linked_model,valhalla/t5-small-e2e-qg,hub_metadata,high,T5/FLAN-T5,mit,unmapped_public_namespace
+N-Mothish/personalized-study-assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+N-Mothish/personalized-study-assistant,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+N-Mothish/personalized-study-assistant,Google,model_dependency,hf_linked_model,google/flan-t5-large,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+nandigamavamshi/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+nandini1810/AI_TUTOR,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+naveensngc/AI-Tutor,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+naveensngc/AI-Tutor,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-20b,hub_metadata,high,gpt,apache-2.0,model_namespace
+NavenTheRaven/Quiz_Generator,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+nersyan/quiz-generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+nersyan/quiz-generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+nersyan/quiz-generator,namespace:akhooli,model_dependency,code_model_id,akhooli/gpt-arabic-small,selected_source_files,medium,gpt,missing,unmapped_public_namespace
+nhu445/ai-english-tutor,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+nhu445/ai-english-tutor,Groq,inference_service,code_signature,groq_sdk,core/engine.py,high,,not_applicable,code_signature
+Nijanth/teaching-assistant-backend,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+Nijanth/teaching-assistant-backend,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Nijanth/teaching-assistant-backend,Meta,model_dependency,hf_linked_model,meta-llama/Meta-Llama-3-8B-Instruct,hub_metadata,high,Llama,llama3,model_namespace
+Nijanth/teaching-assistant-backend,namespace:distil-whisper,model_dependency,hf_linked_model,distil-whisper/distil-small.en,hub_metadata,high,Whisper,mit,unmapped_public_namespace
+NIKHITHA913/aitutor,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Nishanthan02/quiz-generator,Cohere,inference_service,package,cohere,requirements.txt,high,,not_applicable,package
+Nishanthan02/quiz-generator,Cohere,inference_service,code_signature,cohere_sdk,core/config.py,high,,not_applicable,code_signature
+Nishanthan02/quiz-generator,Google,inference_service,code_signature,gemini_sdk,core/ai_agents.py,high,,not_applicable,code_signature
+Nishanthan02/quiz-generator,Google,inference_service,code_signature,gemini_sdk,core/config.py,high,,not_applicable,code_signature
+Nishanthan02/quiz-generator,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Nishanthan02/quiz-generator,Groq,inference_service,code_signature,groq_sdk,core/config.py,high,,not_applicable,code_signature
+nishayaseen001/StudyAssistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+nishayaseen001/StudyAssistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Nitinane/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Nitinane/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+nohitha05/AI-TUTOR,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+nohitha05/AI-TUTOR,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+nruhh/Ai_tutor,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+nublelouch/study-assistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Nullpointer-KK/ai-tutor-chatbot_KK,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+Nullpointer-KK/ai-tutor-chatbot_KK,Hugging Face,hub_sdk,package,huggingface-hub,scripts/setup.py,high,,not_applicable,package
+Nullpointer-KK/ai-tutor-chatbot_KK,Anthropic,inference_service,package,anthropic,requirements.txt,high,,not_applicable,package
+Nullpointer-KK/ai-tutor-chatbot_KK,Cohere,inference_service,package,cohere,requirements.txt,high,,not_applicable,package
+Nullpointer-KK/ai-tutor-chatbot_KK,Cohere,inference_service,code_signature,cohere_sdk,scripts/custom_retriever.py,high,,not_applicable,code_signature
+Nullpointer-KK/ai-tutor-chatbot_KK,Cohere,inference_service,code_signature,cohere_sdk,scripts/evaluate_rag_system.py,high,,not_applicable,code_signature
+Nullpointer-KK/ai-tutor-chatbot_KK,Cohere,inference_service,code_signature,cohere_sdk,scripts/setup.py,high,,not_applicable,code_signature
+Nullpointer-KK/ai-tutor-chatbot_KK,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+Nullpointer-KK/ai-tutor-chatbot_KK,OpenAI,inference_service,code_signature,openai_official,scripts/evaluate_rag_system.py,high,,not_applicable,code_signature
+Nullpointer-KK/ai-tutor-chatbot_KK,OpenAI,inference_service,code_signature,openai_official,scripts/main.py,high,,not_applicable,code_signature
+Nullpointer-KK/ai-tutor-chatbot_KK,User-managed runtime,local_runtime,package,transformers,scripts/setup.py,high,,not_applicable,package
+Nullpointer-KK/ai-tutor-chatbot_KK,namespace:towardsai-tutors,model_dependency,code_model_id,towardsai-tutors/ai-tutor-vector-db,selected_source_files,medium,ai,missing,unmapped_public_namespace
+oluinioluwa814/Ai-tutor,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+oluinioluwa814/Ai-tutor,User-managed runtime,local_runtime,code_signature,transformers_runtime,model.py,high,,not_applicable,code_signature
+oluinioluwa814/Ai-tutor,Mistral AI,model_dependency,hf_linked_model,mistralai/Mistral-7B-Instruct-v0.2,hub_metadata,high,Mistral/Mixtral,apache-2.0,model_namespace
+omprasadmahapatra/Ai_Math_Tutor,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+omprasadmahapatra/Ai_Math_Tutor,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+One2SkipAfew/tutormina-ai,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+One2SkipAfew/tutormina-ai,Groq,inference_service,code_signature,groq_sdk,main.py,high,,not_applicable,code_signature
+One2SkipAfew/tutormina-ai,Groq,inference_service,configuration_signature,groq_sdk,.env.example,medium,,not_applicable,configuration_signature
+One2SkipAfew/tutormina-ai,Alibaba,model_dependency,hf_linked_model,Qwen/Qwen3.6-27B,hub_metadata,high,Qwen,apache-2.0,model_namespace
+One2SkipAfew/tutormina-ai,Alibaba,model_dependency,hf_linked_model,Qwen/Qwen3.8-27B,hub_metadata,high,Qwen,apache-2.0,model_namespace
+patilyash22/Python-tutor-chatbot,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+patilyash22/Python-tutor-chatbot,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+patilyash22/Python-tutor-chatbot,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+pattato1/language-tutor,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+pattato1/language-tutor,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+pattato1/language-tutor,Groq,inference_service,code_signature,groq_sdk,languagetutor.py,high,,not_applicable,code_signature
+pattato1/language-tutor,Groq,inference_service,code_signature,groq_sdk,voice_handler.py,high,,not_applicable,code_signature
+pattato1/language-tutor,namespace:canopylabs,model_dependency,code_model_id,canopylabs/orpheus-v1-english,selected_source_files,medium,orpheus,missing,unmapped_public_namespace
+pattato1/languagetutor,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+pattato1/languagetutor,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Pavan-Kumar23/quiz-generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Pavan-Kumar23/quiz-generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,document_processor.py,high,,not_applicable,code_signature
+Pavan-Kumar23/quiz-generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,question_generator.py,high,,not_applicable,code_signature
+Pavan-Kumar23/quiz-generator,Google,model_dependency,hf_linked_model,google/flan-t5-base,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+Pavan-Kumar23/quiz-generator,Google,model_dependency,hf_linked_model,google/flan-t5-small,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+Pavan-Kumar23/quiz-generator,Microsoft,model_dependency,hf_linked_model,microsoft/trocr-base-printed,hub_metadata,high,trocr,missing,model_namespace
+Pavan-Kumar23/quiz-generator,Microsoft,model_dependency,hf_linked_model,microsoft/trocr-small-printed,hub_metadata,high,trocr,missing,model_namespace
+phanisrigandla/AI_Tutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+phanisrigandla/AI_Tutor,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+philipobiorah/socratic-tutor,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+philipobiorah/socratic-tutor,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+philipobiorah/socratic-tutor,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+philipobiorah/socratic-tutor,Google,model_dependency,hf_linked_model,google/gemma-4-12B-it,hub_metadata,high,Gemma,apache-2.0,base_model_namespace
+philipobiorah/socratic-tutor,Google,model_dependency,hf_linked_model,google/gemma-4-E2B-it,hub_metadata,high,Gemma,apache-2.0,base_model_namespace
+philipobiorah/socratic-tutor,Google,model_dependency,hf_linked_model,google/gemma-4-E4B-it,hub_metadata,high,Gemma,apache-2.0,base_model_namespace
+Phoenix3274/AI-Quiz-Generator,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+Phoenix3274/AI-Quiz-Generator,Microsoft,model_dependency,hf_linked_model,microsoft/Phi-3-mini-4k-instruct,hub_metadata,high,Phi,mit,model_namespace
+Pooja1218/ai-quiz-generator,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+Pooja1218/ai-quiz-generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Pooja1218/ai-quiz-generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,question_gen.py,high,,not_applicable,code_signature
+Pooja1218/ai-quiz-generator,namespace:mrm8488,model_dependency,hf_linked_model,mrm8488/t5-base-finetuned-question-generation-ap,hub_metadata,high,T5/FLAN-T5,apache-2.0,unmapped_public_namespace
+poojithathalla/AI_TUTOR,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Prak2005/AI-Powered-Personal-Study-Assistant,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+pranaymachi/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+pranaymachi/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+praneeth300/AI-Quiz-Generator,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+praneeth300/AI-Quiz-Generator,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+praneeth300/AI-Quiz-Generator,Alibaba,model_dependency,hf_linked_model,Qwen/Qwen3-Coder-480B-A35B-Instruct,hub_metadata,high,Qwen,apache-2.0,model_namespace
+Pranshuu/educational-chatbot,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Pranshuu/educational-chatbot,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+Pranshuu/educational-chatbot,namespace:distilbert,model_dependency,hf_linked_model,distilbert/distilgpt2,hub_metadata,high,distilgpt2,apache-2.0,unmapped_public_namespace
+prasanth22118131/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+prasanth22118131/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Pratap1928/AI_Teaching_Assistant,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+pratikshahp/Education-Chatbot-Guardrail,OpenAI,inference_service,code_signature,openai_official,openai-app.py,high,,not_applicable,code_signature
+pratikshahp/Education-Chatbot-Guardrail,Together AI,inference_service,package,together,requirements.txt,high,,not_applicable,package
+pratikshahp/Education-Chatbot-Guardrail,Together AI,inference_service,code_signature,together_sdk,app.py,high,,not_applicable,code_signature
+pratikshahp/Education-Chatbot-Guardrail,Together AI,inference_service,code_signature,together_sdk,guardrail.py,high,,not_applicable,code_signature
+pratikshahp/Education-Chatbot-Guardrail,Meta,model_dependency,code_model_id,meta-llama/Llama-3-70b-chat-hf,selected_source_files,medium,Llama,missing,model_namespace
+pratikshahp/Education-Chatbot-Guardrail,Meta,model_dependency,code_model_id,Meta-Llama/LlamaGuard-2-8b,selected_source_files,medium,Llama,missing,model_namespace
+Premsp2005/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+provokingdiaries/AI_TUTOR,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+pseudolab/AI_Tutor_BERT,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+pseudolab/AI_Tutor_BERT,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+pseudolab/AI_Tutor_BERT,namespace:CountingMstar,model_dependency,hf_linked_model,CountingMstar/ai-tutor-bert-model,hub_metadata,high,BERT,missing,unmapped_public_namespace
+pseudolab/AI_Tutor_BERT,namespace:google-bert,model_dependency,hf_linked_model,google-bert/bert-base-uncased,hub_metadata,high,BERT,apache-2.0,unmapped_public_namespace
+pydeoxy/quiz_generator,User-managed runtime,local_runtime,package,llama-cpp-python,requirements.txt,high,,not_applicable,package
+pydeoxy/quiz_generator,Meta,model_dependency,hf_linked_model,bartowski/Meta-Llama-3.1-8B-Instruct-GGUF,hub_metadata,high,Llama,llama3.1,base_model_namespace
+qhaData/quiz-generator-pipeline,User-managed runtime,local_runtime,package,ollama,requirements.txt,high,,not_applicable,package
+qhaData/quiz-generator-pipeline,namespace:dangvantuan,model_dependency,hf_linked_model,dangvantuan/sentence-camembert-base,hub_metadata,high,sentence,apache-2.0,unmapped_public_namespace
+qhaData/quiz-generator-pipeline,namespace:OrdalieTech,model_dependency,hf_linked_model,OrdalieTech/Solon-embeddings-large-0.1,hub_metadata,high,Solon,mit,unmapped_public_namespace
+RabiaAbsar/genai-tutor-chatbot,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+RabiaAbsar/genai-tutor-chatbot,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+RabiaAbsar/genai-tutor-chatbot,namespace:LiquidAI,model_dependency,hf_linked_model,LiquidAI/LFM2-1.2B,hub_metadata,high,LFM2,other,unmapped_public_namespace
+rachapich/PISA-Teaching-Assistant-ChatBot-Guru,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Rahul2298/QuizGenerator,Hugging Face,inference_service,code_signature,hf_inference,src/streamlit_app.py,high,,not_applicable,code_signature
+Rahul2298/QuizGenerator,Meta,model_dependency,hf_linked_model,meta-llama/Meta-Llama-3-8B-Instruct,hub_metadata,high,Llama,llama3,model_namespace
+Rahul2298/QuizGenerator,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-mpnet-base-v2,hub_metadata,high,all,apache-2.0,unmapped_public_namespace
+RAHYDV/teaching-assistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+RAHYDV/teaching-assistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Raja02424/education-chatbot,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Raja02424/education-chatbot,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+Raja02424/education-chatbot,Google,model_dependency,hf_linked_model,google/flan-t5-large,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+Rajeev0102/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Rajeev0102/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Rajesh20/AI_Tutor,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Rajesh20/AI_Tutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+Rajesh20/AI_Tutor,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+RAJKUMAR2504/AI-Study-Assistant,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+RAJKUMAR2504/AI-Study-Assistant,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+RAJKUMAR2504/AI-Study-Assistant,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-120b,hub_metadata,high,gpt,apache-2.0,model_namespace
+Ram05saran/ai-language-tutor,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Ram05saran/ai-language-tutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+ramashandoubeh/Education-chatbot,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+ramashandoubeh/Education-chatbot,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-20b,hub_metadata,high,gpt,apache-2.0,model_namespace
+ramusakthivel17/educational-rag-chatbot,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+ramusakthivel17/educational-rag-chatbot,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+ramusakthivel17/educational-rag-chatbot,namespace:models,model_dependency,code_model_id,models/gemini-embedding-001,selected_source_files,medium,gemini,missing,unmapped_public_namespace
+Ramya8637/quiz-generator,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+RamyaKammari/jee_ai_tutor,Hugging Face,inference_service,code_signature,hf_inference,query_data_models.py,high,,not_applicable,code_signature
+RamyaKammari/jee_ai_tutor,OpenAI,inference_service,code_signature,openai_official,create_database.py,high,,not_applicable,code_signature
+RamyaKammari/jee_ai_tutor,Meta,model_dependency,hf_linked_model,meta-llama/Meta-Llama-3-8B,hub_metadata,high,Llama,llama3,model_namespace
+RamyaKammari/jee_ai_tutor,Mistral AI,model_dependency,hf_linked_model,mistralai/Mixtral-8x7B-Instruct-v0.1,hub_metadata,high,Mistral/Mixtral,apache-2.0,base_model_namespace
+Rashpinder/RAG-based-Agentic-AI-tutor,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+Rashpinder/RAG-based-Agentic-AI-tutor,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+RayaRam11/Study-assistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+RayaRam11/Study-assistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Rayi-ss/AI-Powered-Study-Assistant,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+Rayi-ss/AI-Powered-Study-Assistant,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+Rayi-ss/AI-Powered-Study-Assistant,Alibaba,model_dependency,hf_linked_model,Qwen/Qwen2.5-7B-Instruct,hub_metadata,high,Qwen,apache-2.0,base_model_namespace
+Razzaqi3143/Engineering_Quiz_Generator,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+Razzaqi3143/Engineering_Quiz_Generator,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+rcventura108000/Sophia-Ai-english-tutor,OpenAI,inference_service,configuration_signature,openai_official,.env.example,medium,,not_applicable,configuration_signature
+rexiy/study_assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+rexiy/study_assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+rgos20000/Quiz_Generator,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Rishabh12j/AI_Powered_Teaching_Assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Rishabh12j/AI_Powered_Teaching_Assistant,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+Rishabh12j/AI_Powered_Teaching_Assistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Rishabh12j/AI_Powered_Teaching_Assistant,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+Rishabh12j/Teaching_Assistant_AI,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+Rishabh12j/Teaching_Assistant_AI,OpenAI,inference_service,code_signature,openai_official,config.py,high,,not_applicable,code_signature
+Rishabh12j/Teaching_Assistant_AI,OpenAI,inference_service,code_signature,openai_official,models.py,high,,not_applicable,code_signature
+Riya00/quiz_generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Riya00/quiz_generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+Riya00/quiz_generator,Google,model_dependency,hf_linked_model,google/flan-t5-large,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+rk803/Data_Science_Tutor_Ai,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+rk803/Data_Science_Tutor_Ai,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+Rohit8827/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Rohit8827/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Rosh-2/physics_tutor_chatbot,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+Rosh-2/physics_tutor_chatbot,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+roshandakhore2003/nuron-teaching-assistant,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+roshandakhore2003/nuron-teaching-assistant,User-managed runtime,local_runtime,package,transformers,requirements (1).txt,high,,not_applicable,package
+roshandakhore2003/nuron-teaching-assistant,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-20b,hub_metadata,high,gpt,apache-2.0,model_namespace
+roxqtang/ai-teaching-assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+roxqtang/ai-teaching-assistant,Google,inference_service,code_signature,gemini_sdk,gemini_chatbot.py,high,,not_applicable,code_signature
+Rupesx007/quiz_generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Rupesx007/quiz_generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+Rupesx007/quiz_generator,namespace:distilbert,model_dependency,hf_linked_model,distilbert/distilbert-base-cased-distilled-squad,hub_metadata,high,distilbert,apache-2.0,unmapped_public_namespace
+Rupesx007/quiz_generator,namespace:facebook,model_dependency,hf_linked_model,facebook/bart-large-cnn,hub_metadata,high,bart,mit,unmapped_public_namespace
+Rupesx007/quiz_generator,namespace:valhalla,model_dependency,hf_linked_model,valhalla/t5-base-qg-hl,hub_metadata,high,T5/FLAN-T5,mit,unmapped_public_namespace
+Rushi420/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Rushi420/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+s1313/Quiz_Generator,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+SaanviWatrana/saanvi-ai-study-tutor,Alibaba,model_dependency,code_model_id,onnx-community/Qwen2.5-0.5B-Instruct,selected_source_files,medium,Qwen,missing,base_model_namespace
+sabahat-shakeel/study-assistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+sabahat-shakeel/study-assistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+sabrineoueslati/quiz-generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+sabrineoueslati/quiz-generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+sachi2004/ai-study-assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+sachi2004/ai-study-assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Sadem-12/AI_Study_Assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Sadem-12/AI_Study_Assistant,User-managed runtime,local_runtime,code_signature,transformers_runtime,mind_map.py,high,,not_applicable,code_signature
+Sadem-12/AI_Study_Assistant,User-managed runtime,local_runtime,code_signature,transformers_runtime,quiz_generator.py,high,,not_applicable,code_signature
+Sadem-12/AI_Study_Assistant,User-managed runtime,local_runtime,code_signature,transformers_runtime,summarization.py,high,,not_applicable,code_signature
+Sadem-12/AI_Study_Assistant,namespace:facebook,model_dependency,hf_linked_model,facebook/bart-large-cnn,hub_metadata,high,bart,mit,unmapped_public_namespace
+Sadem-12/AI_Study_Assistant,namespace:google-t5,model_dependency,hf_linked_model,google-t5/t5-base,hub_metadata,high,T5/FLAN-T5,apache-2.0,unmapped_public_namespace
+Sadem-12/AI_Study_Assistant,namespace:Salesforce,model_dependency,hf_linked_model,Salesforce/blip-image-captioning-base,hub_metadata,high,blip,bsd-3-clause,unmapped_public_namespace
+sagarvc420/Educational_LLM_Chatbot,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+sagarvc420/Educational_LLM_Chatbot,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+sagarvc420/Educational_LLM_Chatbot,Mistral AI,model_dependency,hf_linked_model,mistralai/Mistral-7B-v0.1,hub_metadata,high,Mistral/Mixtral,apache-2.0,model_namespace
+sagarvc420/Educational_LLM_Chatbot,Mistral AI,model_dependency,hf_linked_model,sagarvc420/results,hub_metadata,high,Mistral/Mixtral,missing,base_model_namespace
+SahilGupta4/Study_Assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+SahilGupta4/Study_Assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+SaiAbhiYaswanth/study_assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+SaiAbhiYaswanth/study_assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+saikumar27/AI_Powered_Data_Science_Tutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+saikumar27/AI_Powered_Data_Science_Tutor,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+saimahashmi/ai-study-assistant,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+saimahashmi/ai-study-assistant,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+saimahashmi/ai-study-assistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+saimahashmi/ai-study-assistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+saimahashmi/ai-study-assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+sairaarif89/AITutor,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+sairaarif89/AITutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+sairaarif89/AITutor,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+SaiRithwik2004/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+SaiRithwik2004/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Sajid1974/Socratic_QA_GenAI_Tutor,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+Sajid1974/Socratic_QA_GenAI_Tutor,Groq,inference_service,code_signature,groq_sdk,agents/socratic_agent.py,high,,not_applicable,code_signature
+Sajid1974/Socratic_QA_GenAI_Tutor,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Sajid1974/Socratic_QA_GenAI_Tutor,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+salsh093/SEG_StudyAssistant,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+salsh093/SEG_StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+salsh093/SEG_StudyAssistant,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+salsh093/SEG_StudyAssistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+samadjunejo/ai_study_assistant,Groq,inference_service,code_signature,groq_sdk,src/streamlit_app.py,high,,not_applicable,code_signature
+samakanishkareddy/AI_TUTOR,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Samanfatima563474/tutor-ai,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+Samanfatima563474/tutor-ai,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+Samanfatima563474/tutor-ai,Mistral AI,model_dependency,hf_linked_model,HuggingFaceH4/zephyr-7b-beta,hub_metadata,high,Mistral/Mixtral,mit,base_model_namespace
+SambaReshma/AI_TUTOR,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+SambaReshma/AI_TUTOR,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+sameekghosh/ai-python-teaching-assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+sameekghosh/ai-python-teaching-assistant,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+sameekghosh/ai-python-teaching-assistant,TII,model_dependency,hf_linked_model,tiiuae/falcon-7b-instruct,hub_metadata,high,Falcon,apache-2.0,model_namespace
+samekbotfactorycz/aitutor,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+samekbotfactorycz/aitutor,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+samekbotfactorycz/aitutor,Mistral AI,model_dependency,hf_linked_model,HuggingFaceH4/zephyr-7b-beta,hub_metadata,high,Mistral/Mixtral,mit,base_model_namespace
+Samyakj69/Study_Assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Samyakj69/Study_Assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+SanaBegum23/AI_tutor,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+sanakousar/AI_TUTOR,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+sanchezpaez/speech_to_text_to_speech_language_tutor,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+sandariyogitha/AI_TUTOR,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+sandariyogitha/AI_TUTOR,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+sangareddijaswanth/study_assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+sangareddijaswanth/study_assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+sanjana033/my-study-assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+sanjana033/my-study-assistant,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+Sanjay-Ai/AI-Powered-Socratic-Teaching-Assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Sanjay-Ai/AI-Powered-Socratic-Teaching-Assistant,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+Sanjay0102/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Sanjay0102/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+sanketh2334/biology_ai_tutor,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+sanketh2334/biology_ai_tutor,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+sanketh2334/biology_ai_tutor,Mistral AI,model_dependency,hf_linked_model,mistralai/Mistral-7B-Instruct-v0.1,hub_metadata,high,Mistral/Mixtral,apache-2.0,base_model_namespace
+sanketh2334/biology_ai_tutor,namespace:Salesforce,model_dependency,hf_linked_model,Salesforce/blip2-opt-2.7b,hub_metadata,high,blip2,mit,unmapped_public_namespace
+santhoshi-123/AITUTOR,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+santosh7/AI_converstion_Data_Science_Tutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+santosh7/AI_converstion_Data_Science_Tutor,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+Santoshtambe/ai-study-assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Santoshtambe/ai-study-assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Santoshtambe/study_Assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Santoshtambe/study_Assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+saraHamza/Engli-Tutor-Chatbot,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+Saravana-Saro14/Educational-chatbot,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+Saravana-Saro14/Educational-chatbot,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-20b,hub_metadata,high,gpt,apache-2.0,model_namespace
+saru21/study_assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+saru21/study_assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+satvik452007/Study_assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+satvik452007/Study_assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Sayan21/Video-Tutor-AI,Amazon Web Services,cloud_sdk,package,boto3,backend/requirements.txt,high,,not_applicable,package
+Sayan21/Video-Tutor-AI,Google,inference_service,code_signature,gemini_sdk,backend/rag.py,high,,not_applicable,code_signature
+Sayan21/Video-Tutor-AI,Google,inference_service,code_signature,gemini_sdk,backend/utils.py,high,,not_applicable,code_signature
+Sayan21/Video-Tutor-AI,Google,inference_service,package,google-genai,backend/requirements.txt,high,,not_applicable,package
+Sayu28/Education-Chatbot1,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+SBDeploy/Study_Assistant,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+SBDeploy/Study_Assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+SBDeploy/Study_Assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+SerotoninRonin/Quiz-Generator,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+SerotoninRonin/Quiz-Generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+SerotoninRonin/Quiz-Generator,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-20b,hub_metadata,high,gpt,apache-2.0,model_namespace
+sewusida/statistics_study_assistant,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+sewusida/statistics_study_assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+SH1VAM-2027/studyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+SH1VAM-2027/studyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Shahbazakbar/AI-Tutor,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Shahbazakbar/AI-Tutor,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+Shahbazakbar/AI-Tutor,Mistral AI,model_dependency,hf_linked_model,mistralai/Mistral-7B-Instruct-v0.3,hub_metadata,high,Mistral/Mixtral,apache-2.0,base_model_namespace
+Shahbazakbar/RAG-AI-Tutor,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Shahbazakbar/RAG-AI-Tutor,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+Shahbazakbar/RAG-AI-Tutor,namespace:facebook,model_dependency,hf_linked_model,facebook/bart-large,hub_metadata,high,bart,apache-2.0,unmapped_public_namespace
+shaheerawan3/AI-Teaching-Assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+shaheerawan3/AI-Teaching-Assistant,User-managed runtime,local_runtime,code_signature,transformers_runtime,model.py,high,,not_applicable,code_signature
+shaheerawan3/AI-Teaching-Assistant,User-managed runtime,local_runtime,code_signature,transformers_runtime,train.py,high,,not_applicable,code_signature
+shaheerawan3/AI-Teaching-Assistant,namespace:openai-community,model_dependency,hf_linked_model,openai-community/gpt2,hub_metadata,high,gpt2,mit,unmapped_public_namespace
+shahzaib41202/AI_ML_Tutor,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+shahzaib41202/AI_ML_Tutor,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+shahzaib41202/AI_ML_Tutor,namespace:lmsys,model_dependency,hf_linked_model,lmsys/vicuna-7b-v1.1,hub_metadata,high,vicuna,missing,unmapped_public_namespace
+shahzaib41202/AI_ML_Tutor,namespace:shahzaib41202,model_dependency,hf_linked_model,shahzaib41202/ai-ml-tutor-v1,hub_metadata,high,vicuna,missing,unmapped_public_namespace
+shahzaib41202/AI_ML_Tutor,namespace:TheBloke,model_dependency,code_model_id,TheBloke/vicuna-7B-1.1-HF,selected_source_files,medium,vicuna,missing,unmapped_public_namespace
+shankar-dev24/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+shawarnaditya121/ai-teaching-assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+shawarnaditya121/ai-teaching-assistant,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+shawarnaditya121/ai-teaching-assistant,Microsoft,model_dependency,hf_linked_model,microsoft/phi-1_5,hub_metadata,high,Phi,mit,model_namespace
+shb59na/ai-study-tutor,Google,inference_service,configuration_signature,gemini_sdk,.env.example,medium,,not_applicable,configuration_signature
+shb59na/ai-study-tutor,Google,inference_service,configuration_signature,gemini_sdk,ai-study-tutor/.env.example,medium,,not_applicable,configuration_signature
+shb59na/ai-study-tutor,Google,inference_service,package,google-genai,ai-study-tutor/requirements.txt,high,,not_applicable,package
+shb59na/ai-study-tutor,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+sheraz00/ai-teaching-assistant,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+shikhahaljmili/ai-quiz-generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+shikhahaljmili/ai-quiz-generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+shikhahaljmili/ai-quiz-generator,Microsoft,model_dependency,hf_linked_model,microsoft/Phi-3-mini-128k-instruct,hub_metadata,high,Phi,mit,model_namespace
+shirosh/ai-tutor,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+shirosh/ai-tutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+Shivam10lm/ai-teaching-assistant,Groq,inference_service,code_signature,groq_sdk,main.py,high,,not_applicable,code_signature
+shivasai02/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+shivasai02/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Shivateja23/DS_AI_TUTOR,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+Shivateja23/DS_AI_TUTOR,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+Shlok1005/Voice_chatbot_tutor,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+Shlok1005/Voice_chatbot_tutor,Meta,model_dependency,hf_linked_model,meta-llama/Llama-3.2-3B-Instruct,hub_metadata,high,Llama,llama3.2,model_namespace
+Shlok1005/Voice_chatbot_tutor,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+shroukelnagdy/quiz-generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+shukdevdatta123/Language-Learning-Companion,OpenRouter,inference_service,code_signature,openrouter_endpoint,app.py,high,,not_applicable,code_signature
+shukdevdatta123/Language-Learning-Companion,Alibaba,model_dependency,code_model_id,qwen/qwen3-0.6b-04-28:free,selected_source_files,medium,Qwen,missing,model_namespace
+shuklavartika/AI_Study_Assistant,Google,inference_service,code_signature,gemini_sdk,agents/qa.py,high,,not_applicable,code_signature
+shuklavartika/AI_Study_Assistant,Google,inference_service,code_signature,gemini_sdk,agents/quiz.py,high,,not_applicable,code_signature
+shuklavartika/AI_Study_Assistant,Google,inference_service,code_signature,gemini_sdk,agents/summarizer.py,high,,not_applicable,code_signature
+shuklavartika/AI_Study_Assistant,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+Siddhisapkal/AI_Tutor,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Siddhisapkal/AI_Tutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+Sindu31/IntelliGent-AI-Tutor-System,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+Sindu31/IntelliGent-AI-Tutor-System,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+siphiwesibisi/quiz-and-study-guide-generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+siphiwesibisi/quiz-generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+siphiwesibisi/quiz-generator,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+siphiwesibisi/quiz-generator,namespace:google-t5,model_dependency,hf_linked_model,google-t5/t5-base,hub_metadata,high,T5/FLAN-T5,apache-2.0,unmapped_public_namespace
+Sirichandanasamala/AI_TUTOR,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+SirigajjeDurga/AI-Personal-Tutor,Groq,inference_service,package,groq,backend-app/requirements.txt,high,,not_applicable,package
+siriItis/pdf-study-assistant,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+sk-12/EDUBUDDY-AI-TUTOR,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+sk-12/EDUBUDDY-AI-TUTOR,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Solkyash/Ai-study-assistant,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+Solkyash/Ai-study-assistant,namespace:facebook,model_dependency,hf_linked_model,facebook/bart-large-cnn,hub_metadata,high,bart,mit,unmapped_public_namespace
+sravani30/AI_QUIZ_GENERATOR,Google,inference_service,code_signature,gemini_sdk,model.py,high,,not_applicable,code_signature
+sravani30/AI_QUIZ_GENERATOR,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+Sree1216/AI_tutor,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+Sree1216/AI_tutor,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-20b,hub_metadata,high,gpt,apache-2.0,model_namespace
+sreejamanthena/StudyAssistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+sreejamanthena/StudyAssistant,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+sreenivasulaReddy/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+sreenivasulaReddy/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Sri921980/Ai_Tutor,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+SrihithaReddy123/AI_TUTOR,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+srinivas25046/ai-study-assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+srinivas25046/ai-study-assistant,User-managed runtime,local_runtime,code_signature,transformers_runtime,src/streamlit_app.py,high,,not_applicable,code_signature
+srinivas25046/ai-study-assistant,namespace:distilbert,model_dependency,hf_linked_model,distilbert/distilbert-base-cased-distilled-squad,hub_metadata,high,distilbert,apache-2.0,unmapped_public_namespace
+srinivas25046/ai-study-assistant,namespace:google-t5,model_dependency,hf_linked_model,google-t5/t5-small,hub_metadata,high,T5/FLAN-T5,apache-2.0,unmapped_public_namespace
+srinivas25046/ai-study-assistant,namespace:sshleifer,model_dependency,hf_linked_model,sshleifer/distilbart-cnn-12-6,hub_metadata,high,distilbart,apache-2.0,unmapped_public_namespace
+Srushtii-13/Study_Assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Srushtii-13/Study_Assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+starkbyte45896/Quiz_Generator,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+starkbyte45896/Quiz_Generator,Mistral AI,model_dependency,hf_linked_model,mistralai/Mistral-7B-Instruct-v0.1,hub_metadata,high,Mistral/Mixtral,apache-2.0,base_model_namespace
+sudeepthitellapally/AITutor,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+sudipta26889/Quiz-Generator,Hugging Face,inference_service,code_signature,hf_inference,chatbot_openrouter.py,high,,not_applicable,code_signature
+sudipta26889/Quiz-Generator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+sudipta26889/Quiz-Generator,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-120b,hub_metadata,high,gpt,apache-2.0,model_namespace
+sudipta26889/Quiz-Generator,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-20b,hub_metadata,high,gpt,apache-2.0,model_namespace
+Sujithraam/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Sujithraam/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+SujithRaam07/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+SujithRaam07/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+sultan-hassan/adaptive_language_tutor,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+sultan-hassan/adaptive_language_tutor,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+sultan-hassan/adaptive_language_tutor,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+sultan-hassan/adaptive_language_tutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+tariqm603/study-assistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+tarunkanugu/study_Assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+tarunkanugu/study_Assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+tayy786/Ai_Tutor_App,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+tayy786/Ai_Tutor_App,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+tayy786/Ai_Tutor_App,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+tayy786/Ai_Tutor_App,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+TeerthPurohit/RAG-TradingWithML-Teaching-Assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+TeerthPurohit/RAG-TradingWithML-Teaching-Assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+TeerthPurohit/RAG-TradingWithML-Teaching-Assistant,BAAI,model_dependency,hf_linked_model,BAAI/bge-m3,hub_metadata,high,bge,mit,model_namespace
+TeerthPurohit/RAG-TradingWithML-Teaching-Assistant,namespace:cross-encoder,model_dependency,hf_linked_model,cross-encoder/ms-marco-MiniLM-L6-v2,hub_metadata,high,ms,apache-2.0,unmapped_public_namespace
+tejuu23/ai-tutor,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+tejuu23/ai-tutor,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-20b,hub_metadata,high,gpt,apache-2.0,model_namespace
+tfitzge134/gemini-learning-companion,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+tfitzge134/gemini-learning-companion,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+thabassum9/ai_tutor,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+thabassum9/ai_tutor,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Thepatelsuraj12/Rag-based-AI-Teaching-Assistant,User-managed runtime,local_runtime,code_signature,ollama_runtime,streamlit_app.py,high,,not_applicable,code_signature
+theSriram/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app (2).py,high,,not_applicable,code_signature
+theSriram/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+thilak1/RAG-BASED-AI-TEACHING-ASSISTANT,User-managed runtime,local_runtime,code_signature,ollama_runtime,app.py,high,,not_applicable,code_signature
+thilak1/RAG-BASED-AI-TEACHING-ASSISTANT,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Tomjedo/Education_Chatbot,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+Tomjedo/Education_Chatbot,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+Tonic/open-gpt-Lesson-Plan-Generator,Meta,model_dependency,hf_linked_model,allenai/tulu-2-dpo-13b,hub_metadata,high,Llama,other,base_model_namespace
+tools4ds/ai_tutor,OpenAI,inference_service,configuration_signature,openai_official,apps/ai_tutor/.env.example,medium,,not_applicable,configuration_signature
+tools4ds/ai_tutor,namespace:sentence-transformers,model_dependency,hf_linked_model,sentence-transformers/all-MiniLM-L6-v2,hub_metadata,high,MiniLM,apache-2.0,unmapped_public_namespace
+tools4ds/ai_tutor,namespace:TheBloke,model_dependency,hf_linked_model,TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF,hub_metadata,high,TinyLlama,apache-2.0,unmapped_public_namespace
+towardsai-tutors/ai-tutor-chatbot,Hugging Face,hub_sdk,package,huggingface-hub,pyproject.toml,high,,not_applicable,package
+towardsai-tutors/ai-tutor-chatbot,Anthropic,inference_service,package,anthropic,pyproject.toml,high,,not_applicable,package
+towardsai-tutors/ai-tutor-chatbot,Anthropic,inference_service,configuration_signature,anthropic_import,.env.example,medium,,not_applicable,configuration_signature
+towardsai-tutors/ai-tutor-chatbot,Anthropic,inference_service,package,langchain-anthropic,pyproject.toml,high,,not_applicable,package
+towardsai-tutors/ai-tutor-chatbot,Cohere,inference_service,package,cohere,pyproject.toml,high,,not_applicable,package
+towardsai-tutors/ai-tutor-chatbot,Cohere,inference_service,configuration_signature,cohere_sdk,.env.example,medium,,not_applicable,configuration_signature
+towardsai-tutors/ai-tutor-chatbot,DeepSeek,inference_service,configuration_signature,deepseek_endpoint,.env.example,medium,,not_applicable,configuration_signature
+towardsai-tutors/ai-tutor-chatbot,Google,inference_service,configuration_signature,gemini_sdk,.env.example,medium,,not_applicable,configuration_signature
+towardsai-tutors/ai-tutor-chatbot,Google,inference_service,package,google-genai,pyproject.toml,high,,not_applicable,package
+towardsai-tutors/ai-tutor-chatbot,Google,inference_service,package,langchain-google-genai,pyproject.toml,high,,not_applicable,package
+towardsai-tutors/ai-tutor-chatbot,OpenRouter,inference_service,configuration_signature,openrouter_endpoint,.env.example,medium,,not_applicable,configuration_signature
+Trinesh16/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Trinesh16/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Trivikrama/Physics_Lesson_Plan_Generator,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+Trivikrama/Physics_Lesson_Plan_Generator,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Troy88/Quiz-Generator,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+Troy88/Quiz-Generator,Meta,model_dependency,hf_linked_model,meta-llama/Llama-2-7b-chat-hf,hub_metadata,high,Llama,llama2,model_namespace
+Turbiling/Backward-Design-Lesson-Plan-Generator,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+Turbiling/Backward-Design-Lesson-Plan-Generator,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Turbiling/Backward-Design-Lesson-Plan-Generator,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-120b,hub_metadata,high,gpt,apache-2.0,model_namespace
+Turbiling/GB_Education_Chatbot,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+Turbiling/GB_Education_Chatbot,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Turbiling/Lesson_Plan_Generator,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+Turbiling/Lesson_Plan_Generator,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Turbiling/Lesson_Plan_Generator,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-120b,hub_metadata,high,gpt,apache-2.0,model_namespace
+Turbiling/Sharqi_Education_Chatbot,Hugging Face,hub_sdk,package,huggingface-hub,Requirements.txt,high,,not_applicable,package
+Turbiling/Sharqi_Education_Chatbot,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Turbiling/Sharqi_Education_Chatbot,User-managed runtime,local_runtime,package,transformers,Requirements.txt,high,,not_applicable,package
+Tutor-Ai-100/AI_Tutor_Chatbot,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Tutor-Ai-100/AI_Tutor_Chatbot,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+Tutor-Ai-100/AI_Tutor_Chatbot,Microsoft,model_dependency,hf_linked_model,microsoft/DialoGPT-medium,hub_metadata,high,DialoGPT,mit,model_namespace
+tyapab/ai-study-assistant,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+tyapab/ai-study-assistant,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+tyapab/ai-study-assistant,Google,model_dependency,hf_linked_model,google/flan-t5-base,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+tyapab/ai-study-assistant,OpenAI,model_dependency,hf_linked_model,openai/gpt-oss-20b,hub_metadata,high,gpt,apache-2.0,model_namespace
+uc-msai631-2025-spring/group2_study_assistant,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+uc-msai631-2025-spring/group2_study_assistant,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+uc-msai631-2025-spring/group2_study_assistant,Mistral AI,model_dependency,hf_linked_model,HuggingFaceH4/zephyr-7b-beta,hub_metadata,high,Mistral/Mixtral,mit,base_model_namespace
+Udayveer1990/Language_tutor,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+Udayveer1990/Language_tutor,Hugging Face,inference_service,code_signature,hf_inference,main.py,high,,not_applicable,code_signature
+Udayveer1990/Language_tutor,Google,model_dependency,hf_linked_model,google/gemma-2-2b-it,hub_metadata,high,Gemma,gemma,base_model_namespace
+Ukhanyo/quiz-generator-ai,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+Ukhanyo/quiz-generator-ai,namespace:openai-community,model_dependency,hf_linked_model,openai-community/gpt2,hub_metadata,high,gpt2,mit,unmapped_public_namespace
+UlliInduSree/AI_Tutor_Chatbot,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+UlliInduSree/AI_Tutor_Chatbot,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+UlliInduSree/AI_Tutor_Chatbot,Google,model_dependency,hf_linked_model,google/flan-t5-small,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+UmarIqbal000/quiz-generator-ai,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+UmarIqbal000/quiz-generator-ai,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+UmarIqbal000/quiz-generator-ai,Google,model_dependency,hf_linked_model,google/flan-t5-large,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+umerforsure/AI-Study-Assistant,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+umerforsure/AI-Study-Assistant,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+umerforsure/AI-Study-Assistant,namespace:MBZUAI,model_dependency,hf_linked_model,MBZUAI/LaMini-Flan-T5-783M,hub_metadata,high,T5/FLAN-T5,cc-by-nc-4.0,unmapped_public_namespace
+umerforsure/AI-Study-Assistant,namespace:sshleifer,model_dependency,hf_linked_model,sshleifer/distilbart-cnn-12-6,hub_metadata,high,distilbart,apache-2.0,unmapped_public_namespace
+Us-er-na-me/QuizGenerator,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Us-er-na-me/QuizGenerator,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+Us-er-na-me/QuizGenerator,DeepSeek,model_dependency,hf_linked_model,deepseek-ai/deepseek-llm-7b-chat,hub_metadata,high,DeepSeek,other,model_namespace
+Vaibhava24/my-study-assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Vaibhava24/my-study-assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Vaishnav-00299/my-study-assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Vaishnav-00299/my-study-assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Varshareddy1106/AI_TUTOR,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+VarunGoud314/Study_assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+VarunGoud314/Study_assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+VinayKarthik800/ai-tutor,Google,inference_service,code_signature,gemini_sdk,index.html,high,,not_applicable,code_signature
+vinitwaghmare/ai-study-assistant,OpenRouter,inference_service,code_signature,openrouter_endpoint,app.py,high,,not_applicable,code_signature
+vinitwaghmare/bilingual-ai-study-assistant,OpenRouter,inference_service,code_signature,openrouter_endpoint,app.py,high,,not_applicable,code_signature
+vipin1143/eva-teaching-assistant,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+vishalraaj1/AI-STUDY_ASSISTANT,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+vishalraaj1/AI-STUDY_ASSISTANT,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+VishnuSai05/Study_Assistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+VishnuSai05/Study_Assistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+vivicake666/math-tutor-chatbot,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+vivicake666/math-tutor-chatbot,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+vivicake666/math-tutor-chatbot,namespace:vivicake666,model_dependency,hf_linked_model,vivicake666/qwen3-math-nano-sat,hub_metadata,high,Qwen,apache-2.0,unmapped_public_namespace
+vornit/educational-data-ai-dashboard,OpenRouter,inference_service,code_signature,openrouter_endpoint,app.py,high,,not_applicable,code_signature
+vornit/educational-data-ai-dashboard,OpenRouter,inference_service,configuration_signature,openrouter_endpoint,.env.example,medium,,not_applicable,configuration_signature
+VSrilekha/AI-Tutor,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+wajahatkhan/AI_tutor,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+wajahatkhan/AI_tutor,Google,inference_service,package,google-generativeai,requirements.txt,high,,not_applicable,package
+wangzy217/Teaching_Assistant,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+wangzy217/Teaching_Assistant,Hugging Face,inference_service,code_signature,hf_inference,app.py,high,,not_applicable,code_signature
+wangzy217/Teaching_Assistant,Mistral AI,model_dependency,hf_linked_model,HuggingFaceH4/zephyr-7b-beta,hub_metadata,high,Mistral/Mixtral,mit,base_model_namespace
+wimida/socratic-tutor-bot,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+wimida/socratic-tutor-bot,Google,model_dependency,hf_linked_model,google/flan-t5-small,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+windsoldier/ai-teaching-assistant,DeepSeek,inference_service,code_signature,deepseek_endpoint,src/streamlit_app.py,high,,not_applicable,code_signature
+wupeiwen2001/reachy-mini-language-tutor,OpenAI,inference_service,code_signature,openai_official,index.html,high,,not_applicable,code_signature
+wupeiwen2001/reachy-mini-language-tutor,OpenAI,inference_service,code_signature,openai_official,language_tutor/app.py,high,,not_applicable,code_signature
+wupeiwen2001/reachy-mini-language-tutor,OpenAI,inference_service,code_signature,openai_official,language_tutor/config.py,high,,not_applicable,code_signature
+yadavnirmal002/CBSE10-AI-Tutor,OpenAI,inference_service,code_signature,openai_official,app.py,high,,not_applicable,code_signature
+Yasir-Bhatti/Education_tutor_chatbot,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+YasirAnsari/AI_tutor,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+YasirAnsari/AI_tutor,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+Yasirkhalil12/ai-quiz-generator,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+Yenuli-Bimanya-404/ai-study-assistant-multilang,User-managed runtime,local_runtime,package,transformers,requirements.txt,high,,not_applicable,package
+Yenuli-Bimanya-404/ai-study-assistant-multilang,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+Yenuli-Bimanya-404/ai-study-assistant-multilang,Google,model_dependency,hf_linked_model,google/flan-t5-base,hub_metadata,high,T5/FLAN-T5,apache-2.0,model_namespace
+Yenuli-Bimanya-404/ai-study-assistant-multilang,namespace:facebook,model_dependency,hf_linked_model,facebook/nllb-200-distilled-600M,hub_metadata,high,nllb,cc-by-nc-4.0,unmapped_public_namespace
+YKDep/StudyAssistant,Google,inference_service,code_signature,gemini_sdk,app.py,high,,not_applicable,code_signature
+YKDep/StudyAssistant,Google,inference_service,package,google-genai,requirements.txt,high,,not_applicable,package
+Younis123/Education_Assistant_chatbot,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+Younis123/Education_Assistant_chatbot,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+yuvabe-ai/AI-Tutor,OpenAI,inference_service,code_signature,openai_official,utility.py,high,,not_applicable,code_signature
+Yuvasriiii/personalized_study_assistant,Google,inference_service,package,langchain-google-genai,requirements.txt,high,,not_applicable,package
+zaini1234/pdf-quiz-generator,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+zaini1234/pdf-quiz-generator,Hugging Face,inference_service,code_signature,hf_inference,quiz_generator.py,high,,not_applicable,code_signature
+zaini1234/pdf-quiz-generator,Google,model_dependency,hf_linked_model,google/gemma-2b-it,hub_metadata,high,Gemma,gemma,model_namespace
+zara65724/AI-Vocabulary-Tutor,Groq,inference_service,package,groq,requirements.txt,high,,not_applicable,package
+zara65724/AI-Vocabulary-Tutor,Groq,inference_service,code_signature,groq_sdk,app.py,high,,not_applicable,code_signature
+zizo66/AI-Language-Tutor,Hugging Face,hub_sdk,package,huggingface-hub,requirements.txt,high,,not_applicable,package
+zizo66/AI-Language-Tutor,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high,,not_applicable,code_signature
+zizo66/AI-Language-Tutor,Meta,model_dependency,hf_linked_model,meta-llama/Llama-3.2-3B-Instruct,hub_metadata,high,Llama,llama3.2,model_namespace

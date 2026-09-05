@@ -1,0 +1,10 @@
+service_provider,projects_declaring_service,service_fractional_share,conditional_model_shannon_effective_categories,top_codeclared_model_publisher_or_namespace,top_codeclared_model_share_within_service
+Hugging Face,54,0.5353535353535354,6.072904127899937,Mistral AI,0.3254716981132076
+Groq,17,0.16161616161616163,4.428271088342376,namespace:sentence-transformers,0.46875
+Google,16,0.12878787878787878,7.001055710669852,namespace:sentence-transformers,0.4313725490196078
+OpenAI,11,0.07828282828282829,7.6870888482804105,namespace:jaiganesan,0.25806451612903225
+OpenRouter,7,0.05555555555555556,5.374395012943746,namespace:deepseek,0.2727272727272727
+Cohere,2,0.012626262626262628,5.000000000000001,Alibaba,0.19999999999999998
+Fireworks AI,1,0.010101010101010102,1.0,Meta,1.0
+Together AI,2,0.010101010101010102,1.0,Meta,1.0
+Anthropic,2,0.007575757575757576,1.8898815748423097,namespace:answerdotai,0.6666666666666667

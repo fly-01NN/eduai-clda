@@ -1,0 +1,548 @@
+space_id,revision_role,revision,revision_date,provider,layer,evidence_type,evidence_value,source_file,confidence
+13yashjadhav11/study_assistant,earliest_analyzable,6589f7ddbb9b9744e1524f876c4862b57caa2d87,2026-01-16T07:26:13.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+13yashjadhav11/study_assistant,earliest_analyzable,6589f7ddbb9b9744e1524f876c4862b57caa2d87,2026-01-16T07:26:13.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+24-cka-ML/quiz-generator,earliest_analyzable,6be03b43ad2a3e3acee82eee435955f11e605020,2025-03-16T12:46:42.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+3atar/Study-assistant,earliest_analyzable,1ca40786b0d1e48f68c24021c661cc79f067ed26,2025-11-26T02:27:51.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,ui.py,high
+3atar/Study-assistant,earliest_analyzable,1ca40786b0d1e48f68c24021c661cc79f067ed26,2025-11-26T02:27:51.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+aakashdevdat/Quiz_generator_1,earliest_analyzable,6ef5f0ee3df26b8be1831ab5e604713ddbb7d988,2025-05-11T05:10:53.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+abai-cn/linux-teaching-assistant,earliest_analyzable,b6c2e2029e2aa82c997b923ff3fb365feabfef83,2026-06-25T03:25:19.000Z,DeepSeek,inference_service,code_signature,deepseek_endpoint,modules/llm.py,high
+Abdalaziz2026/Syria-ai-tutor,earliest_analyzable,39edbf284bbd050994ec244daa9eba535436c9de,2026-06-03T22:53:07.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+Abdelrahman04/egyptian-educational-chatbot-demo,earliest_analyzable,c2b9164ad99080b333e4cde109b9cdd9b201cf86,2025-12-16T05:40:59.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+abdullahkhankakar/quiz-generator,earliest_analyzable,9263690ff1e1c5af9044a7c011ef55ce683a6929,2026-07-27T11:41:07.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,model.py,high
+abdullahkhankakar/quiz-generator,earliest_analyzable,9263690ff1e1c5af9044a7c011ef55ce683a6929,2026-07-27T11:41:07.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+Abhinaychatla/language_voice_tutor,earliest_analyzable,89473f9740ace94e9fa06ab5561807d284e33876,2026-06-21T16:55:24.000Z,Google,inference_service,code_signature,gemini_sdk,main.py,high
+Abhinaychatla/language_voice_tutor,earliest_analyzable,89473f9740ace94e9fa06ab5561807d284e33876,2026-06-21T16:55:24.000Z,Google,inference_service,package,langchain-google-genai,requirements.txt,high
+AbhiReddy1/AI_datascince_Tutor,earliest_analyzable,57491263c95155a5f406741d9e1db642cdcedb73,2025-03-21T07:54:58.000Z,Google,inference_service,package,google-generativeai,requirements.txt,high
+AbhiReddy1/AI_datascince_Tutor,earliest_analyzable,57491263c95155a5f406741d9e1db642cdcedb73,2025-03-21T07:54:58.000Z,Google,inference_service,package,langchain-google-genai,requirements.txt,high
+ABRB0917/StudyAssistant,earliest_analyzable,b737af742bc0a809878b394755d9bc04567798b6,2026-06-18T14:14:45.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+ABRB0917/StudyAssistant,earliest_analyzable,b737af742bc0a809878b394755d9bc04567798b6,2026-06-18T14:14:45.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+abubakaraabi786/programming-tutor-chatbot,earliest_analyzable,4bad81bca833baf372e4fe5861dc15a177536d78,2025-12-20T11:47:40.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+Achyutar/Engross-Educational-AI,earliest_analyzable,570550a2576f7db4df8af8ea543b369ea912faad,2025-02-17T16:28:54.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+Aditya1546/ai-study-assistant,earliest_analyzable,e7e47e5b8f326abc3b71ff3451cb327f63f533cd,2026-07-07T09:49:23.000Z,Google,inference_service,package,google-generativeai,requirements.txt,high
+Aditya1546/ai-study-assistant,earliest_analyzable,e7e47e5b8f326abc3b71ff3451cb327f63f533cd,2026-07-07T09:49:23.000Z,Groq,inference_service,code_signature,groq_sdk,rag_engine.py,high
+AdityaKokate/StudyAssistant,earliest_analyzable,bf7c4c4f935cb8abfad4c3a8326b02f1513f47d1,2026-07-30T14:34:11.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+AdityaKokate/StudyAssistant,earliest_analyzable,bf7c4c4f935cb8abfad4c3a8326b02f1513f47d1,2026-07-30T14:34:11.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+adriiita/TeachingAssistant,earliest_analyzable,c347d26be1be897fc80fc73ee468a7bcaefb777a,2024-11-20T18:03:30.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+adriiita/TeachingAssistant,earliest_analyzable,c347d26be1be897fc80fc73ee468a7bcaefb777a,2024-11-20T18:03:30.000Z,Groq,inference_service,code_signature,groq_sdk,core/note_generator.py,high
+adriiita/TeachingAssistant,earliest_analyzable,c347d26be1be897fc80fc73ee468a7bcaefb777a,2024-11-20T18:03:30.000Z,Groq,inference_service,code_signature,groq_sdk,core/quiz_generator.py,high
+adriiita/TeachingAssistant,earliest_analyzable,c347d26be1be897fc80fc73ee468a7bcaefb777a,2024-11-20T18:03:30.000Z,Groq,inference_service,package,groq,requirements.txt,high
+Agents-MCP-Hackathon/AI_tutor,earliest_analyzable,1d956004b44e783bd76abd2bdd43e3ef94d7f57e,2025-06-10T04:50:17.000Z,OpenAI,inference_service,code_signature,openai_official,app/chatbot.py,high
+Agents-MCP-Hackathon/AI_tutor,earliest_analyzable,1d956004b44e783bd76abd2bdd43e3ef94d7f57e,2025-06-10T04:50:17.000Z,OpenAI,inference_service,code_signature,openai_official,app/lecture_generator.py,high
+Agents-MCP-Hackathon/AI_tutor,earliest_analyzable,1d956004b44e783bd76abd2bdd43e3ef94d7f57e,2025-06-10T04:50:17.000Z,OpenAI,inference_service,code_signature,openai_official,app/rag_system.py,high
+Akash035/my_study_assistant,earliest_analyzable,cf8ce1019d02405129a26d4003b4b83ba54b77f8,2026-03-07T10:33:41.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Akash035/my_study_assistant,earliest_analyzable,cf8ce1019d02405129a26d4003b4b83ba54b77f8,2026-03-07T10:33:41.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+akhileshjethi/Study-assistant-ai,earliest_analyzable,1500d840a5f47ae6696119165019fda7864f6b41,2025-09-30T06:28:20.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+akshay0149/TeachingAssistant,earliest_analyzable,4c6cf7f54ec0d466c753299af933881eb6bdc39b,2026-07-03T18:35:59.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+Aleesha29/socratic_tutor,earliest_analyzable,417992f5821dda08d59ab340a4db01b0dab73311,2026-02-20T16:28:13.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+alusinebarrie/ai-teaching-assistant,earliest_analyzable,e66bff77679c7746914d2536a7c0201e9464cbec,2024-07-20T20:21:27.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+amalrajmp/StudyAssistant,earliest_analyzable,15b5b50283b8612dc3988f3a93732abed61c5acd,2026-08-16T13:15:08.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+amalrajmp/StudyAssistant,earliest_analyzable,15b5b50283b8612dc3988f3a93732abed61c5acd,2026-08-16T13:15:08.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+aman7935/Quiz_generator,earliest_analyzable,8d08b439a4953396f6a11d5b6115f7b061b4d05e,2025-11-04T09:02:25.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+AneelaFatima/AI_Friendly_Study_Tutor,earliest_analyzable,271a28e2dc1dba25f02a0b03ff4e703bae9ccd3d,2025-08-19T03:12:25.000Z,Groq,inference_service,package,groq,requirements.txt,high
+Anilkumar12/StudyAssistant,earliest_analyzable,8d2d4174adb41a22bfba88e5b6ca3c6a4b74dddd,2026-07-31T06:19:35.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Anilkumar12/StudyAssistant,earliest_analyzable,8d2d4174adb41a22bfba88e5b6ca3c6a4b74dddd,2026-07-31T06:19:35.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+ankittumu/Ace-Study-Assistant,earliest_analyzable,447c392a68a5d820bfabd82707f38e4617a3e36e,2025-09-25T18:08:00.000Z,User-managed runtime,local_runtime,package,ollama,requirements.txt,high
+Anmol2006/AI_Study_Assistant,earliest_analyzable,14ba597ebdcd9dc9d77a3358348f9d30b1598f82,2026-02-09T11:36:32.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Anmol2006/AI_Study_Assistant,earliest_analyzable,14ba597ebdcd9dc9d77a3358348f9d30b1598f82,2026-02-09T11:36:32.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+antedotee/teachingAssistant,earliest_analyzable,c545324ad118de35a529dd19fa61b3cbe72e4ad0,2024-02-21T21:21:17.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+antedotee/teachingAssistant,earliest_analyzable,c545324ad118de35a529dd19fa61b3cbe72e4ad0,2024-02-21T21:21:17.000Z,OpenAI,inference_service,code_signature,openai_official,open_ai_assistants.py,high
+antedotee/teachingAssistant,earliest_analyzable,c545324ad118de35a529dd19fa61b3cbe72e4ad0,2024-02-21T21:21:17.000Z,OpenAI,inference_service,code_signature,openai_official,utils.py,high
+Anupam251272/Education-Chatbot-Anupam,earliest_analyzable,8ccc56337366064885d7c40f09f8786d53a8081e,2025-01-24T11:40:54.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+Apoorvahu/my-study-assistant,earliest_analyzable,62e5d6528063f371eff792a8c7a93895afcbdc84,2026-07-04T03:40:23.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Apoorvahu/my-study-assistant,earliest_analyzable,62e5d6528063f371eff792a8c7a93895afcbdc84,2026-07-04T03:40:23.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+appcreator199/studyassistant,earliest_analyzable,8f8ac0a1f19434f66063ebe81011c79753e7f79f,2025-06-19T03:00:04.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+Archimagos/ai_tutor_3.2,earliest_analyzable,8c029ff099689e278c0118e5f37738d9efef2d9d,2024-07-29T01:49:20.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+Archimagos/ai_tutor_3.2,earliest_analyzable,8c029ff099689e278c0118e5f37738d9efef2d9d,2024-07-29T01:49:20.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+arjunjuneja/socratic-tutor,earliest_analyzable,5c7b7cb1fbba25b545064f59d9216fbe4244f64e,2026-04-08T17:41:39.000Z,Hugging Face,inference_service,code_signature,hf_inference,inference.py,high
+arjunjuneja/socratic-tutor,earliest_analyzable,5c7b7cb1fbba25b545064f59d9216fbe4244f64e,2026-04-08T17:41:39.000Z,Hugging Face,inference_service,code_signature,hf_inference,my_env_v4.py,high
+arjunjuneja/socratic-tutor,earliest_analyzable,5c7b7cb1fbba25b545064f59d9216fbe4244f64e,2026-04-08T17:41:39.000Z,Hugging Face,inference_service,code_signature,hf_inference,server/student_simulator.py,high
+arjunnnnn0720/StudyAssistant,earliest_analyzable,47c5a1dd38bf8ea2c408350eab1162b238958202,2026-08-24T11:22:41.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+arjunnnnn0720/StudyAssistant,earliest_analyzable,47c5a1dd38bf8ea2c408350eab1162b238958202,2026-08-24T11:22:41.000Z,Google,inference_service,package,google-genai,requirements (1).txt,high
+Arko3910/Study_Assistant,earliest_analyzable,5af234872fc188ad4b6709fddad0cdd9f7f7eb0d,2025-11-29T14:08:25.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Armour-12/Quiz-generator-t5base,earliest_analyzable,24134eb07d3d15d96e5b3705595042a2ec8ecc97,2026-03-11T12:41:34.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+Armour-12/Quiz_Generator,earliest_analyzable,faa1a3c800b52fd8afb253c08b91e457b617ac32,2024-02-20T04:49:20.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+ARNABMAJI1234/interactive-study-assistant-demo,earliest_analyzable,06cfe85fc9bd4b21d387d82029a3545bc0213429,2026-08-01T14:19:36.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+ARNABMAJI1234/interactive-study-assistant-demo,earliest_analyzable,06cfe85fc9bd4b21d387d82029a3545bc0213429,2026-08-01T14:19:36.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+arsalan16/Quiz-Generator-App,earliest_analyzable,7daf37b5a3ebdca76b1278cf4468483af0e4822c,2024-12-15T18:53:18.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+Artykun/Ai-Quiz-Generator,earliest_analyzable,12ee7a800cb6738c4b71b5e18402caf83a0cb494,2026-05-04T03:52:08.000Z,Groq,inference_service,code_signature,groq_sdk,backend/main.py,high
+Artykun/Ai-Quiz-Generator,earliest_analyzable,12ee7a800cb6738c4b71b5e18402caf83a0cb494,2026-05-04T03:52:08.000Z,Groq,inference_service,configuration_signature,groq_sdk,backend/.env.example,medium
+Artykun/Ai-Quiz-Generator,earliest_analyzable,12ee7a800cb6738c4b71b5e18402caf83a0cb494,2026-05-04T03:52:08.000Z,Groq,inference_service,package,groq,backend/requirements.txt,high
+asad9641/AI-Study-Assistant-Ragbase,earliest_analyzable,cdad639f93d8081ecc3ea263b44ecd634d45ff9c,2025-11-17T15:40:06.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+Asif1karim/Study_Assistant,earliest_analyzable,6f226e99fd6c6e985cc33a9315abce260e593648,2025-08-02T17:54:09.000Z,Google,inference_service,code_signature,gemini_sdk,rag.py,high
+Asif1karim/Study_Assistant,earliest_analyzable,6f226e99fd6c6e985cc33a9315abce260e593648,2025-08-02T17:54:09.000Z,Google,inference_service,package,langchain-google-genai,requirements.txt,high
+aviatrix/Ai_Powered_Study_Assistant,earliest_analyzable,d116527b5fcf290b57052adf0d72599b9acbc73b,2026-07-11T05:18:13.000Z,Google,inference_service,code_signature,gemini_sdk,assistant.py,high
+aviatrix/Ai_Powered_Study_Assistant,earliest_analyzable,d116527b5fcf290b57052adf0d72599b9acbc73b,2026-07-11T05:18:13.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+ayushsainime/socratic_maths_tutor.ai,earliest_analyzable,1cab945b2a6700835a92d9ac5a408041a3fb8b6b,2026-04-09T08:14:31.000Z,Groq,inference_service,code_signature,groq_sdk,tutor_app/tutor_app.py,high
+ayushsainime/socratic_maths_tutor.ai,earliest_analyzable,1cab945b2a6700835a92d9ac5a408041a3fb8b6b,2026-04-09T08:14:31.000Z,Groq,inference_service,package,groq,requirements.txt,high
+BadaPoojitha/StudyAssistant,earliest_analyzable,4d29b7bdcb720d75d61c1aa70b1a185edf7a46ec,2026-07-04T16:55:13.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+BadaPoojitha/StudyAssistant,earliest_analyzable,4d29b7bdcb720d75d61c1aa70b1a185edf7a46ec,2026-07-04T16:55:13.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Bahauddin01/language-tutor-ai,earliest_analyzable,29ad891f0d56922c6d05421353a2fdc63ef7211f,2026-04-20T11:05:01.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+Belliar666/english-tutor-chatbot,earliest_analyzable,61ab119d38e71a0b7e46a7248fab5132e5a726dc,2025-10-09T19:33:08.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+bhaskarreddy2006/my-study-assistant,earliest_analyzable,6016c8fe0252c14edd113e99858b208cecc6f244,2026-08-05T06:31:07.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+bhaskarreddy2006/my-study-assistant,earliest_analyzable,6016c8fe0252c14edd113e99858b208cecc6f244,2026-08-05T06:31:07.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Bhuvana908/StudyAssistant,earliest_analyzable,40c4f1b6669f6786ea80544897ae798e679266e6,2026-08-02T06:24:11.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Bhuvana908/StudyAssistant,earliest_analyzable,40c4f1b6669f6786ea80544897ae798e679266e6,2026-08-02T06:24:11.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+bielik-chatbot-devteam/english_tutor_bielik_ai,earliest_analyzable,4c7e5a938e838a1af3590dc9f613cc4771057e60,2026-01-11T16:24:46.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+bimboawo2026/AI-Tutor,earliest_analyzable,9ee535e8e50ce69862bdcafecdee21fc49ca7a88,2026-08-26T18:12:27.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+bobo0000/PDF-Quiz-Generator,earliest_analyzable,85950388dfd6e436bf63d3702bea2c3cacf08c33,2025-06-10T23:44:01.000Z,Google,inference_service,code_signature,gemini_sdk,app.py.py,high
+bobo0000/PDF-Quiz-Generator,earliest_analyzable,85950388dfd6e436bf63d3702bea2c3cacf08c33,2025-06-10T23:44:01.000Z,Google,inference_service,package,google-generativeai,REQUIREMENTS.txt,high
+brcew/ai-engineering-tutor,earliest_analyzable,6e79586061b9d6c8c4fa1944255aa6a9ad92e066,2026-05-15T12:31:15.000Z,Groq,inference_service,code_signature,groq_sdk,ai_engineering_tutor.py,high
+BRH-Burhanudin/kimia-ai-tutor,earliest_analyzable,d98aa21dc1fb4224e32e3421178b24dcdf5a462a,2026-06-21T12:59:21.000Z,Google,inference_service,code_signature,gemini_sdk,extract_soal.py,high
+BRH-Burhanudin/kimia-ai-tutor,earliest_analyzable,d98aa21dc1fb4224e32e3421178b24dcdf5a462a,2026-06-21T12:59:21.000Z,Google,inference_service,code_signature,gemini_sdk,generate_hints.py,high
+BRH-Burhanudin/kimia-ai-tutor,earliest_analyzable,d98aa21dc1fb4224e32e3421178b24dcdf5a462a,2026-06-21T12:59:21.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+BRH-Burhanudin/kimia-ai-tutor,earliest_analyzable,d98aa21dc1fb4224e32e3421178b24dcdf5a462a,2026-06-21T12:59:21.000Z,Google,inference_service,package,langchain-google-genai,requirements.txt,high
+BRH-Burhanudin/kimia-ai-tutor,earliest_analyzable,d98aa21dc1fb4224e32e3421178b24dcdf5a462a,2026-06-21T12:59:21.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+Brisha124/AI_TUTOR,earliest_analyzable,575285b190ab3aec8093ba5cec3198c9b224c763,2026-07-03T09:23:33.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+build-small-hackathon/tutordesk-ai,earliest_analyzable,04faa3348c7a03e57b004d49520c097c014bfcc0,2026-06-11T11:07:28.000Z,Cohere,inference_service,configuration_signature,cohere_sdk,.env.example,medium
+build-small-hackathon/tutordesk-ai,earliest_analyzable,04faa3348c7a03e57b004d49520c097c014bfcc0,2026-06-11T11:07:28.000Z,Cohere,inference_service,package,cohere,requirements.txt,high
+build-small-hackathon/tutordesk-ai,earliest_analyzable,04faa3348c7a03e57b004d49520c097c014bfcc0,2026-06-11T11:07:28.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+BUNNY95R/AI_study_assistant,earliest_analyzable,467b612023e95a4f8c9a7edd0938afb6fe2cd874,2026-08-11T16:44:38.000Z,Google,inference_service,code_signature,gemini_sdk,app (1).py,high
+BUNNY95R/AI_study_assistant,earliest_analyzable,467b612023e95a4f8c9a7edd0938afb6fe2cd874,2026-08-11T16:44:38.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+chandrakireeti/StudyAssistant,earliest_analyzable,8ce4d6321ea4d240e09fcce906e67c2c52d4acb5,2026-07-13T16:34:51.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+chandrakireeti/StudyAssistant,earliest_analyzable,8ce4d6321ea4d240e09fcce906e67c2c52d4acb5,2026-07-13T16:34:51.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Charan-27-10/AI_TUTOR,earliest_analyzable,c655c2de1187a635e135737676705d39eac40118,2026-07-01T16:17:32.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+cheriftassii/my-ai-tutor,earliest_analyzable,64115309839b5449e0b5cef3d1b7a7247ca0775c,2025-03-24T22:24:21.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+Chidvilash3/socratic-tutor,earliest_analyzable,312b419843ae894f628d4e389abfeee3c84cc835,2026-06-28T11:43:13.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+chsubhasis/AI_Tutor,earliest_analyzable,a21db6eb382de90a94bf3ab59c31ac262a6a0a24,2024-11-23T15:06:41.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+cipher2150/Study-Assistant,earliest_analyzable,4301aacff458dbed89eecaf2ebbae7868262f972,2026-04-14T04:48:06.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+cipher2150/Study-Assistant,earliest_analyzable,4301aacff458dbed89eecaf2ebbae7868262f972,2026-04-14T04:48:06.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+clugg25/cluggos-ai-quiz-generator,earliest_analyzable,00b2f41d8b84c3b99bb5b6e0a7587a7a1755a5e0,2025-11-28T17:18:43.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+codewithchaitanya15/StudyAssistant,earliest_analyzable,6930a0d27e9eeb0d6791f5e21b3457e13af04225,2026-07-23T17:59:03.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+codewithchaitanya15/StudyAssistant,earliest_analyzable,6930a0d27e9eeb0d6791f5e21b3457e13af04225,2026-07-23T17:59:03.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+cosmoEagle/DSA-Teaching-Assistant,earliest_analyzable,503fb4d8705cc0cd9aa4f53ea577f0490bb5a86f,2025-02-28T13:57:47.000Z,Google,inference_service,code_signature,gemini_sdk,utils/llm_handler.py,high
+cosmoEagle/DSA-Teaching-Assistant,earliest_analyzable,503fb4d8705cc0cd9aa4f53ea577f0490bb5a86f,2025-02-28T13:57:47.000Z,Google,inference_service,package,google-generativeai,requirements.txt,high
+crystallizedcrust/quiz-generator,earliest_analyzable,41d37a812709d10751f1c64a8e607b5eba7bb233,2025-09-10T16:07:46.000Z,Google,inference_service,package,google-generativeai,backend/requirements.txt,high
+CT-AITUTOR/AITUTOR,earliest_analyzable,da6d0520c7dc2e1f676909ba6653f4019bb75f89,2024-05-18T01:40:13.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+Cyfer-ap/AI-Coding-Tutor,earliest_analyzable,1c15bbabaad198bc434fcf05d2d3940a502ff2c8,2025-05-23T11:19:04.000Z,Hugging Face,inference_service,code_signature,hf_inference,backend/debug_hf_api.py,high
+danielspba/Chatbot_prof_tutor,earliest_analyzable,6f09332e1e042b1999808015c6e7836d46ada217,2025-04-23T17:38:09.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+danielspba/Chatbot_prof_tutor,earliest_analyzable,6f09332e1e042b1999808015c6e7836d46ada217,2025-04-23T17:38:09.000Z,OpenRouter,inference_service,code_signature,openrouter_endpoint,app.py,high
+danrdoran/ai_tutor_flan_base,earliest_analyzable,d5ce1e00e750b2a92fba8d1651b0ea05e9c21a48,2024-10-13T17:33:41.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+danrdoran/ai_tutor_flan_t5_large,earliest_analyzable,8f9273986397e3b54b075c03f3e3572053c5c853,2024-10-13T17:47:59.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+danrdoran/ai_tutor_gpt_neox,earliest_analyzable,0ecec4b23d654c6daebdb139572a948804920d37,2024-10-14T18:15:41.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+danrdoran/ai_tutor_llama,earliest_analyzable,e58cfee6272c4aadc001a672b1f75ecffa1e7ce4,2024-10-14T18:04:06.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+danrdoran/ai_tutor_v2,earliest_analyzable,1d9a7ea0fe70904fb8fa2220d2c4efa45c869203,2024-10-11T16:16:25.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+DataRebels/chatbot_language_tutor,earliest_analyzable,ad1c93b15d20dcaab641d543467a872d3f562eed,2024-05-22T03:09:11.000Z,OpenAI,inference_service,code_signature,openai_official,stream_app.py,high
+david280010195/Teaching_Assistant_AI,earliest_analyzable,14dd2583fa8e242345f23e8480f6ea76fcde6089,2024-09-28T10:11:39.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+deepang1902/quiz-generator-api,earliest_analyzable,77093121cea41299234cdaf434d1f55651082d31,2025-10-14T18:35:23.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+DeepLearningAI/quiz-generator-v3,earliest_analyzable,217abc39de157397a9e05af6578e3c3bda879992,2026-02-23T23:47:30.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+DeepLearningAI/quiz-generator-v3,earliest_analyzable,217abc39de157397a9e05af6578e3c3bda879992,2026-02-23T23:47:30.000Z,OpenAI,inference_service,code_signature,openai_official,learning_objective_generator/generator.py,high
+deneve07/pharma-quiz-generator,earliest_analyzable,ecb21cb170a68952cff1f73d2979033feda51b74,2026-03-11T00:45:04.000Z,Google,inference_service,package,google-generativeai,requirements.txt,high
+dhanushshenoyh/study_assistant,earliest_analyzable,94c2e6fe859e23de674d2be63c88632d23084755,2026-05-10T12:15:18.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+dhanushshenoyh/study_assistant,earliest_analyzable,94c2e6fe859e23de674d2be63c88632d23084755,2026-05-10T12:15:18.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+DheerajKausik/RAG_BASED_AI_TEACHING_ASSISTANT,earliest_analyzable,87d51deb631483a9faaa944158e5d678ae2195a5,2025-10-10T12:32:02.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+dhivakar/my-study-assistant,earliest_analyzable,8d791ce02c7f9ae4bfaff6bd244950f7ce86c3fa,2026-07-21T11:00:30.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+dinu143/Study-Assistant,earliest_analyzable,d2bd3f21f2b14cfcd4367eae6e6a74b63587bfe7,2026-07-05T08:17:05.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+dinu143/Study-Assistant,earliest_analyzable,d2bd3f21f2b14cfcd4367eae6e6a74b63587bfe7,2026-07-05T08:17:05.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+DipakBundheliya/flask_ai_tutor,earliest_analyzable,684e77a80ae52a620f58c5f17458e67d5dc444e2,2024-06-26T09:42:15.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+DipakBundheliya/flask_ai_tutor,earliest_analyzable,684e77a80ae52a620f58c5f17458e67d5dc444e2,2024-06-26T09:42:15.000Z,Groq,inference_service,package,groq,requirements.txt,high
+DoctorHolly/BIO_Tutor_Chatbot,earliest_analyzable,ad6d2ba384ea83a922349e07a94a999674891e5c,2024-12-17T20:28:32.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+doudoug1/educational-chatbot,earliest_analyzable,2f221dc98ff4a53dfb220bc512703ed34f43ef14,2025-02-27T18:40:13.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+DroolingPanda/teachingAssistant,earliest_analyzable,cd1309db363a599274b6b2d6f3c05cbe667c8804,2025-01-25T22:40:12.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,utils/stt.py,high
+DroolingPanda/teachingAssistant,earliest_analyzable,cd1309db363a599274b6b2d6f3c05cbe667c8804,2025-01-25T22:40:12.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,utils/translation.py,high
+DroolingPanda/teachingAssistant,earliest_analyzable,cd1309db363a599274b6b2d6f3c05cbe667c8804,2025-01-25T22:40:12.000Z,User-managed runtime,local_runtime,package,transformers,pyproject.toml,high
+echarif/education_chatbot,earliest_analyzable,3846fcf92e48d1fedf0543819175ab7fc71d44e6,2025-05-23T14:00:05.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+educationAI/education-ai-study-assistant,earliest_analyzable,fe0f1d81d7b5add5f70580ff2fdf9e65122474ba,2025-09-03T12:55:52.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+Ehtisham-84/Study-Assistant,earliest_analyzable,ce30aa809ec2d064f4bb032648b32cafab8e78f1,2025-11-22T17:09:37.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+ekantabanik/Tutor_Ai,earliest_analyzable,324b6dbbbfe00c393de768abf4d3b49a0be41ecb,2026-07-21T10:35:15.000Z,Groq,inference_service,code_signature,groq_sdk,agents/agents.py,high
+ekerin/german-tutor-chatbot,earliest_analyzable,bfbc55f0fc12e3a73e60d9a6fd2ca79c74dfa01b,2025-09-02T13:46:24.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+ekerin/german-tutor-chatbot-v2,earliest_analyzable,7eb42fa4c1d9f8355498d629f31c7b01c33d588f,2025-09-02T14:30:33.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+ekerin/german-tutor-chatbot-v2,earliest_analyzable,7eb42fa4c1d9f8355498d629f31c7b01c33d588f,2025-09-02T14:30:33.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+elsi29/Quiz-Generator-TextPy,earliest_analyzable,6225483595ae4232e128798450fe9784e1682db5,2026-06-28T14:47:54.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+emanramadan/Tutor_Chatbot,earliest_analyzable,3f7f6ec42746e010e87be1c5277a01d3005b2fc9,2024-12-15T18:17:44.000Z,Google,inference_service,package,google-generativeai,requirements.txt,high
+emanramadan/Tutor_Chatbot_,earliest_analyzable,3f7f6ec42746e010e87be1c5277a01d3005b2fc9,2024-12-15T18:17:44.000Z,Google,inference_service,package,google-generativeai,requirements.txt,high
+emashahzad/StudyAssistant,earliest_analyzable,2d0083507ed9a782e73a3d5685bba8f2381109b3,2026-02-12T08:33:49.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+emashahzad/StudyAssistant,earliest_analyzable,2d0083507ed9a782e73a3d5685bba8f2381109b3,2026-02-12T08:33:49.000Z,Groq,inference_service,package,groq,requirements.txt,high
+engrsalman/Educational-AI-Chatbot,earliest_analyzable,4e85d4a07ff7c7168b3f9c48d3e4e09c88aabac0,2024-11-20T09:49:37.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+eoinmcg/ai_tutor,earliest_analyzable,869b0569cba57f5fddb2cb60c1bc8cdea93d411e,2025-02-18T07:51:35.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+fabeha-raheel/ai_study_assistant,earliest_analyzable,ff4c42ffbabe8bc3a55fa7a91fb408f4825ce748,2025-11-14T15:38:30.000Z,Groq,inference_service,package,groq,requirements.txt,high
+fahadsiddiqui337/AI-education-chatbot,earliest_analyzable,ab7b5e1c992c8244fcbc911f2decdd344f4fc74a,2025-02-24T09:47:19.000Z,Google,inference_service,package,google-generativeai,requirements.txt,high
+fahadsiddiqui337/AI-education-chatbot,earliest_analyzable,ab7b5e1c992c8244fcbc911f2decdd344f4fc74a,2025-02-24T09:47:19.000Z,Google,inference_service,package,langchain-google-genai,requirements.txt,high
+Faiz3399/Ai-tutor-assistant,earliest_analyzable,77e0b26dc87f401e47fae6088a2856dc82e49082,2025-02-23T15:38:43.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+Fatma033/Educational-Chatbot,earliest_analyzable,ca6e904e6388d5387ca5a23ea249b647dda970a9,2025-10-14T21:35:52.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+fatymah12/AI_Quiz_Generator,earliest_analyzable,865e0b080af8d0e792dd8ba73d114d430714a16c,2026-04-10T10:53:39.000Z,Groq,inference_service,package,groq,requirements.txt,high
+Felrose/trisem-lesson-plan-generator,earliest_analyzable,2d3d4162a059401d21ec438fb84f6d55c69060df,2026-05-10T04:43:53.000Z,Google,inference_service,package,google-generativeai,requirements.txt,high
+Felrose/trisem-lesson-plan-generator-ENGLISH-LINK2,earliest_analyzable,2d3d4162a059401d21ec438fb84f6d55c69060df,2026-05-10T04:43:53.000Z,Google,inference_service,package,google-generativeai,requirements.txt,high
+firobeid/AI_Tutor,earliest_analyzable,593d600ff767f4b4352452325265d016b3eb5b2f,2025-02-12T02:14:48.000Z,Groq,inference_service,package,groq,requirements .txt,high
+fizailyas783/smart-study-assistant,earliest_analyzable,2526e3416d61b885e2efffde6bbbce4028fa8b3f,2026-04-23T07:53:19.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+fizailyas783/smart-study-assistant,earliest_analyzable,2526e3416d61b885e2efffde6bbbce4028fa8b3f,2026-04-23T07:53:19.000Z,Groq,inference_service,package,groq,requirements.txt,high
+flexfitfury9/ai-educational-platform,earliest_analyzable,3d1ee5c4a7004fed969c99cf79a73821d770eb9c,2026-01-05T17:39:58.000Z,OpenRouter,inference_service,code_signature,openrouter_endpoint,app.py,high
+forWard666/AL_TEACHING_ASSISTANT,earliest_analyzable,b869c878be4c0c2da8ea71b5998b976470550665,2024-07-16T08:06:32.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+geekaijosh/Agent_AI_Tutor,earliest_analyzable,84ffd356db2ed3098d73a026c853d9e409e8b043,2025-06-22T16:00:32.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+Gimgaru/finalproject_aitutor,earliest_analyzable,c680bf43ebd6be00d8a6a800ab70c74e10a41972,2026-06-08T12:13:42.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+gneya/educational_chatbot,earliest_analyzable,e322dc397ca355590ecf14e0158626585c699e79,2024-05-29T08:59:32.000Z,Groq,inference_service,code_signature,groq_sdk,utils.py,high
+GoIpKrIsHnA/studyAssistantAI,earliest_analyzable,ca8acf69f5ccb5a836cafe04b1797aca0761d5e4,2026-07-04T05:33:18.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+GoIpKrIsHnA/studyAssistantAI,earliest_analyzable,ca8acf69f5ccb5a836cafe04b1797aca0761d5e4,2026-07-04T05:33:18.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+google/rad_learning_companion,earliest_analyzable,81cdd5ffdcecd1ce5522821c69897082d7b8ad72,2025-07-28T15:45:04.000Z,User-managed runtime,local_runtime,package,transformers,backend/requirements.txt,high
+gopichand55k/StudyAssistant,earliest_analyzable,4b4c73d6db2021e3073df753c869c3c2f106cec4,2026-04-18T05:41:28.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+gopichand55k/StudyAssistant,earliest_analyzable,4b4c73d6db2021e3073df753c869c3c2f106cec4,2026-04-18T05:41:28.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+gouravbathla/Language_Tutor,earliest_analyzable,aa48c8572aaee06ad17fedd1eecda2fdf623c855,2026-06-05T09:41:52.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+gouravbathla/Language_Tutor,earliest_analyzable,aa48c8572aaee06ad17fedd1eecda2fdf623c855,2026-06-05T09:41:52.000Z,OpenAI,inference_service,code_signature,openai_official,grammar_evaluator_agent.py,high
+gouravbathla/Language_Tutor,earliest_analyzable,aa48c8572aaee06ad17fedd1eecda2fdf623c855,2026-06-05T09:41:52.000Z,OpenAI,inference_service,code_signature,openai_official,grammar_mcq_agent.py,high
+gr3g0r-i/quiz-generator,earliest_analyzable,3cf612b1e2f2363ab774e66e5cfdd36be2fd4573,2025-05-31T13:52:38.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+habiba-elshrkawy/quiz-generator,earliest_analyzable,ecb83d43c6af5d5270c78136db661ff80710d872,2026-06-11T10:16:11.000Z,Groq,inference_service,package,groq,requirements.txt,high
+Hafeezaqsa01/Quiz_generator,earliest_analyzable,b0a147056e2fbdc3d005c998d2b4f5ac55c3a0c3,2026-03-08T17:06:09.000Z,Groq,inference_service,package,groq,requirements.txt,high
+Hafsah-Fatima/Programming_Tutor_Chatbot,earliest_analyzable,9f88b6b1154a9d7f310802713eebdb1d34c32125,2025-12-24T08:16:35.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+Hardik2704/Teaching_Assistant,earliest_analyzable,6d32081ca2e77679ad07b938b689eca12f1d4c5c,2024-12-13T10:35:00.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Hareesh221/30-day-course-generator,earliest_analyzable,68ffc072eb27032da97c2726a0829d76024098b7,2025-12-04T07:58:50.000Z,Google,inference_service,package,google-generativeai,requirements.txt,high
+harika-donthula/my-study-assistant,earliest_analyzable,98e5081cab8a538e1496dc6d2264958606f42a17,2026-07-04T20:26:44.000Z,Google,inference_service,code_signature,gemini_sdk,app (1).py,high
+harika-donthula/my-study-assistant,earliest_analyzable,98e5081cab8a538e1496dc6d2264958606f42a17,2026-07-04T20:26:44.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+harikagajjala/AI_TUTOR,earliest_analyzable,bf558537c21db78215d1a2f1fa710564fd95daac,2026-07-06T08:03:01.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+HarryPotter1o1/Study_Assistant,earliest_analyzable,86f8c7089c4aeb37a123efa55c62413f794cb583,2025-07-30T11:46:11.000Z,Groq,inference_service,package,groq,requirements.txt,high
+Harsha855/StudyAssistant,earliest_analyzable,713ac79b4ba77ac82c5ca1cc2621892049774290,2026-02-27T06:21:41.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Harsha855/StudyAssistant,earliest_analyzable,713ac79b4ba77ac82c5ca1cc2621892049774290,2026-02-27T06:21:41.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+harshu07/ai_tutor,earliest_analyzable,a3748da889d7ef5549f051cd55d4476a19afc343,2025-02-08T04:33:17.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+hasithmutha/quiz-generator-ai,earliest_analyzable,70e769cd8a6788931a34d7a2f00b644bbe83fb3a,2025-04-19T13:24:13.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+HemanthRaj/Socratic-AI-Tutor-Model,earliest_analyzable,b56053e296e08d1ac0347c67447a67572af21491,2025-06-30T13:48:17.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+HemanthRaj/Socratic-AI-Tutor-Model,earliest_analyzable,b56053e296e08d1ac0347c67447a67572af21491,2025-06-30T13:48:17.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+HemanthRaj/socratic-tutor-embedder,earliest_analyzable,feff02f80cca13167a9bd3d3cee4629920f3cbff,2025-07-13T17:00:57.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+HumeraAI/lesson-plan-generator,earliest_analyzable,6fa73dc42ff779b8fb52f0aebf5d2f6cb1a6a626,2026-05-04T05:51:59.000Z,Groq,inference_service,package,groq,requirements.txt,high
+HumeraAI/quiz-generator-from-PDF,earliest_analyzable,ef6a78b224836b127d98a18b37607e783c944a63,2026-04-16T06:30:40.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+hussainzaidi/AI-Teaching-Assistant,earliest_analyzable,536f7baea3d842679032a167269c56fe2c8770e0,2025-09-22T08:58:15.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+hussainzaidi/AI-Teaching-Assistant,earliest_analyzable,536f7baea3d842679032a167269c56fe2c8770e0,2025-09-22T08:58:15.000Z,Groq,inference_service,package,groq,requirements.txt,high
+husseinhug321/Study-Buddy-AI-Learning-Assistant,earliest_analyzable,6f5ce4c1debca80db6011deeb054678128bc7b2e,2025-02-24T18:12:08.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,local.py,high
+hyder-ali/ai_tutor,earliest_analyzable,330cdbeeb92424b2a6b19b2bc73cb1afb9c3a627,2024-12-27T12:57:20.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+iamyash222/studyAssistant,earliest_analyzable,9aae886b43ecddb443ea7621ca1cdd170c74fa38,2026-07-07T08:06:09.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+iamyash222/studyAssistant,earliest_analyzable,9aae886b43ecddb443ea7621ca1cdd170c74fa38,2026-07-07T08:06:09.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+ifaundezf/estudiapp-quiz-generator,earliest_analyzable,4b8736bba1a8480749c04618ab1dd32e72e421d4,2025-04-30T01:40:32.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+iju123/Quiz_Generator,earliest_analyzable,98e7b1d39241957521bebeffdac50c447c95f91c,2025-08-25T06:46:13.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+ilangs/AI_Math_Tutor,earliest_analyzable,627b67b25eea6f7ea3733cc74d3a142d7027b692,2026-03-13T07:04:12.000Z,OpenAI,inference_service,code_signature,openai_official,RAG_sys/csv_refiner.py,high
+ilangs/AI_Math_Tutor,earliest_analyzable,627b67b25eea6f7ea3733cc74d3a142d7027b692,2026-03-13T07:04:12.000Z,OpenAI,inference_service,code_signature,openai_official,RAG_sys/rag_helper.py,high
+ishanmm0410/rag-quiz-generator,earliest_analyzable,e7e6d3d08012560a4c2eacb57bf6164a8e60beb9,2026-04-27T01:54:19.000Z,Groq,inference_service,code_signature,groq_sdk,quiz_generator.py,high
+ishanmm0410/rag-quiz-generator,earliest_analyzable,e7e6d3d08012560a4c2eacb57bf6164a8e60beb9,2026-04-27T01:54:19.000Z,Groq,inference_service,package,groq,requirements.txt,high
+isreyas/Study_Assistant,earliest_analyzable,29656ba06d7441cf8c3bcabcdca523a826e32c68,2026-07-05T05:56:09.000Z,Google,inference_service,code_signature,gemini_sdk,study.py,high
+itsh4r01/AI-Quiz-Generator,earliest_analyzable,a98fbe42a8e9aa38ce45fab2c3850e907c1a2050,2026-07-21T09:55:29.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+Jainish210705/Quiz_Generator,earliest_analyzable,1aee94d411ac2bcb6a8e51ea4cacbf4127e3a011,2025-09-21T08:34:47.000Z,Google,inference_service,package,langchain-google-genai,requirements.txt,high
+jakeeeeeeee/my-study-assistant,earliest_analyzable,c3e1259394fc6d83699cf0a477f8358627871e1d,2026-08-02T10:40:48.000Z,Google,inference_service,code_signature,gemini_sdk,app (1).py,high
+jakeeeeeeee/my-study-assistant,earliest_analyzable,c3e1259394fc6d83699cf0a477f8358627871e1d,2026-08-02T10:40:48.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Janakimeena/RAG-Base-Educational-Chatbot,earliest_analyzable,eca8311c023206ed3d02c6ccc2af16918ed64a04,2026-05-12T09:33:03.000Z,Google,inference_service,code_signature,gemini_sdk,chat_faiss.py,high
+Janakimeena/RAG-Base-Educational-Chatbot,earliest_analyzable,eca8311c023206ed3d02c6ccc2af16918ed64a04,2026-05-12T09:33:03.000Z,Google,inference_service,code_signature,gemini_sdk,rag_fastapi_gui.py,high
+Janakimeena/RAG-Base-Educational-Chatbot,earliest_analyzable,eca8311c023206ed3d02c6ccc2af16918ed64a04,2026-05-12T09:33:03.000Z,Google,inference_service,package,langchain-google-genai,requirements.txt,high
+Jayadityasahu/my-study-assistant,earliest_analyzable,8320b1eea0974addf8d6eb88c56810ea04831df5,2026-08-29T09:03:15.000Z,Google,inference_service,code_signature,gemini_sdk,app (1).py,high
+Jayadityasahu/my-study-assistant,earliest_analyzable,8320b1eea0974addf8d6eb88c56810ea04831df5,2026-08-29T09:03:15.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+jayeshjachak/Study_Assistant,earliest_analyzable,7cf792cf66d8d3fc0b44d03f4e4bd386d791bac9,2026-04-13T09:29:51.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+jayeshjachak/Study_Assistant,earliest_analyzable,7cf792cf66d8d3fc0b44d03f4e4bd386d791bac9,2026-04-13T09:29:51.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+jdbolter/language-tutor,earliest_analyzable,244b8f2fc6907b5f14180426505072f061b0bc20,2025-06-20T01:28:34.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+jenny-yuu/english-teaching-assistant,earliest_analyzable,718ba4c7d552ba58324f88f86d826b3ca3de734c,2025-10-19T18:04:51.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+jenny-yuu/english-teaching-assistant,earliest_analyzable,718ba4c7d552ba58324f88f86d826b3ca3de734c,2025-10-19T18:04:51.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+jeyabala2905/12th-biology-ai-tutor,earliest_analyzable,877bcd39ed45aa4ceac9b417c89a7e71e5022346,2026-06-25T15:20:08.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+jimmyyzz/Quiz_Generator,earliest_analyzable,69fca7ab09c3fefaf9e3c6c23f30169a3c63b06f,2026-02-07T10:29:32.000Z,Groq,inference_service,code_signature,groq_sdk,app/config.py,high
+jlazoflores/Language_Tutor,earliest_analyzable,4b9febd5949cb2b2902ff989f304036e78744b5e,2025-11-18T16:53:13.000Z,Hugging Face,inference_service,code_signature,hf_inference,language_tutor.py,high
+jlazoflores/Language_Tutor,earliest_analyzable,4b9febd5949cb2b2902ff989f304036e78744b5e,2025-11-18T16:53:13.000Z,OpenAI,inference_service,code_signature,openai_official,voice_handler.py,high
+jonowrenn/cs-study-assistant,earliest_analyzable,2149ac3dc9ca24b31a32c50ad3082e3ebceeabad,2025-08-12T22:33:26.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+Josebert/JR_Quiz_Generator,earliest_analyzable,2eb6cd8fdad80e3769d734d807e5e549f51e01ad,2025-02-20T01:24:03.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+JPPD/Tutor-fisica-abp-chatbot,earliest_analyzable,a9681127e76cf18d95d7799d962ab9351dded4e4,2025-04-16T04:51:11.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+JulsdL/AI-Notebook-Tutor,earliest_analyzable,14c0e588573989c1bb003fd47af37e0eda276fb4,2024-05-13T08:59:22.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+Junaidblr/lesson-plan-generator,earliest_analyzable,6fa73dc42ff779b8fb52f0aebf5d2f6cb1a6a626,2026-05-04T05:51:59.000Z,Groq,inference_service,package,groq,requirements.txt,high
+jyoti210303/quiz-question-generator,earliest_analyzable,4a0f52b7f1b24af957993fd8bb7ef2b460ebd7c9,2025-08-18T17:33:03.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+KaifKohari/ai-math-tutor,earliest_analyzable,ab432812d1d70cf0687604a6a4aa8bb616ee68ff,2025-02-28T19:57:33.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+kanagaraj/StudyAssistant,earliest_analyzable,49dab4917f675b65105bfd49000c36d7429dfb74,2026-08-07T06:06:57.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+kanagaraj/StudyAssistant,earliest_analyzable,49dab4917f675b65105bfd49000c36d7429dfb74,2026-08-07T06:06:57.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+karibubybsf/ai_tutor,earliest_analyzable,c450a86aab85dfd6665d3d076eefb09cb2688ebc,2024-12-18T13:06:20.000Z,Hugging Face,inference_service,code_signature,hf_inference,api.py,high
+karibubybsf/ai_tutor_v2,earliest_analyzable,c450a86aab85dfd6665d3d076eefb09cb2688ebc,2024-12-18T13:06:20.000Z,Hugging Face,inference_service,code_signature,hf_inference,api.py,high
+karibubybsf/ai_tutor_v3,earliest_analyzable,c450a86aab85dfd6665d3d076eefb09cb2688ebc,2024-12-18T13:06:20.000Z,Hugging Face,inference_service,code_signature,hf_inference,api.py,high
+KashishM/study_assistant,earliest_analyzable,d0270b403e6f155529ac63e96eb06966543c9626,2025-11-20T06:35:45.000Z,Groq,inference_service,code_signature,groq_sdk,backend/poc_app.py,high
+KashTheDev123/Accounting-Tutor-AI,earliest_analyzable,9bb7e015fab980ad051057380b3a802c4282b9a7,2026-03-02T18:22:37.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+Kaveri2109/rag-teaching-assistant,earliest_analyzable,0e7045cf72389d7543dcc4711bc26c5bef80f4c3,2026-03-28T04:20:29.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+ke955/smm2-course-generator,earliest_analyzable,dadec55a4f6d0b7cb2e699013de4fc8645a5433e,2026-04-13T10:51:30.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+Keerthana96/bridge_course_generator,earliest_analyzable,32ffd41032da5b56b80b3efbc35763b11eea0665,2026-02-24T09:06:50.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+khankashif/education_assistant_chatbot,earliest_analyzable,70a0e1f8339fd542cb8a97beed03827803f53f70,2025-02-18T11:33:05.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+Khanmx99/Pak-Angels-AI-Tutor,earliest_analyzable,cebd780c2f666a1a5ebc138160db755ecf4e143d,2026-07-11T07:46:16.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+Khanmx99/Pak-Angels-AI-Tutor,earliest_analyzable,cebd780c2f666a1a5ebc138160db755ecf4e143d,2026-07-11T07:46:16.000Z,OpenAI,inference_service,code_signature,openai_official,config.py,high
+Khanmx99/Pak-Angels-AI-Tutor,earliest_analyzable,cebd780c2f666a1a5ebc138160db755ecf4e143d,2026-07-11T07:46:16.000Z,OpenAI,inference_service,code_signature,openai_official,deploy_to_huggingface.py,high
+Khanmx99/Pak-Angels-AI-Tutor,earliest_analyzable,cebd780c2f666a1a5ebc138160db755ecf4e143d,2026-07-11T07:46:16.000Z,OpenAI,inference_service,code_signature,openai_official,openai_service.py,high
+Khanmx99/Pak-Angels-AI-Tutor,earliest_analyzable,cebd780c2f666a1a5ebc138160db755ecf4e143d,2026-07-11T07:46:16.000Z,OpenAI,inference_service,configuration_signature,openai_official,.env.example,medium
+KhansaAQureshi/AI_Tutor,earliest_analyzable,eda1b4fe6690bcfb602c1b55a838a7bbbd080b66,2025-02-13T19:31:53.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+kinely/Study-Assistant,earliest_analyzable,f4947f0576279ed67e7df8e95ee7d45e1d3a6950,2024-11-25T05:15:35.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+king011/AI-quiz-generator,earliest_analyzable,a1366ba1b8e617dd70f17561c276e328d613cc53,2025-02-27T09:39:01.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+kodamkarthik281/AI_Conversational_Tutor,earliest_analyzable,8f1bfb7ea10098a2be3144f135d815685f67ba03,2025-03-24T18:18:15.000Z,Google,inference_service,package,langchain-google-genai,requirements.txt,high
+kr1shnasharma/academic-tutor-ai,earliest_analyzable,2a18e19e9f55893add07b90743694f0a9a87d21d,2026-06-23T13:14:53.000Z,Google,inference_service,configuration_signature,gemini_sdk,backend/.env.example,medium
+kr1shnasharma/academic-tutor-ai,earliest_analyzable,2a18e19e9f55893add07b90743694f0a9a87d21d,2026-06-23T13:14:53.000Z,Groq,inference_service,code_signature,groq_sdk,backend/main.py,high
+kr1shnasharma/swp1-academic-ai-tutor,earliest_analyzable,8a1093332f1335febb7eb17e59dedfff2bba17b0,2026-04-12T11:17:22.000Z,Google,inference_service,code_signature,gemini_sdk,app/config.py,high
+kr1shnasharma/swp1-academic-ai-tutor,earliest_analyzable,8a1093332f1335febb7eb17e59dedfff2bba17b0,2026-04-12T11:17:22.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Krishna-108/study-assistant,earliest_analyzable,337108269a9f9141ba7ef5b99eb1800f7b2d9e7b,2026-07-27T16:17:26.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Krishna-108/study-assistant,earliest_analyzable,337108269a9f9141ba7ef5b99eb1800f7b2d9e7b,2026-07-27T16:17:26.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+krishnachaithanya26/StudyAssistant,earliest_analyzable,3130ae9c21eef7bfc29c3bb159506c0f8c5c14d7,2026-02-25T08:39:57.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+krishnachaithanya26/StudyAssistant,earliest_analyzable,3130ae9c21eef7bfc29c3bb159506c0f8c5c14d7,2026-02-25T08:39:57.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+KunalGupta1212/Quiz-generator,earliest_analyzable,7462e5c276efc8e007aa19cc415f7b79248fb326,2025-08-16T17:38:19.000Z,Hugging Face,inference_service,code_signature,hf_inference,hf_quiz_generator.py,high
+kundan857/StudyAssistant,earliest_analyzable,ef41d22aeecb2f71fe8efd02e1c73a78293f917e,2026-05-08T05:00:42.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+kundan857/StudyAssistant,earliest_analyzable,ef41d22aeecb2f71fe8efd02e1c73a78293f917e,2026-05-08T05:00:42.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,earliest_analyzable,0ff6f8a4a38cc112472f32fed39032dbc39eef22,2025-04-09T03:55:26.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,earliest_analyzable,0ff6f8a4a38cc112472f32fed39032dbc39eef22,2025-04-09T03:55:26.000Z,Groq,inference_service,package,groq,requirements.txt,high
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,earliest_analyzable,0ff6f8a4a38cc112472f32fed39032dbc39eef22,2025-04-09T03:55:26.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,earliest_analyzable,0ff6f8a4a38cc112472f32fed39032dbc39eef22,2025-04-09T03:55:26.000Z,User-managed runtime,local_runtime,package,llama-cpp-python,requirements.txt,high
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,earliest_analyzable,0ff6f8a4a38cc112472f32fed39032dbc39eef22,2025-04-09T03:55:26.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+louiecerv/problem_solving_ai_tutor,earliest_analyzable,f28ca6486181dfcef504bc5047e0a8c428612867,2025-02-28T08:32:35.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+louiecerv/problem_solving_ai_tutor,earliest_analyzable,f28ca6486181dfcef504bc5047e0a8c428612867,2025-02-28T08:32:35.000Z,Google,inference_service,package,google-generativeai,requirements.txt,high
+LoveJesus/biblical-language-tutor-chirho,earliest_analyzable,83f56b9a7dbcbf4e659eabf45b21d93683caa785,2026-02-14T12:28:33.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+LoveJesus/biblical-language-tutor-chirho,earliest_analyzable,83f56b9a7dbcbf4e659eabf45b21d93683caa785,2026-02-14T12:28:33.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+LSATAdaptiveTutor/chatbot_tutor,earliest_analyzable,b66710c4b42643e46efdfdf9205bdf33072cebe1,2025-04-08T23:39:28.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+lynnnnrz/ai-teaching-assistant,earliest_analyzable,8fe50ee1144e7770398710848711332b25a71c3a,2025-04-25T23:41:04.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+lynnnnrz/ai-teaching-assistant,earliest_analyzable,8fe50ee1144e7770398710848711332b25a71c3a,2025-04-25T23:41:04.000Z,Google,inference_service,code_signature,gemini_sdk,gemini_chatbot.py,high
+lynnnnrz/ai_teaching_assistant,earliest_analyzable,eb4cabe9f328d17f81ba8181b70f7110c89b109c,2025-04-25T21:44:11.000Z,Google,inference_service,code_signature,gemini_sdk,gemini_chatbot.py,high
+Madni2025/MDCAT-AI-TUTOR,earliest_analyzable,04577391896906a47d64f11adb671254ddd2b5da,2026-06-19T17:14:11.000Z,Groq,inference_service,package,groq,requirements.txt,high
+Madni2025/MDCAT_AI_TUTOR,earliest_analyzable,edd115cd7ffaee928dc4767f9b7ac5ef8609026b,2026-06-21T17:23:46.000Z,Groq,inference_service,package,groq,requirements.txt,high
+maheshj90/StudyAssistant,earliest_analyzable,88de989f9ba8da6fb741c81cfd8fbc18d0a3e8b3,2025-12-09T15:03:25.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+maheshj90/StudyAssistant,earliest_analyzable,88de989f9ba8da6fb741c81cfd8fbc18d0a3e8b3,2025-12-09T15:03:25.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Manikanta2793/my-study-assistant,earliest_analyzable,faa38f10168490115b2d890f08a4a551afd871d8,2026-04-20T06:37:51.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Maram-almasary/AI_Study_Assistant,earliest_analyzable,17e4cef44f68c85c09bb6c7f18c3b4ee490ce82f,2025-02-26T18:32:47.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+maria355/Ai_teaching_assistant,earliest_analyzable,3a62c951aec8a9b155534c11cb07d189fc9e5be3,2025-04-30T18:29:27.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+marty331/AI_Tutor,earliest_analyzable,db28e1f5177b1bc2e81edff4b976fc8ae50600d2,2024-11-09T09:29:15.000Z,Cohere,inference_service,package,cohere,requirements.txt,high
+marty331/AI_Tutor,earliest_analyzable,db28e1f5177b1bc2e81edff4b976fc8ae50600d2,2024-11-09T09:29:15.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+Masterlew/math-tutor-chatbot,earliest_analyzable,dfaa963965ae2ae69374905b540ffcaa45ad6812,2026-02-03T12:37:52.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+mayankjen/AI-Powered_Teaching-Assistant,earliest_analyzable,0d33e3e2eb13c311184d5731036a921162b3644d,2024-06-30T01:10:58.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+MeetThakkar/quiz-generator,earliest_analyzable,98439e2e737835a0d2015ff936948c8caf9efd18,2026-01-16T05:45:26.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+Megana10/ai_study_assistant,earliest_analyzable,11ecc77d27940c3fd8030264f4b5a3d78578dc1a,2026-02-25T06:53:06.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Megana10/ai_study_assistant,earliest_analyzable,11ecc77d27940c3fd8030264f4b5a3d78578dc1a,2026-02-25T06:53:06.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Mehak0711/AI_TUTOR,earliest_analyzable,0bbfe3b23f3e9f6ef2aa23a97c8d824f13c3312c,2026-07-02T09:25:02.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+mehakkhan/Kaggle_Study_Assistant,earliest_analyzable,6b1e99e5fdbb6ac279313d2329cc0afcee46caef,2025-05-07T13:23:01.000Z,Groq,inference_service,package,groq,requirements.txt,high
+Mehrann123/MMB-Quiz-Generator,earliest_analyzable,fd45da7874411f347e668354a1246def0ec51b87,2026-08-19T19:04:16.000Z,Groq,inference_service,package,groq,requirements.txt,high
+mehwishafsa/education_chatbot,earliest_analyzable,f89cead9cd95acd5c46c8a7ef40ae8be265eec0f,2026-06-25T05:30:04.000Z,User-managed runtime,local_runtime,package,transformers,Requirements .txt,high
+mercLH44/new-ai-tutor,earliest_analyzable,189440f1ac0d443586181974f768ecd82f595a06,2024-10-02T15:51:33.000Z,Google,inference_service,package,google-generativeai,requirements.txt,high
+mithilesh22/StudyAssistant,earliest_analyzable,a063d9e1ceb2efc7d96521a520eb0a893f6dc8a6,2026-06-14T04:24:11.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+mithilesh22/StudyAssistant,earliest_analyzable,a063d9e1ceb2efc7d96521a520eb0a893f6dc8a6,2026-06-14T04:24:11.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+mkT83303/spanish-tutor-chatbot,earliest_analyzable,59b50a2fb66bda07c1d47e05331775f469ca0180,2025-06-10T14:31:25.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+MMustafa313/RAG_Study_Assistant,earliest_analyzable,7206876446533a1c5bafc97f9f9dfd75ea0869d8,2025-07-14T02:43:30.000Z,Groq,inference_service,package,groq,requirements.txt,high
+mogbuehi/LO_AI_Tutor,earliest_analyzable,fdb2b4a8e13c7c8c7d9afaece32d45aa908334e8,2023-08-29T05:39:28.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+mogbuehi/YT_Language_Tutor,earliest_analyzable,7e2faeb13ff074634b9cfeff32fefde1fd79f868,2023-09-28T04:08:40.000Z,OpenAI,inference_service,code_signature,openai_official,ai_lang_teacher/app-Copy1.py,high
+mogbuehi/YT_Language_Tutor,earliest_analyzable,7e2faeb13ff074634b9cfeff32fefde1fd79f868,2023-09-28T04:08:40.000Z,OpenAI,inference_service,code_signature,openai_official,ai_lang_teacher/app.py,high
+mogbuehi/YT_Language_Tutor_2,earliest_analyzable,7e2faeb13ff074634b9cfeff32fefde1fd79f868,2023-09-28T04:08:40.000Z,OpenAI,inference_service,code_signature,openai_official,ai_lang_teacher/app-Copy1.py,high
+mogbuehi/YT_Language_Tutor_2,earliest_analyzable,7e2faeb13ff074634b9cfeff32fefde1fd79f868,2023-09-28T04:08:40.000Z,OpenAI,inference_service,code_signature,openai_official,ai_lang_teacher/app.py,high
+MohammadYaseen/personalized-study-assistant-chatbot,earliest_analyzable,0377ea6ba2bad759df387a291c68dbfe3fb5ebd0,2024-11-16T02:58:54.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+mohammednouman/CB-Quiz-Generator,earliest_analyzable,faa1a3c800b52fd8afb253c08b91e457b617ac32,2024-02-20T04:49:20.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+Mohd-Dilshan/ai-quiz-generator,earliest_analyzable,a70ef985338f93d1ce87a48489dceb5f96a122be,2026-03-13T14:34:24.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+Mohd-Dilshan/ai-quiz-generator,earliest_analyzable,a70ef985338f93d1ce87a48489dceb5f96a122be,2026-03-13T14:34:24.000Z,Groq,inference_service,package,groq,requirements.txt,high
+Mohit99Chand/EducationalAIChatbot,earliest_analyzable,5873e1e63be2bd6ca343b849759c57869625bf8f,2024-01-26T22:48:57.000Z,User-managed runtime,local_runtime,package,llama-cpp-python,requirements.txt,high
+montue/Teaching_Assistant,earliest_analyzable,9b289145f759e3fca8b3157d4730acc7dbe30814,2024-10-02T17:54:46.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+MOrgan27/AI-study-assistant,earliest_analyzable,7fe23d6dd9c6f64ed0abe9986ec91a641b466a7c,2025-05-17T19:44:09.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+motsimaslam/Afri-AI-Tutor,earliest_analyzable,80ace653b1ca793338893e66d12375c1c0b3edf1,2025-03-02T14:46:54.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+Mpavan45/Ai_Data-Science_Tutor,earliest_analyzable,09b69a330a42ecfdb5b14503971f7dba6f283b06,2025-03-14T13:12:23.000Z,Google,inference_service,package,google-generativeai,requirements.txt,high
+MrSimple01/QuizGenerator,earliest_analyzable,b29c0f7881cde74a9c627f5f3245edab158bbfb3,2025-03-15T19:10:53.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+muhammadHassan123/quiz-generator-ai,earliest_analyzable,f3e8aa19bd3a6372f53551f369843e817710bb97,2026-06-10T06:48:20.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Mujahid1122/AI-Based-Quiz-Generator,earliest_analyzable,f8c7b743c5d676c0a4bea8b4c7775ed0853d3dc5,2024-11-09T09:45:17.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+mukeshpatel1006/Study_Assistant,earliest_analyzable,b9f44506ee1c86d6d062303250d9d472702edbbb,2026-08-13T07:08:01.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+mukeshpatel1006/Study_Assistant,earliest_analyzable,b9f44506ee1c86d6d062303250d9d472702edbbb,2026-08-13T07:08:01.000Z,Groq,inference_service,package,groq,requirements.txt,high
+Murtaza249/Text_to_Quiz_Generator,earliest_analyzable,4104208a0ca523d648cce0ebef1fe7ed21aea168,2025-04-21T17:13:10.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+nandini1810/AI_TUTOR,earliest_analyzable,8eb1a20b49c31f77effe1c040d66e2dbd1a4c99b,2026-07-06T08:05:01.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+naveensngc/AI-Tutor,earliest_analyzable,6ff59c10ef41dfb731661515ceb501b304a6b4f9,2026-07-03T07:31:59.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+NavenTheRaven/Quiz_Generator,earliest_analyzable,f439effdb97064b0de176236d9b1427f15c46374,2026-03-16T01:12:58.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+nhu445/ai-english-tutor,earliest_analyzable,1264ea7634e7a45a0e444249905495869e845133,2026-03-25T18:03:49.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+nhu445/ai-english-tutor,earliest_analyzable,1264ea7634e7a45a0e444249905495869e845133,2026-03-25T18:03:49.000Z,Google,inference_service,package,langchain-google-genai,requirements.txt,high
+nhu445/ai-english-tutor,earliest_analyzable,1264ea7634e7a45a0e444249905495869e845133,2026-03-25T18:03:49.000Z,Groq,inference_service,code_signature,groq_sdk,core/engine.py,high
+nhu445/ai-english-tutor,earliest_analyzable,1264ea7634e7a45a0e444249905495869e845133,2026-03-25T18:03:49.000Z,Groq,inference_service,package,groq,requirements.txt,high
+Nijanth/teaching-assistant-backend,earliest_analyzable,4df825a7aad7f342e32dba08041d1ec83a7ece2e,2026-04-08T15:33:05.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+NIKHITHA913/aitutor,earliest_analyzable,99efbf3a151ed343080f2b6694701e11fb7a4967,2026-07-03T09:46:38.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+nishayaseen001/StudyAssistant,earliest_analyzable,e563f4ae211c791e1978302ce9fa29106d4cc9a8,2025-11-25T10:44:53.000Z,Groq,inference_service,package,groq,requirements.txt,high
+Nitinane/StudyAssistant,earliest_analyzable,87f862837a9fde55720f1e904498c4a034288462,2026-02-24T06:42:49.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Nitinane/StudyAssistant,earliest_analyzable,87f862837a9fde55720f1e904498c4a034288462,2026-02-24T06:42:49.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+nruhh/Ai_tutor,earliest_analyzable,8ba5abe56a7a496bd2a7950f03bafb4439d5dcb7,2026-07-02T09:39:14.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+nublelouch/study-assistant,earliest_analyzable,c0326087ccfe9798825a8e37a523fdbbf682bf26,2026-06-14T15:47:38.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+Nullpointer-KK/ai-tutor-chatbot_KK,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,Anthropic,inference_service,code_signature,anthropic_import,scripts/contextual_retrieval.py,high
+Nullpointer-KK/ai-tutor-chatbot_KK,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,Anthropic,inference_service,package,anthropic,requirements.txt,high
+Nullpointer-KK/ai-tutor-chatbot_KK,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,Cohere,inference_service,code_signature,cohere_sdk,scripts/custom_retriever.py,high
+Nullpointer-KK/ai-tutor-chatbot_KK,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,Cohere,inference_service,code_signature,cohere_sdk,scripts/evaluate_rag_system.py,high
+Nullpointer-KK/ai-tutor-chatbot_KK,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,Cohere,inference_service,code_signature,cohere_sdk,scripts/setup.py,high
+Nullpointer-KK/ai-tutor-chatbot_KK,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,Cohere,inference_service,package,cohere,requirements.txt,high
+Nullpointer-KK/ai-tutor-chatbot_KK,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,Google,inference_service,package,google-generativeai,requirements.txt,high
+Nullpointer-KK/ai-tutor-chatbot_KK,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,OpenAI,inference_service,code_signature,openai_official,scripts/contextual_retrieval.py,high
+Nullpointer-KK/ai-tutor-chatbot_KK,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,OpenAI,inference_service,code_signature,openai_official,scripts/evaluate_rag_system.py,high
+Nullpointer-KK/ai-tutor-chatbot_KK,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,OpenAI,inference_service,code_signature,openai_official,scripts/main.py,high
+Nullpointer-KK/ai-tutor-chatbot_KK,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,User-managed runtime,local_runtime,package,transformers,scripts/setup.py,high
+oluinioluwa814/Ai-tutor,earliest_analyzable,7208ceb28ec18e2c67804ee9ac82fe0a5f9aa036,2025-12-23T21:42:37.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+omprasadmahapatra/Ai_Math_Tutor,earliest_analyzable,11be2914849e1b6aac9f1e6e901ba00a3b60eada,2025-02-19T04:42:58.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+One2SkipAfew/tutormina-ai,earliest_analyzable,bf8ae7eb04ed8c9fa8c93d1f99ad82dcf9474fff,2026-07-26T21:39:10.000Z,Google,inference_service,code_signature,gemini_sdk,main.py,high
+One2SkipAfew/tutormina-ai,earliest_analyzable,bf8ae7eb04ed8c9fa8c93d1f99ad82dcf9474fff,2026-07-26T21:39:10.000Z,Google,inference_service,configuration_signature,gemini_sdk,.env.example,medium
+One2SkipAfew/tutormina-ai,earliest_analyzable,bf8ae7eb04ed8c9fa8c93d1f99ad82dcf9474fff,2026-07-26T21:39:10.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+patilyash22/Python-tutor-chatbot,earliest_analyzable,36029551c2335583c3ac1e4ebe853bff6c50ca39,2025-01-31T12:21:01.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+pattato1/language-tutor,earliest_analyzable,05c383f1d23d0d28e3407334bdc524aecd407e46,2026-02-15T22:09:58.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+pattato1/language-tutor,earliest_analyzable,05c383f1d23d0d28e3407334bdc524aecd407e46,2026-02-15T22:09:58.000Z,Groq,inference_service,code_signature,groq_sdk,languagetutor.py,high
+pattato1/language-tutor,earliest_analyzable,05c383f1d23d0d28e3407334bdc524aecd407e46,2026-02-15T22:09:58.000Z,Groq,inference_service,code_signature,groq_sdk,voice_handler.py,high
+pattato1/language-tutor,earliest_analyzable,05c383f1d23d0d28e3407334bdc524aecd407e46,2026-02-15T22:09:58.000Z,Groq,inference_service,package,groq,requirements.txt,high
+pattato1/languagetutor,earliest_analyzable,3a1871f3f188320c8aa344dcda668ecd816e6631,2026-02-15T22:20:08.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+pattato1/languagetutor,earliest_analyzable,3a1871f3f188320c8aa344dcda668ecd816e6631,2026-02-15T22:20:08.000Z,Groq,inference_service,package,groq,requirements.txt,high
+Pavan-Kumar23/quiz-generator,earliest_analyzable,3e3f813b400acf7a32f479b96d4de464f03f66f8,2026-06-28T10:11:07.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,document_processor.py,high
+Pavan-Kumar23/quiz-generator,earliest_analyzable,3e3f813b400acf7a32f479b96d4de464f03f66f8,2026-06-28T10:11:07.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,question_generator.py,high
+Pavan-Kumar23/quiz-generator,earliest_analyzable,3e3f813b400acf7a32f479b96d4de464f03f66f8,2026-06-28T10:11:07.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+philipobiorah/socratic-tutor,earliest_analyzable,a5373bf5d57e22424638381a511cb5a407fdeb41,2026-08-26T16:14:52.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+philipobiorah/socratic-tutor,earliest_analyzable,a5373bf5d57e22424638381a511cb5a407fdeb41,2026-08-26T16:14:52.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+Pooja1218/ai-quiz-generator,earliest_analyzable,e07f8a1f5cbb4c7aa998b5192c6a5717f8b1b270,2025-05-02T05:26:13.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,question_gen.py,high
+Pooja1218/ai-quiz-generator,earliest_analyzable,e07f8a1f5cbb4c7aa998b5192c6a5717f8b1b270,2025-05-02T05:26:13.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+pranaymachi/StudyAssistant,earliest_analyzable,7c2ca950fab2d0b4edb9fac3650751adc9ff92a4,2026-08-24T08:01:15.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+pranaymachi/StudyAssistant,earliest_analyzable,7c2ca950fab2d0b4edb9fac3650751adc9ff92a4,2026-08-24T08:01:15.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+prasanth22118131/StudyAssistant,earliest_analyzable,5b8f555ce35a4748bb55f8ec34009035df656aae,2026-04-02T13:18:42.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+prasanth22118131/StudyAssistant,earliest_analyzable,5b8f555ce35a4748bb55f8ec34009035df656aae,2026-04-02T13:18:42.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+pratikshahp/Education-Chatbot-Guardrail,earliest_analyzable,8ccc56337366064885d7c40f09f8786d53a8081e,2025-01-24T11:40:54.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+Premsp2005/StudyAssistant,earliest_analyzable,44b0f31669473cb5390a27cbd712316bf9b9e542,2026-08-01T10:08:21.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+qhaData/quiz-generator-pipeline,earliest_analyzable,6676d10963d2e08b26ef83f5251e4d214c4a4ef3,2025-10-26T09:42:39.000Z,User-managed runtime,local_runtime,package,ollama,requirements.txt,high
+RabiaAbsar/genai-tutor-chatbot,earliest_analyzable,2a06224499a87dc9ec9461e22fc9e2b67f197421,2026-06-23T02:38:09.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+rachapich/PISA-Teaching-Assistant-ChatBot-Guru,earliest_analyzable,151cc933b48b3082efca6cbb6c763d686406daf7,2025-09-11T09:35:07.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+RAHYDV/teaching-assistant,earliest_analyzable,38e8c87eab7518b89467d277ee09d48d40df4d73,2024-11-20T10:45:16.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+Raja02424/education-chatbot,earliest_analyzable,92e3e87a367a8615afc2d811603568c20f70c96d,2026-04-30T11:25:39.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+Rajeev0102/StudyAssistant,earliest_analyzable,1dd72bb241eafda38dc2b8448e74f3016513e6ca,2026-08-23T18:57:50.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Rajeev0102/StudyAssistant,earliest_analyzable,1dd72bb241eafda38dc2b8448e74f3016513e6ca,2026-08-23T18:57:50.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Rajesh20/AI_Tutor,earliest_analyzable,83829b100a7141c8ada8e3e1759765a438ef9d26,2025-03-10T10:22:30.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Ram05saran/ai-language-tutor,earliest_analyzable,2dc26376eedafb1acca6bbc64a02978ed16cc470,2025-09-22T17:18:19.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+ramashandoubeh/Education-chatbot,earliest_analyzable,f0e1a9fc2807e77157adbcf3cef49adb8ac2771e,2025-10-13T14:56:18.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+Ramya8637/quiz-generator,earliest_analyzable,6e9c03c8b1ada1d52d1839dfd9a7ccc8ac2bb90a,2025-09-21T09:55:41.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+RamyaKammari/jee_ai_tutor,earliest_analyzable,e2edd9030a9fb410fc14fbcdb785ad0df8791199,2024-07-09T21:08:32.000Z,Hugging Face,inference_service,code_signature,hf_inference,query_data_models.py,high
+RamyaKammari/jee_ai_tutor,earliest_analyzable,e2edd9030a9fb410fc14fbcdb785ad0df8791199,2024-07-09T21:08:32.000Z,OpenAI,inference_service,code_signature,openai_official,create_database.py,high
+Rashpinder/RAG-based-Agentic-AI-tutor,earliest_analyzable,db3b226b4e445b6971f74053900c410497f232d5,2026-01-13T09:03:50.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+Rayi-ss/AI-Powered-Study-Assistant,earliest_analyzable,b15a6dfea7199ac475007f51210240a82cc37bef,2025-10-27T11:43:47.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+Razzaqi3143/Engineering_Quiz_Generator,earliest_analyzable,ac774985c09be081fd945a8c7214cd1d084d6493,2024-11-10T04:52:05.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+rcventura108000/Sophia-Ai-english-tutor,earliest_analyzable,fc80cd6b8991897877ddf499db2c64972584395a,2025-07-27T22:34:33.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+rexiy/study_assistant,earliest_analyzable,1db32839ec86d8fd9689ccfcd78e8fc3d6df2c35,2026-02-19T08:59:41.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+rexiy/study_assistant,earliest_analyzable,1db32839ec86d8fd9689ccfcd78e8fc3d6df2c35,2026-02-19T08:59:41.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+rgos20000/Quiz_Generator,earliest_analyzable,cc5b226578ddc5332a1707a4f73d69c2e09637f7,2026-03-16T01:12:11.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+Rishabh12j/AI_Powered_Teaching_Assistant,earliest_analyzable,9c6536f8a830d55956dd4d2b5d738999d6c6c398,2024-04-27T03:35:47.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+Rishabh12j/Teaching_Assistant_AI,earliest_analyzable,14dd2583fa8e242345f23e8480f6ea76fcde6089,2024-09-28T10:11:39.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+rk803/Data_Science_Tutor_Ai,earliest_analyzable,01baaa1272f08d5e2910a4fc274205ad746b417c,2025-03-15T03:54:41.000Z,Google,inference_service,package,google-generativeai,requirements.txt,high
+rk803/Data_Science_Tutor_Ai,earliest_analyzable,01baaa1272f08d5e2910a4fc274205ad746b417c,2025-03-15T03:54:41.000Z,Google,inference_service,package,langchain-google-genai,requirements.txt,high
+Rohit8827/StudyAssistant,earliest_analyzable,f7a5535d26c5bef179ae91e77ebdc3e480eaae9c,2026-06-13T12:40:41.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Rohit8827/StudyAssistant,earliest_analyzable,f7a5535d26c5bef179ae91e77ebdc3e480eaae9c,2026-06-13T12:40:41.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Rosh-2/physics_tutor_chatbot,earliest_analyzable,2e86b79517352c6fb722056d352128e0afdc26e6,2025-05-23T15:02:29.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+Rosh-2/physics_tutor_chatbot,earliest_analyzable,2e86b79517352c6fb722056d352128e0afdc26e6,2025-05-23T15:02:29.000Z,Groq,inference_service,package,groq,requirements.txt,high
+roshandakhore2003/nuron-teaching-assistant,earliest_analyzable,9334d7c76cd43121f797810f64182dbbe8d8b8b2,2026-05-21T16:21:06.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+roxqtang/ai-teaching-assistant,earliest_analyzable,8fe50ee1144e7770398710848711332b25a71c3a,2025-04-25T23:41:04.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+roxqtang/ai-teaching-assistant,earliest_analyzable,8fe50ee1144e7770398710848711332b25a71c3a,2025-04-25T23:41:04.000Z,Google,inference_service,code_signature,gemini_sdk,gemini_chatbot.py,high
+Rupesx007/quiz_generator,earliest_analyzable,7936e2f46cc6c26b6ac6b06f06010fe70da128e1,2025-03-03T23:34:11.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+Rushi420/StudyAssistant,earliest_analyzable,c97394d4f5f0ac8f729647d15e3496477f4e6ca7,2026-08-29T12:52:33.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Rushi420/StudyAssistant,earliest_analyzable,c97394d4f5f0ac8f729647d15e3496477f4e6ca7,2026-08-29T12:52:33.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+sabahat-shakeel/study-assistant,earliest_analyzable,55f86b3a55c3f846a72c2d1af86dbe8c194c3dbd,2024-11-06T11:18:58.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+sabrineoueslati/quiz-generator,earliest_analyzable,64256d77097d7a7422332bef66065e4579a0c570,2026-05-10T23:05:30.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+sabrineoueslati/quiz-generator,earliest_analyzable,64256d77097d7a7422332bef66065e4579a0c570,2026-05-10T23:05:30.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+sachi2004/ai-study-assistant,earliest_analyzable,00085906d4c14aa2df367eb9f7d5f6cedf7a3d63,2026-07-30T12:49:27.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+sachi2004/ai-study-assistant,earliest_analyzable,00085906d4c14aa2df367eb9f7d5f6cedf7a3d63,2026-07-30T12:49:27.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Sadem-12/AI_Study_Assistant,earliest_analyzable,2e1c7d84212ad36833d9abd232e9523ec9a68b12,2025-02-25T13:15:36.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,summarization.py,high
+SahilGupta4/Study_Assistant,earliest_analyzable,38f9ee2c8ae6ff9b91992c3894c973c310ddd060,2026-04-23T08:50:55.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+SahilGupta4/Study_Assistant,earliest_analyzable,38f9ee2c8ae6ff9b91992c3894c973c310ddd060,2026-04-23T08:50:55.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+saikumar27/AI_Powered_Data_Science_Tutor,earliest_analyzable,4db7ba9a8f6f2df63303a1730fe69e0d9fd4e6ab,2025-03-11T15:23:47.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+saimahashmi/ai-study-assistant,earliest_analyzable,5e4509d88871214833cb6625d75ca2b7d5840d7e,2026-03-27T04:50:05.000Z,Google,inference_service,package,google-generativeai,requirements.txt,high
+saimahashmi/ai-study-assistant,earliest_analyzable,5e4509d88871214833cb6625d75ca2b7d5840d7e,2026-03-27T04:50:05.000Z,Groq,inference_service,package,groq,requirements.txt,high
+saimahashmi/ai-study-assistant,earliest_analyzable,5e4509d88871214833cb6625d75ca2b7d5840d7e,2026-03-27T04:50:05.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+sairaarif89/AITutor,earliest_analyzable,ac871ea885c2c194f6c245bc911a606ca5710a92,2025-02-13T16:05:25.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+SaiRithwik2004/StudyAssistant,earliest_analyzable,6577004e8e9b185e557875beb35eb1c39e2c4ca5,2026-07-06T07:35:03.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+SaiRithwik2004/StudyAssistant,earliest_analyzable,6577004e8e9b185e557875beb35eb1c39e2c4ca5,2026-07-06T07:35:03.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+salsh093/SEG_StudyAssistant,earliest_analyzable,667a57673e4ad3924f144aabd302ce3a1a100d9c,2025-02-21T16:26:02.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+sameekghosh/ai-python-teaching-assistant,earliest_analyzable,d03833821a65f16b8a0de1a6f12c9005e013fd4f,2025-06-29T11:16:17.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+sameekghosh/ai-python-teaching-assistant,earliest_analyzable,d03833821a65f16b8a0de1a6f12c9005e013fd4f,2025-06-29T11:16:17.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+samekbotfactorycz/aitutor,earliest_analyzable,78de347498eb9f5df0ad634cc01b96691591f667,2025-01-12T21:27:21.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+Samyakj69/Study_Assistant,earliest_analyzable,9323a7744d61e8e389cb73083591875a1401dfee,2026-04-26T04:56:38.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Samyakj69/Study_Assistant,earliest_analyzable,9323a7744d61e8e389cb73083591875a1401dfee,2026-04-26T04:56:38.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+SanaBegum23/AI_tutor,earliest_analyzable,5caa2e0134e9c32eda6f6d9929ab31426fcb2b7b,2026-07-03T09:52:38.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+sanakousar/AI_TUTOR,earliest_analyzable,3f9fca1819e6a18fd7b1fedf806d6bba0c942f71,2026-07-02T09:42:26.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+sanchezpaez/speech_to_text_to_speech_language_tutor,earliest_analyzable,a8b3c6795296e080f2f4c39d6285288af69b8754,2025-04-23T09:31:01.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+sangareddijaswanth/study_assistant,earliest_analyzable,0a58705ef85874f31a60e1cce8d513d672e67aba,2026-07-15T07:37:39.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+sangareddijaswanth/study_assistant,earliest_analyzable,0a58705ef85874f31a60e1cce8d513d672e67aba,2026-07-15T07:37:39.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+sanjana033/my-study-assistant,earliest_analyzable,a41826ee7cfa02e3e10cf8e4e3e78cb946607ed6,2026-05-04T16:11:45.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Sanjay-Ai/AI-Powered-Socratic-Teaching-Assistant,earliest_analyzable,08d966e6e3eec38432386846be28c88169ee0fd4,2024-10-01T20:05:04.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Sanjay-Ai/AI-Powered-Socratic-Teaching-Assistant,earliest_analyzable,08d966e6e3eec38432386846be28c88169ee0fd4,2024-10-01T20:05:04.000Z,Google,inference_service,package,google-generativeai,requirements.txt,high
+Sanjay0102/StudyAssistant,earliest_analyzable,bd6ef27b88668f0d448dc7625d09fd00aae0b18c,2026-05-02T03:08:03.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Santoshtambe/ai-study-assistant,earliest_analyzable,5667d714606ea6e8682d6c398a0eced66c249b9d,2026-07-16T18:38:28.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Santoshtambe/ai-study-assistant,earliest_analyzable,5667d714606ea6e8682d6c398a0eced66c249b9d,2026-07-16T18:38:28.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Santoshtambe/study_Assistant,earliest_analyzable,af94f1e1da791f22c76fb1aaf004658947896002,2026-07-16T19:09:08.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Santoshtambe/study_Assistant,earliest_analyzable,af94f1e1da791f22c76fb1aaf004658947896002,2026-07-16T19:09:08.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Saravana-Saro14/Educational-chatbot,earliest_analyzable,ae57ae7fda4ea4a7823aa41bd3355b28eb421c0c,2026-01-31T15:07:00.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+saru21/study_assistant,earliest_analyzable,aada67008cbfca89b7b6f9700a57cf4043a7af1f,2026-07-07T05:39:42.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+satvik452007/Study_assistant,earliest_analyzable,73e19a800415a12e2243e3f99e7361cbc947bbcf,2026-03-30T08:32:48.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+satvik452007/Study_assistant,earliest_analyzable,73e19a800415a12e2243e3f99e7361cbc947bbcf,2026-03-30T08:32:48.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Sayan21/Video-Tutor-AI,earliest_analyzable,5db49a721c1312d7c79451b91b83ae3e669492e5,2026-03-21T20:07:36.000Z,Google,inference_service,code_signature,gemini_sdk,backend/rag.py,high
+Sayan21/Video-Tutor-AI,earliest_analyzable,5db49a721c1312d7c79451b91b83ae3e669492e5,2026-03-21T20:07:36.000Z,Google,inference_service,code_signature,gemini_sdk,backend/utils.py,high
+Sayan21/Video-Tutor-AI,earliest_analyzable,5db49a721c1312d7c79451b91b83ae3e669492e5,2026-03-21T20:07:36.000Z,Google,inference_service,package,google-genai,backend/requirements.txt,high
+SBDeploy/Study_Assistant,earliest_analyzable,edc833ca09c6a846faa6f84da6f70ead30d94749,2025-11-26T11:38:19.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+SBDeploy/Study_Assistant,earliest_analyzable,edc833ca09c6a846faa6f84da6f70ead30d94749,2025-11-26T11:38:19.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+SerotoninRonin/Quiz-Generator,earliest_analyzable,7e947e210bf3d7226316025148a00ac65e078e6e,2025-08-17T00:04:36.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+SH1VAM-2027/studyAssistant,earliest_analyzable,5ad2bfc64fda0a14ff55069da6535ed47c7c253e,2026-07-15T07:59:27.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+SH1VAM-2027/studyAssistant,earliest_analyzable,5ad2bfc64fda0a14ff55069da6535ed47c7c253e,2026-07-15T07:59:27.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Shahbazakbar/AI-Tutor,earliest_analyzable,04b53e558e22a406e216d0e25a2bfd95b31753e0,2025-02-22T11:23:51.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+Shahbazakbar/RAG-AI-Tutor,earliest_analyzable,4bf2d92e4291ed3a5d3f064f8bd07794ab897086,2025-02-23T08:06:57.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+shaheerawan3/AI-Teaching-Assistant,earliest_analyzable,f5c561b88d9c4f37b0486376442a407f3916af5d,2024-12-14T16:15:40.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,model.py,high
+shahzaib41202/AI_ML_Tutor,earliest_analyzable,22b7a34e019e6a276d98e88761f8066e7ad8c037,2025-11-30T17:43:49.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+shb59na/ai-study-tutor,earliest_analyzable,08613911c843af614c2712482d3091451a7b8e26,2026-08-08T01:07:19.000Z,Google,inference_service,code_signature,gemini_sdk,app/llm.py,high
+shb59na/ai-study-tutor,earliest_analyzable,08613911c843af614c2712482d3091451a7b8e26,2026-08-08T01:07:19.000Z,Google,inference_service,configuration_signature,gemini_sdk,.env.example,medium
+shb59na/ai-study-tutor,earliest_analyzable,08613911c843af614c2712482d3091451a7b8e26,2026-08-08T01:07:19.000Z,Google,inference_service,configuration_signature,gemini_sdk,ai-study-tutor/.env.example,medium
+shb59na/ai-study-tutor,earliest_analyzable,08613911c843af614c2712482d3091451a7b8e26,2026-08-08T01:07:19.000Z,Google,inference_service,package,google-genai,ai-study-tutor/requirements.txt,high
+shb59na/ai-study-tutor,earliest_analyzable,08613911c843af614c2712482d3091451a7b8e26,2026-08-08T01:07:19.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+shikhahaljmili/ai-quiz-generator,earliest_analyzable,0c4489d2e58bfeeab690ab26ae6720713f06604b,2025-10-30T10:54:57.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+shirosh/ai-tutor,earliest_analyzable,6fbc30675c6c80e1ef1d4d007911e70e061da2da,2024-04-24T18:54:41.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+shivasai02/StudyAssistant,earliest_analyzable,aa1e4176ae9fee9c6d893a823382f20c5236ef86,2026-04-29T06:00:47.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+shivasai02/StudyAssistant,earliest_analyzable,aa1e4176ae9fee9c6d893a823382f20c5236ef86,2026-04-29T06:00:47.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Shlok1005/Voice_chatbot_tutor,earliest_analyzable,fca4c7612ebd6360275af1128e0b67443aaef2f8,2025-12-17T12:00:23.000Z,User-managed runtime,local_runtime,package,ollama,requirements.txt,high
+shroukelnagdy/quiz-generator,earliest_analyzable,b93372bf32d96ff49ada9c96ac23dd6018ca8929,2026-04-28T21:00:57.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+shuklavartika/AI_Study_Assistant,earliest_analyzable,ecb6143764d2880138283e25215d110749351bed,2025-07-03T10:09:27.000Z,Google,inference_service,code_signature,gemini_sdk,agents/qa.py,high
+shuklavartika/AI_Study_Assistant,earliest_analyzable,ecb6143764d2880138283e25215d110749351bed,2025-07-03T10:09:27.000Z,Google,inference_service,code_signature,gemini_sdk,agents/quiz.py,high
+shuklavartika/AI_Study_Assistant,earliest_analyzable,ecb6143764d2880138283e25215d110749351bed,2025-07-03T10:09:27.000Z,Google,inference_service,code_signature,gemini_sdk,agents/summarizer.py,high
+shuklavartika/AI_Study_Assistant,earliest_analyzable,ecb6143764d2880138283e25215d110749351bed,2025-07-03T10:09:27.000Z,Google,inference_service,package,google-generativeai,requirements.txt,high
+Siddhisapkal/AI_Tutor,earliest_analyzable,a958d458339c98600a646f6fcd002e9a305a0685,2025-02-16T12:34:07.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+sk-12/EDUBUDDY-AI-TUTOR,earliest_analyzable,500cf4613acdafa01f3fd5a68e9c43cb795bba3d,2026-06-14T04:16:40.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+sk-12/EDUBUDDY-AI-TUTOR,earliest_analyzable,500cf4613acdafa01f3fd5a68e9c43cb795bba3d,2026-06-14T04:16:40.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Solkyash/Ai-study-assistant,earliest_analyzable,edb9a5ba88da6e24dc5ceddfd27ec2bcc17bd00e,2025-09-28T07:53:10.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+sravani30/AI_QUIZ_GENERATOR,earliest_analyzable,3201294bcd08f3296ad2825d0390e9212bd6c9a6,2025-02-23T05:41:45.000Z,Google,inference_service,code_signature,gemini_sdk,model.py,high
+sravani30/AI_QUIZ_GENERATOR,earliest_analyzable,3201294bcd08f3296ad2825d0390e9212bd6c9a6,2025-02-23T05:41:45.000Z,Google,inference_service,package,google-generativeai,requirements.txt,high
+Sree1216/AI_tutor,earliest_analyzable,6884af2d01af953341c9069e48bdda32dd598690,2026-07-03T05:57:26.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+sreenivasulaReddy/StudyAssistant,earliest_analyzable,61053a156360436392e8b6991f5dac2b67674dd6,2026-07-04T07:28:14.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+sreenivasulaReddy/StudyAssistant,earliest_analyzable,61053a156360436392e8b6991f5dac2b67674dd6,2026-07-04T07:28:14.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+SrihithaReddy123/AI_TUTOR,earliest_analyzable,d7546df5a08d01f99b21d679ec1999264662abf9,2026-07-06T07:51:55.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Srushtii-13/Study_Assistant,earliest_analyzable,8002aa8303146ca9cae02c52437bc46510966c98,2026-02-13T03:52:56.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Srushtii-13/Study_Assistant,earliest_analyzable,8002aa8303146ca9cae02c52437bc46510966c98,2026-02-13T03:52:56.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+starkbyte45896/Quiz_Generator,earliest_analyzable,b5ca9338a909f8529ac748d264d50829ed6e0c65,2025-04-05T21:00:43.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+sultan-hassan/adaptive_language_tutor,earliest_analyzable,fa209805b4dc7b88ee51f0a1024ac467f19d4d79,2025-07-26T01:41:00.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+tayy786/Ai_Tutor_App,earliest_analyzable,38be8c8d64653ff3a5943c0476ca0e995e08a884,2026-05-07T11:31:27.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+TeerthPurohit/RAG-TradingWithML-Teaching-Assistant,earliest_analyzable,0ab20f494a5ae3b02ab7bfe0df3c0a36fa706135,2026-05-26T18:30:06.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+TeerthPurohit/RAG-TradingWithML-Teaching-Assistant,earliest_analyzable,0ab20f494a5ae3b02ab7bfe0df3c0a36fa706135,2026-05-26T18:30:06.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+tejuu23/ai-tutor,earliest_analyzable,962d9c7c35d1bee0dfb8cbecd36598d11b9a6027,2026-07-03T05:40:37.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+thabassum9/ai_tutor,earliest_analyzable,1cdb5481672f3b32282dab599413c31b43f1ab6e,2026-07-03T04:22:11.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+thilak1/RAG-BASED-AI-TEACHING-ASSISTANT,earliest_analyzable,8e0fb14695fd5bf2418d33e587088342cc9bca58,2025-11-14T09:21:02.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+Tomjedo/Education_Chatbot,earliest_analyzable,f7189d16134a45e0aa0199b6c4d038822ba5b646,2025-03-12T16:11:10.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+towardsai-tutors/ai-tutor-chatbot,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,Anthropic,inference_service,code_signature,anthropic_import,scripts/contextual_retrieval.py,high
+towardsai-tutors/ai-tutor-chatbot,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,Anthropic,inference_service,package,anthropic,requirements.txt,high
+towardsai-tutors/ai-tutor-chatbot,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,Cohere,inference_service,code_signature,cohere_sdk,scripts/custom_retriever.py,high
+towardsai-tutors/ai-tutor-chatbot,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,Cohere,inference_service,code_signature,cohere_sdk,scripts/evaluate_rag_system.py,high
+towardsai-tutors/ai-tutor-chatbot,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,Cohere,inference_service,code_signature,cohere_sdk,scripts/setup.py,high
+towardsai-tutors/ai-tutor-chatbot,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,Cohere,inference_service,package,cohere,requirements.txt,high
+towardsai-tutors/ai-tutor-chatbot,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,Google,inference_service,package,google-generativeai,requirements.txt,high
+towardsai-tutors/ai-tutor-chatbot,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,OpenAI,inference_service,code_signature,openai_official,scripts/contextual_retrieval.py,high
+towardsai-tutors/ai-tutor-chatbot,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,OpenAI,inference_service,code_signature,openai_official,scripts/evaluate_rag_system.py,high
+towardsai-tutors/ai-tutor-chatbot,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,OpenAI,inference_service,code_signature,openai_official,scripts/main.py,high
+towardsai-tutors/ai-tutor-chatbot,earliest_analyzable,5ddcfe572f80394c5559eec4c959a3c176a91c6f,2025-01-30T18:58:20.000Z,User-managed runtime,local_runtime,package,transformers,scripts/setup.py,high
+Trinesh16/StudyAssistant,earliest_analyzable,9d2fd6e97138d816d351cb2b8e23a18925926cb0,2026-03-03T06:18:40.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Trinesh16/StudyAssistant,earliest_analyzable,9d2fd6e97138d816d351cb2b8e23a18925926cb0,2026-03-03T06:18:40.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Trivikrama/Physics_Lesson_Plan_Generator,earliest_analyzable,9c5dd3df6175d4c386a8cd97b2578477629313df,2024-10-18T14:30:00.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+Trivikrama/Physics_Lesson_Plan_Generator,earliest_analyzable,9c5dd3df6175d4c386a8cd97b2578477629313df,2024-10-18T14:30:00.000Z,Groq,inference_service,package,groq,requirements.txt,high
+Troy88/Quiz-Generator,earliest_analyzable,5454c59e1e39924756c45174319857c63f4283ef,2024-10-18T06:19:18.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+Turbiling/Backward-Design-Lesson-Plan-Generator,earliest_analyzable,96252bf8b0028e8fab5140fe4e8ae53f01d108c8,2025-10-07T20:38:31.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+Turbiling/GB_Education_Chatbot,earliest_analyzable,1a6960369c84d50a0a541a1bfae9a89bd216e9f9,2025-06-11T19:34:47.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+Turbiling/Lesson_Plan_Generator,earliest_analyzable,5a15d4f6c1653fbeb14e72650069836aee62d15b,2025-10-05T07:29:13.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+Tutor-Ai-100/AI_Tutor_Chatbot,earliest_analyzable,568035135633afad4ddef9826c543de15e2eb31c,2024-11-15T15:41:56.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+tyapab/ai-study-assistant,earliest_analyzable,0f621ddc8aab0b10297f949a21740c575c498ffd,2026-01-16T19:31:47.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+uc-msai631-2025-spring/group2_study_assistant,earliest_analyzable,5abad61d9934125d70efa83c79010ad65b4fab1a,2025-02-22T19:14:55.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+Udayveer1990/Language_tutor,earliest_analyzable,8bf1ee5d6023c133a04fda295ef9e26546974843,2026-06-05T09:09:58.000Z,Hugging Face,inference_service,code_signature,hf_inference,main.py,high
+Ukhanyo/quiz-generator-ai,earliest_analyzable,3a6cfd1486b311ab5436c51de0ec0d8c2815031a,2025-08-04T08:56:35.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+UlliInduSree/AI_Tutor_Chatbot,earliest_analyzable,6802992421c0256313f31d097a597308431ec69e,2025-08-01T06:09:02.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+umerforsure/AI-Study-Assistant,earliest_analyzable,c577877feeaaafb0ac1fb18ba6af3bc1ad8b186f,2025-08-06T11:29:13.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+umerforsure/AI-Study-Assistant,earliest_analyzable,c577877feeaaafb0ac1fb18ba6af3bc1ad8b186f,2025-08-06T11:29:13.000Z,User-managed runtime,local_runtime,package,transformers,requirements.txt,high
+Vaishnav-00299/my-study-assistant,earliest_analyzable,f6a3e40810e489cd45661b7ccab3625c05cc1fbc,2026-06-13T16:34:19.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+Vaishnav-00299/my-study-assistant,earliest_analyzable,f6a3e40810e489cd45661b7ccab3625c05cc1fbc,2026-06-13T16:34:19.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Varshareddy1106/AI_TUTOR,earliest_analyzable,80d5722c7e35554de61a9ea0cd187466317fb2d3,2026-07-03T09:40:13.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+VarunGoud314/Study_assistant,earliest_analyzable,c3d8b0cff5fb0f8985da0e5b1de4cdf0cdef0572,2026-03-16T05:34:37.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+VarunGoud314/Study_assistant,earliest_analyzable,c3d8b0cff5fb0f8985da0e5b1de4cdf0cdef0572,2026-03-16T05:34:37.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+vinitwaghmare/bilingual-ai-study-assistant,earliest_analyzable,273d8e2ed6ea98b44a672416135f18c194601609,2025-11-02T17:59:20.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+vishalraaj1/AI-STUDY_ASSISTANT,earliest_analyzable,dd12c50ca5aaf48a5495591336c57f51fa6c1ba6,2026-03-12T08:04:05.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+vishalraaj1/AI-STUDY_ASSISTANT,earliest_analyzable,dd12c50ca5aaf48a5495591336c57f51fa6c1ba6,2026-03-12T08:04:05.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+VishnuSai05/Study_Assistant,earliest_analyzable,523021b4540a298b66e1ba3b9943336ca30b2602,2026-07-16T17:57:29.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+VishnuSai05/Study_Assistant,earliest_analyzable,523021b4540a298b66e1ba3b9943336ca30b2602,2026-07-16T17:57:29.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+vivicake666/math-tutor-chatbot,earliest_analyzable,7e3ebf5256175552b0194085d8640a9bae3584d0,2026-03-09T19:50:47.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+VSrilekha/AI-Tutor,earliest_analyzable,7cf9147f0d6fd1895ddde308da17ed6f46710c16,2026-07-03T05:45:35.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+wangzy217/Teaching_Assistant,earliest_analyzable,bc7638ed3947e093fc6ca17bbc172f98d39dbe97,2024-05-07T07:52:09.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+wimida/socratic-tutor-bot,earliest_analyzable,fd973acf949aaea5d5cc54118ac381a883b9fc96,2025-04-04T09:33:39.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+wupeiwen2001/reachy-mini-language-tutor,earliest_analyzable,14c82bea583bdd9ae01c6059e03193ad57103a44,2026-02-16T02:22:45.000Z,OpenAI,inference_service,code_signature,openai_official,language_tutor/app.py,high
+wupeiwen2001/reachy-mini-language-tutor,earliest_analyzable,14c82bea583bdd9ae01c6059e03193ad57103a44,2026-02-16T02:22:45.000Z,OpenAI,inference_service,code_signature,openai_official,language_tutor/config.py,high
+yadavnirmal002/CBSE10-AI-Tutor,earliest_analyzable,042b810f6bf5a045a9fdfb33b61896331b3aecbb,2025-02-13T17:51:27.000Z,OpenAI,inference_service,code_signature,openai_official,app.py,high
+Yasir-Bhatti/Education_tutor_chatbot,earliest_analyzable,82384bf124d5baf1145226b35c58dc90d7ea52e2,2025-12-24T15:12:06.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high
+YasirAnsari/AI_tutor,earliest_analyzable,3761ecd7b66514a9adb0096bf39c543e1de5fb93,2026-02-27T10:49:12.000Z,Groq,inference_service,package,groq,requirements.txt,high
+Yenuli-Bimanya-404/ai-study-assistant-multilang,earliest_analyzable,9efc68d2e6119da0442c07c509ab3f41c10d7555,2025-06-29T17:19:34.000Z,User-managed runtime,local_runtime,code_signature,transformers_runtime,app.py,high
+YKDep/StudyAssistant,earliest_analyzable,d18ba14312f29eb9c0c0ad60c32a79582b7f13f2,2025-12-04T10:51:08.000Z,Google,inference_service,code_signature,gemini_sdk,app.py,high
+YKDep/StudyAssistant,earliest_analyzable,d18ba14312f29eb9c0c0ad60c32a79582b7f13f2,2025-12-04T10:51:08.000Z,Google,inference_service,package,google-genai,requirements.txt,high
+Younis123/Education_Assistant_chatbot,earliest_analyzable,0734d37a2324d5714d43eabf22bcc1f22c49f2f7,2025-02-20T09:55:46.000Z,Groq,inference_service,code_signature,groq_sdk,app.py,high
+yuvabe-ai/AI-Tutor,earliest_analyzable,ee35bb251c04ac2c90338c5b35291f17eb07b661,2024-11-09T04:02:11.000Z,OpenAI,inference_service,code_signature,openai_official,utility.py,high
+zaini1234/pdf-quiz-generator,earliest_analyzable,cf471e3f6bcd993c0a4ed49becc6c215158710ef,2025-06-28T09:44:25.000Z,Hugging Face,inference_service,code_signature,hf_inference,quiz_generator.py,high
+zara65724/AI-Vocabulary-Tutor,earliest_analyzable,5bac8039a22ecb9037b8acf79ce6e81f2b58efc0,2026-05-21T04:26:30.000Z,Anthropic,inference_service,package,anthropic,requirements.txt,high
+zizo66/AI-Language-Tutor,earliest_analyzable,5df5de806e5ec43ef26f70c04d1fbd6a1d1dbf40,2025-02-27T00:42:32.000Z,Hugging Face,inference_service,code_signature,hf_inference,app.py,high

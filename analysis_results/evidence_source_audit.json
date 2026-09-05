@@ -1,0 +1,15 @@
+{
+  "boundary": "primary model evidence includes exact public identifiers from Hub metadata and bounded model-loading code; .env.example is medium-confidence machine-readable configuration evidence, with high-confidence-only variants reported separately",
+  "code_model_id_edge_rows": 23,
+  "code_model_id_projects": 21,
+  "code_only_model_projects": 16,
+  "environment_example_only_service_projects": 2,
+  "environment_example_service_edge_rows": 16,
+  "environment_example_service_projects": 11,
+  "matched_projects_with_any_code_model_id": 16,
+  "matched_projects_with_only_code_model_id": 14,
+  "official_linked_model_edge_rows": 266,
+  "official_linked_model_projects": 182,
+  "official_linked_unique_model_ids": 125,
+  "primary_model_edge_rows": 289
+}

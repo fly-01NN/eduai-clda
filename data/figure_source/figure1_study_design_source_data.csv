@@ -1,0 +1,10 @@
+stage,measure,value
+Discovery,functional_queries,15
+Discovery,ranking_arms,2
+Discovery,valid_search_responses,30
+Discovery,ranked_query_union_projects,764
+Frozen frame,strict_education_projects,706
+Frozen frame,dependency_observable_projects,530
+Frozen frame,public_namespaces,490
+Frozen frame,selected_source_files,2838
+Matched analysis,service_and_model_projects,99

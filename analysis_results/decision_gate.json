@@ -1,0 +1,102 @@
+{
+  "alternative_concentration_metrics": {
+    "model_shannon_effective_categories": 11.310042730073583,
+    "model_top_share": 0.19696969696969696,
+    "service_shannon_effective_categories": 4.212413847848084,
+    "service_top_share": 0.5353535353535354,
+    "shannon_entropy_difference_interval": [
+      0.7076017677393421,
+      1.1306553980022715
+    ],
+    "status": "PASS",
+    "top_share_difference_interval": [
+      0.21717171717171718,
+      0.41414141414141414
+    ]
+  },
+  "annotation_regime": {
+    "manual_annotation_rows": 0,
+    "rule": "all inclusion, dependency, namespace, and similarity outputs are deterministic",
+    "status": "PASS"
+  },
+  "bounded_sample_size": {
+    "status": "PASS",
+    "threshold": 100,
+    "value": 530
+  },
+  "clone_sensitivity": {
+    "clone_adjusted_hhi": 0.19485809786852698,
+    "clone_adjusted_top_provider": "Google",
+    "near_duplicate_adjusted_hhi": 0.17455059552114374,
+    "near_duplicate_adjusted_top_provider": "Google",
+    "primary_hhi": 0.19957230583069827,
+    "primary_top_provider": "Google",
+    "status": "PASS"
+  },
+  "cross_layer_codeclaration": {
+    "boundary": "within-project co-declaration association; not evidence that a service routes traffic to a co-declared model",
+    "matched_projects": 99,
+    "normalized_mutual_information_sqrt": 0.36979343807767956,
+    "randomization_p": 9.999000099990002e-05,
+    "status": "ESTIMATED"
+  },
+  "longitudinal_disruption_analysis": {
+    "reason": "one frozen snapshot cannot identify upstream events or downstream survival responses",
+    "status": "NOT_TESTED"
+  },
+  "matched_layer_contrast": {
+    "interpretation": "paired descriptive bootstrap stability; the dominance fraction is not a p value",
+    "matched_projects": 99,
+    "paired_bootstrap_ci": [
+      0.1424894993708125,
+      0.29643290367196085
+    ],
+    "service_minus_model_hhi": 0.21514669704905393,
+    "status": "ESTIMATED"
+  },
+  "regional_comparison": {
+    "coverage": 0.0,
+    "status": "NOT_ESTIMABLE"
+  },
+  "route": "bounded_global_cross_sectional_audit",
+  "search_design_sensitivity": {
+    "boundary": "frozen returned ranks only; not a population-coverage test",
+    "leave_one_query_out_hhi_range": [
+      0.1481364857530094,
+      0.23153057269505756
+    ],
+    "rank_cutoff_hhi_range": [
+      0.1486237712310086,
+      0.19957230583069827
+    ],
+    "status": "PASS"
+  },
+  "service_provider_omission": {
+    "boundary": "each variant omits all projects declaring one service provider from both layers",
+    "minimum_hhi_difference": 0.11128257887517146,
+    "minimum_interval_lower_bound": 0.040200617283950614,
+    "providers_omitted_individually": 10,
+    "status": "PASS"
+  },
+  "source_file_cap_sensitivity": {
+    "boundary": "same frozen revisions; service-source cap varies while the referenced-model layer remains fixed",
+    "caps": [
+      10,
+      15,
+      20
+    ],
+    "changed_service_sets_at_cap20": 3,
+    "status": "PASS"
+  },
+  "upstream_detection_coverage": {
+    "status": "PASS",
+    "threshold": 0.9,
+    "value": 0.9660377358490566
+  },
+  "version_history_audit": {
+    "boundary": "conditions on projects visible in the 2026-08-31 strict sample; version ages vary, deleted projects are absent, and commit activity is not project survival",
+    "paired_service_projects": 282,
+    "resolved_projects": 530,
+    "status": "ESTIMATED"
+  }
+}

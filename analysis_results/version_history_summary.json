@@ -1,0 +1,50 @@
+{
+  "commit_history_api_success": 530,
+  "earliest_analyzable_state_resolved": 530,
+  "earliest_state_resolution_share": 1.0,
+  "history_span_sensitivity_thresholds_days": [
+    0,
+    1,
+    7,
+    30,
+    90,
+    180
+  ],
+  "interpretive_boundary": "conditions on projects visible in the 2026-08-31 strict sample; version ages vary, deleted projects are absent, and commit activity is not project survival",
+  "manual_annotation_rows": 0,
+  "median_commits": 7.0,
+  "median_history_span_days_among_defined": 0.0520254629629629,
+  "paired_service_concentration": {
+    "bootstrap_draws": 2000,
+    "bootstrap_fraction_change_gt_zero": 0.713,
+    "bootstrap_seed": 20260832,
+    "boundary": "version-paired descriptive bootstrap among projects with service signals in both states; not a p value, common-calendar panel, or survival estimate",
+    "current_service_hhi": 0.30332226749157487,
+    "hhi_change_bootstrap_ci": [
+      -0.011820000880237441,
+      0.0221186057039385
+    ],
+    "hhi_change_current_minus_initial": 0.004393642170916978,
+    "initial_service_hhi": 0.2989286253206579,
+    "paired_projects": 282,
+    "provider_categories_across_versions": 10,
+    "status": "ESTIMATED"
+  },
+  "projects_with_multiple_commits": 530,
+  "runtime_transition_counts": {
+    "added": 56,
+    "removed": 7,
+    "unchanged_no_signal": 395,
+    "unchanged_same": 72
+  },
+  "selection_rule": "earliest commit on or before snapshot with at least one bounded machine-selected executable or dependency-manifest file",
+  "service_transition_counts": {
+    "added": 118,
+    "changed": 34,
+    "removed": 11,
+    "unchanged_no_signal": 119,
+    "unchanged_same": 248
+  },
+  "snapshot_date": "2026-08-31",
+  "strict_projects": 530
+}

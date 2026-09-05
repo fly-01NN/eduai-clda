@@ -1,0 +1,17 @@
+group,label,estimate,low,high,matched_n,interval_kind,y
+Primary,Equal project weights,0.2151466970490539,0.1424894993708125,0.2964329036719608,99,paired percentile interval,0.0
+Search design,Rank cutoffs 25–100,0.2019976684976142,0.1720999623815874,0.2211086322937323,57–99,range across variants,1.62
+Search design,Omit each query in turn,0.2151466970490539,0.1545346788853283,0.2471571468824216,68–99,range across variants,2.62
+Search design,Likes vs newest,0.19685499929226175,0.1881098090277778,0.2056001895567457,71–80,range across variants,3.62
+Evidence,High-confidence edges,0.2971210474930713,0.1998426280234315,0.4044306264172334,84,paired percentile interval,5.24
+Evidence,Official model links only,0.2880949634755863,0.193437139561707,0.389839965397924,85,paired percentile interval,6.24
+Evidence,Source file cap 20,0.2102652777777777,0.1411707222222222,0.2914185902777778,100,paired percentile interval,7.24
+Weight and reuse,Exact source clusters,0.2026217421124828,0.13222680672287,0.2845748746207693,99,paired percentile interval,8.86
+Weight and reuse,Jaccard 0.85–0.95,0.1747422065552173,0.1710496566586313,0.1787691840277778,99,range across variants,9.86
+Weight and reuse,Author clusters,0.2423717528583169,0.1640649059504133,0.326192521853158,99,paired percentile interval,10.86
+Category mapping,Immediate public namespace,0.2377336779693681,0.1620750858755909,0.3236877472820234,99,paired percentile interval,12.479999999999999
+Category mapping,Unmapped namespaces pooled,0.1544853699735854,0.0553845837726309,0.2582487331224705,99,paired percentile interval,13.479999999999999
+Category mapping,Mapped publishers only,0.3195408246083923,0.1913683954224494,0.4478824263452641,74,paired percentile interval,14.479999999999999
+Service boundary,Unknowns: type and identifier,0.0556588940310905,0.0089669984375617,0.10078755414145,106,paired percentile interval,16.099999999999998
+Service boundary,Unknowns: one category per project,0.0618164332898223,0.0134480934298485,0.1092798507278192,106,paired percentile interval,17.099999999999998
+Dependence on leading service,Exclude projects declaring Hugging Face,0.1112825788751714,0.0402006172839506,0.1779876543209876,45,paired percentile interval,18.72

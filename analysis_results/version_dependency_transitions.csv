@@ -1,0 +1,531 @@
+space_id,initial_service_providers,current_service_providers,service_transition,initial_runtime_categories,current_runtime_categories,runtime_transition
+10805j/aitutor,,OpenAI,added,,,unchanged_no_signal
+13yashjadhav11/study_assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+24-cka-ML/quiz-generator,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+3atar/Study-assistant,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+77skaul/edu-tutor-chatbot,,,unchanged_no_signal,,User-managed runtime,added
+aakashdevdat/Quiz_generator_1,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+Aasher/Flexx_Your_Homework_Assistant,,,unchanged_no_signal,,,unchanged_no_signal
+aazankhanYousafzai/Ai_Study_Assistant,,Groq,added,,,unchanged_no_signal
+abai-cn/linux-teaching-assistant,DeepSeek,DeepSeek,unchanged_same,,,unchanged_no_signal
+Abdalaziz2026/Syria-ai-tutor,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+Abde1ra7man/Quiz_Generator,,,unchanged_no_signal,,,unchanged_no_signal
+Abdelrahman04/egyptian-educational-chatbot-demo,Hugging Face,,removed,,User-managed runtime,added
+abdullahkhankakar/quiz-generator,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+abhey-patel/quiz-generator-space,,Hugging Face,added,,,unchanged_no_signal
+Abhinaychatla/language_voice_tutor,Google,Google,unchanged_same,,,unchanged_no_signal
+AbhiReddy1/AI_datascince_Tutor,Google,Google,unchanged_same,,User-managed runtime,added
+ABRB0917/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+abubakaraabi786/programming-tutor-chatbot,Groq,Groq,unchanged_same,,,unchanged_no_signal
+Achyutar/Engross-Educational-AI,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+adil1598/edubot-ai-latex-learning-companion,,,unchanged_no_signal,,,unchanged_no_signal
+Aditya1546/ai-study-assistant,Google;Groq,Groq,changed,,,unchanged_no_signal
+AdityaKokate/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+adriiita/TeachingAssistant,Groq,Groq,unchanged_same,,,unchanged_no_signal
+Agents-MCP-Hackathon/AI-Quiz-Generator,,,unchanged_no_signal,,,unchanged_no_signal
+Agents-MCP-Hackathon/AI-Tutor-and-Syllabus-Planner,,,unchanged_no_signal,,User-managed runtime,added
+Agents-MCP-Hackathon/AI_tutor,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+ajmalllllllll/loksewaai-pal-your-study-buddy-assistant,,,unchanged_no_signal,,,unchanged_no_signal
+Akash035/my_study_assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+akhileshjethi/Study-assistant-ai,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+akshay0149/TeachingAssistant,Hugging Face,Google,changed,,,unchanged_no_signal
+Aleesha29/socratic_tutor,OpenAI,Groq,changed,,,unchanged_no_signal
+alusinebarrie/ai-teaching-assistant,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+alusinebarrie/your-ai-teaching-assistant,,OpenAI,added,,User-managed runtime,added
+amalrajmp/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+aman7935/Quiz_generator,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+AneelaFatima/AI_Friendly_Study_Tutor,Groq,Groq,unchanged_same,,,unchanged_no_signal
+Anil3920/StudyAssistant,,Google,added,,,unchanged_no_signal
+Anilkumar12/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+anir-1995/AI_Quiz_Generator,,Groq,added,,,unchanged_no_signal
+AnishaG0201/maths_quiz_generator,,Google;OpenAI,added,,,unchanged_no_signal
+ankittumu/Ace-Study-Assistant,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+Anmol2006/AI_Study_Assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+antedotee/teachingAssistant,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+Anupam251272/Education-Chatbot-Anupam,OpenAI,OpenAI;Together AI,changed,,,unchanged_no_signal
+Apoorvahu/my-study-assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+appcreator199/studyassistant,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+Archimagos/ai_tutor,,,unchanged_no_signal,,User-managed runtime,added
+Archimagos/ai_tutor_3.2,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+arjunjuneja/socratic-tutor,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+arjunnnnn0720/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+arkiitkgp/AITutor,,,unchanged_no_signal,,,unchanged_no_signal
+Arko3910/Study_Assistant,Google,Groq,changed,,,unchanged_no_signal
+Armour-12/Quiz-generator-t5base,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+Armour-12/Quiz_Generator,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+ARNABMAJI1234/interactive-study-assistant-demo,Google,Google,unchanged_same,,,unchanged_no_signal
+arsalan16/Quiz-Generator-App,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+Artykun/Ai-Quiz-Generator,Groq,Groq,unchanged_same,,,unchanged_no_signal
+arumugam-rockstar/Myfirst-AITutor,,Hugging Face,added,,,unchanged_no_signal
+asad9641/AI-Study-Assistant-Ragbase,Groq,Groq,unchanged_same,,,unchanged_no_signal
+Ashwand5/AI_Educational_Assistant,,Groq,added,,User-managed runtime,added
+Asif1karim/Study_Assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+aviatrix/Ai_Powered_Study_Assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Axiosingular/ai-tutor,,Hugging Face,added,,,unchanged_no_signal
+ay3shaa/ai-study-assistant,,,unchanged_no_signal,,User-managed runtime,added
+AyeshaMasood/quiz-generator,,,unchanged_no_signal,,User-managed runtime,added
+ayudellastuti/rag-quiz-generator,,Hugging Face,added,,,unchanged_no_signal
+ayushsainime/socratic_maths_tutor.ai,Groq,Groq,unchanged_same,,,unchanged_no_signal
+BadaPoojitha/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Bahauddin01/language-tutor-ai,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+Belliar666/english-tutor-chatbot,Hugging Face,OpenRouter,changed,,User-managed runtime,added
+Bhargavi-31/Ai_tutor,,Google,added,,,unchanged_no_signal
+bhaskarreddy2006/my-study-assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Bhuvana908/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+bielik-chatbot-devteam/english_tutor_bielik_ai,Hugging Face,,removed,,,unchanged_no_signal
+bimboawo2026/AI-Tutor,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+bobo0000/PDF-Quiz-Generator,Google,Google,unchanged_same,,,unchanged_no_signal
+Boyston/reachy_mini_language_tutor,,OpenAI,added,,,unchanged_no_signal
+brcew/ai-engineering-tutor,Groq,Groq,unchanged_same,,,unchanged_no_signal
+BRH-Burhanudin/kimia-ai-tutor,Google,Google,unchanged_same,User-managed runtime,User-managed runtime,unchanged_same
+Brisha124/AI_TUTOR,Google,Google,unchanged_same,,,unchanged_no_signal
+build-small-hackathon/tutordesk-ai,Cohere,Cohere,unchanged_same,User-managed runtime,User-managed runtime,unchanged_same
+BUNNY95R/AI_study_assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+chandanareddy1234/AITutor,,Google,added,,,unchanged_no_signal
+ChandiniSiri/AI_TUTOR,,Google,added,,,unchanged_no_signal
+chandrakireeti/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+chapeljj/PISA-Teaching-Assistant-Chatbot,,Google,added,,,unchanged_no_signal
+Charan-27-10/AI_TUTOR,Google,Google,unchanged_same,,,unchanged_no_signal
+cheriftassii/my-ai-tutor,Hugging Face,Google,changed,,,unchanged_no_signal
+Chidvilash3/socratic-tutor,Hugging Face,Groq,changed,,,unchanged_no_signal
+chsubhasis/AI_Tutor,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+cipher2150/Study-Assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+clugg25/cluggos-ai-quiz-generator,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+CodeDiva42/study-assistant,,Groq,added,,,unchanged_no_signal
+codewithchaitanya15/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+cosmoEagle/DSA-Teaching-Assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+crystallizedcrust/quiz-generator,Google,OpenAI,changed,,,unchanged_no_signal
+CT-AITUTOR/AITUTOR,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+curalearning/lesson_plan_generator,,Google,added,,,unchanged_no_signal
+Cyfer-ap/AI-Coding-Tutor,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+DakshSadotra/my-study-assistant,,Google,added,,,unchanged_no_signal
+danielspba/Chatbot-Tutor-IA,,OpenAI;OpenRouter,added,,,unchanged_no_signal
+danielspba/Chatbot_prof_tutor,OpenAI;OpenRouter,OpenAI;OpenRouter,unchanged_same,,,unchanged_no_signal
+Danny2311/Quiz-Generator,,Google,added,,,unchanged_no_signal
+danrdoran/ai_tutor_flan_base,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+danrdoran/ai_tutor_flan_t5_large,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+danrdoran/ai_tutor_gpt_neox,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+danrdoran/ai_tutor_llama,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+danrdoran/ai_tutor_v2,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+DataRebels/chatbot_language_tutor,OpenAI,,removed,,User-managed runtime,added
+DataWizard9742/LessonPlanGenerator,,,unchanged_no_signal,,,unchanged_no_signal
+david280010195/Teaching_Assistant_AI,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+deepang1902/quiz-generator-api,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+DeepLearningAI/quiz-generator-v3,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+deepthi8518/StudyAssistantApp,,OpenAI,added,,,unchanged_no_signal
+deneve07/pharma-quiz-generator,Google,Google,unchanged_same,,,unchanged_no_signal
+dhanushshenoyh/study_assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+DheerajKausik/RAG_BASED_AI_TEACHING_ASSISTANT,Hugging Face,,removed,,User-managed runtime,added
+dhivakar/my-study-assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Diid12rt/AITUTOR,,OpenAI,added,,,unchanged_no_signal
+dikshita0503/pdf-to-quiz-generator,,,unchanged_no_signal,,User-managed runtime,added
+dineshstark7/StudyAssistant,,Google;OpenRouter,added,,,unchanged_no_signal
+dinu143/Study-Assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+DipakBundheliya/flask_ai_tutor,Groq,Groq,unchanged_same,,,unchanged_no_signal
+djaber15/ai_tutor,,,unchanged_no_signal,,,unchanged_no_signal
+DoctorHolly/BIO_Tutor_Chatbot,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+doudoug1/educational-chatbot,Google,Google,unchanged_same,,,unchanged_no_signal
+DroolingPanda/teachingAssistant,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+echarif/education_chatbot,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+educationAI/education-ai-study-assistant,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+Ehtisham-84/Study-Assistant,Groq,Groq,unchanged_same,,,unchanged_no_signal
+ekantabanik/Tutor_Ai,Groq,Groq,unchanged_same,,,unchanged_no_signal
+ekerin/german-tutor-chatbot,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+ekerin/german-tutor-chatbot-v2,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+elsi29/Quiz-Generator-NLP,,,unchanged_no_signal,,,unchanged_no_signal
+elsi29/Quiz-Generator-TextPy,Groq,Groq,unchanged_same,,,unchanged_no_signal
+emanramadan/Tutor_Chatbot,Google,Google,unchanged_same,,,unchanged_no_signal
+emanramadan/Tutor_Chatbot_,Google,Google,unchanged_same,,,unchanged_no_signal
+emashahzad/StudyAssistant,Groq,Groq,unchanged_same,,,unchanged_no_signal
+engrsalman/Educational-AI-Chatbot,Groq,Groq,unchanged_same,,,unchanged_no_signal
+eoinmcg/ai_tutor,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+fabeha-raheel/ai_study_assistant,Groq,Groq,unchanged_same,,,unchanged_no_signal
+fahadsiddiqui337/AI-education-chatbot,Google,Google,unchanged_same,,,unchanged_no_signal
+Faiz3399/Ai-tutor-assistant,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+Fatma033/Educational-Chatbot,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+fatymah12/AI_Quiz_Generator,Groq,Groq,unchanged_same,,,unchanged_no_signal
+Felrose/trisem-lesson-plan-generator,Google,Google,unchanged_same,,,unchanged_no_signal
+Felrose/trisem-lesson-plan-generator-ENGLISH-LINK2,Google,Google,unchanged_same,,,unchanged_no_signal
+firobeid/AI_Tutor,Groq,Groq,unchanged_same,,,unchanged_no_signal
+fizailyas783/smart-study-assistant,Groq,Groq,unchanged_same,,,unchanged_no_signal
+flexfitfury9/ai-educational-platform,OpenRouter,OpenRouter,unchanged_same,,,unchanged_no_signal
+flexfitfury9/Ai_educational_platform,,OpenRouter,added,,User-managed runtime,added
+forWard666/AL_TEACHING_ASSISTANT,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+gaurav9821/AI-language-Tutor,,,unchanged_no_signal,,User-managed runtime,added
+geekaijosh/Agent_AI_Tutor,Hugging Face,OpenAI,changed,,,unchanged_no_signal
+Gimgaru/finalproject_aitutor,Google,OpenAI,changed,,,unchanged_no_signal
+gneya/educational_chatbot,Groq,Cohere;Groq,changed,,,unchanged_no_signal
+gobikrishna87/TechBytz-AI-Tutor,,,unchanged_no_signal,,User-managed runtime,added
+GoIpKrIsHnA/studyAssistantAI,Google,Google,unchanged_same,,,unchanged_no_signal
+google/rad_learning_companion,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+gopichand55k/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+gouravbathla/Language_Tutor,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+gr3g0r-i/quiz-generator,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+guddolla/ai.tutor,,Google,added,,,unchanged_no_signal
+guddolla/AI_TUTOR,,Google,added,,,unchanged_no_signal
+Gungz/quiz-generator-baidu-ernie,,,unchanged_no_signal,,,unchanged_no_signal
+habiba-elshrkawy/quiz-generator,Groq,Groq,unchanged_same,,,unchanged_no_signal
+hackmisty123/hack-misty-ai-tutor,,Groq,added,,,unchanged_no_signal
+Hafeezaqsa01/Quiz_generator,Groq,Groq,unchanged_same,,,unchanged_no_signal
+Hafsah-Fatima/Programming_Tutor_Chatbot,Groq,Groq,unchanged_same,,,unchanged_no_signal
+Hafsah-Fatima/Programming_Tutor_Chatbot_0.2,,Groq,added,,,unchanged_no_signal
+haiderijaz/mock-quiz-generator,,Groq,added,,,unchanged_no_signal
+Hardik2704/Teaching_Assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Hareesh221/30-day-course-generator,Google,Google,unchanged_same,,,unchanged_no_signal
+harika-donthula/my-study-assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Harika06/AI_TUTOR,,Google,added,,,unchanged_no_signal
+harikagajjala/AI_TUTOR,Google,Google,unchanged_same,,,unchanged_no_signal
+Hariprasaadh/QuizGenerator,,Groq,added,,,unchanged_no_signal
+HarryPotter1o1/Study_Assistant,Groq,Groq,unchanged_same,,,unchanged_no_signal
+harsha17v/StudyAssistant,,Google,added,,,unchanged_no_signal
+Harsha855/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+harshj0506/teachingAssistant,,Together AI,added,,,unchanged_no_signal
+harshu07/ai_tutor,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+hasithmutha/quiz-generator-ai,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+HemanthRaj/Socratic-AI-Tutor-Model,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+HemanthRaj/socratic-tutor-embedder,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+HumeraAI/lesson-plan-generator,Groq,Groq,unchanged_same,,,unchanged_no_signal
+HumeraAI/quiz-generator-from-PDF,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+hussainzaidi/AI-Teaching-Assistant,Groq,Groq,unchanged_same,,,unchanged_no_signal
+husseinhug321/Study-Buddy-AI-Learning-Assistant,,,unchanged_no_signal,User-managed runtime,,removed
+hyder-ali/ai_tutor,,Groq,added,User-managed runtime,,removed
+iamyash222/studyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+ifaundezf/estudiapp-quiz-generator,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+iju123/Quiz_Generator,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+ilangs/AI_Math_Tutor,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+ilsa15/educational_chatbot,,Groq,added,,,unchanged_no_signal
+Imsachinsingh00/education_chatbot,,Hugging Face,added,,User-managed runtime,added
+ishanmm0410/rag-quiz-generator,Groq,Groq,unchanged_same,,,unchanged_no_signal
+isreyas/Study_Assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+itsh4r01/AI-Quiz-Generator,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+Jainish210705/Quiz_Generator,Google,Google;Groq,changed,,,unchanged_no_signal
+jakeeeeeeee/my-study-assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Janakimeena/RAG-Base-Educational-Chatbot,Google,Google,unchanged_same,,,unchanged_no_signal
+Jangasathwika/ai.tutor,,Google,added,,,unchanged_no_signal
+Jangasathwika/aitutor,,Google,added,,,unchanged_no_signal
+Jayadityasahu/my-study-assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+jayeshjachak/Study_Assistant,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+jdbolter/language-tutor,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+jee-ai-tutor/jee-ai-tutor-app,,Hugging Face,added,,,unchanged_no_signal
+jenny-yuu/english-teaching-assistant,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+jeyabala2905/12th-biology-ai-tutor,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+jimmyyzz/Quiz_Generator,Groq,Anthropic;Groq,changed,,User-managed runtime,added
+jlazoflores/Language_Tutor,Hugging Face;OpenAI,Google,changed,,,unchanged_no_signal
+john-supplychain/cpim-ai-tutor,,DeepSeek,added,,,unchanged_no_signal
+jonowrenn/cs-study-assistant,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+Josebert/JR_Quiz_Generator,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+JPPD/Tutor-fisica-abp-chatbot,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+jsilbersky/AI-language-tutor,,,unchanged_no_signal,,User-managed runtime,added
+JulsdL/AI-Notebook-Tutor,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+Junaidblr/lesson-plan-generator,Groq,Groq,unchanged_same,,,unchanged_no_signal
+jyoti210303/quiz-question-generator,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+KaifKohari/ai-math-tutor,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+kalai1915/AI-Tutor-Image-Gen,,,unchanged_no_signal,,User-managed runtime,added
+kanagaraj/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Kanharamgurjar/Study_assistant_model,,Google,added,,,unchanged_no_signal
+karibubybsf/ai_tutor,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+karibubybsf/ai_tutor_v2,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+karibubybsf/ai_tutor_v3,Hugging Face,Fireworks AI,changed,,,unchanged_no_signal
+Karishma-19/AI-Tutor,,Google,added,,,unchanged_no_signal
+KashishM/study_assistant,Groq,Groq,unchanged_same,,,unchanged_no_signal
+KashTheDev123/Accounting-Tutor-AI,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+kastan/ai-teaching-assistant,,,unchanged_no_signal,,User-managed runtime,added
+kastan/ai-teaching-assistant-beta,,,unchanged_no_signal,,User-managed runtime,added
+Kaveri2109/rag-teaching-assistant,Hugging Face,,removed,,User-managed runtime,added
+Kavya-Thakar/ai-teaching-assistant-v2,,Google,added,,,unchanged_no_signal
+kavyasri0821/AI_Converstational_Data_Science_Tutor,,Google,added,,,unchanged_no_signal
+ke955/smm2-course-generator,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+Keerthana96/bridge_course_generator,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+khankashif/education_assistant_chatbot,Groq,Groq,unchanged_same,,,unchanged_no_signal
+Khanmx99/Pak-Angels-AI-Tutor,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+KhansaAQureshi/AI_Tutor,Google,Google,unchanged_same,,,unchanged_no_signal
+kinely/Study-Assistant,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+king011/AI-quiz-generator,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+kodamkarthik281/AI_Conversational_Tutor,Google,Google,unchanged_same,,,unchanged_no_signal
+kollalekhan/StudyAssistant,,Google,added,,,unchanged_no_signal
+kousarshaik/AI_TUTOR,,,unchanged_no_signal,,,unchanged_no_signal
+kr1shnasharma/academic-tutor-ai,Google;Groq,Google;Groq,unchanged_same,,,unchanged_no_signal
+kr1shnasharma/swp1-academic-ai-tutor,Google,Groq,changed,,,unchanged_no_signal
+krishala/TutorChatbot,,Groq,added,,User-managed runtime,added
+Krishna-108/study-assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+krishnachaithanya26/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Krishnajha18/StudyAssistant,,Google,added,,,unchanged_no_signal
+KSaiManikanta/Ai_Data-Science_Tutor,,Google,added,,,unchanged_no_signal
+KunalGupta1212/Quiz-generator,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+kunalhugface/Football_Tutor_Chatbot,,OpenRouter,added,,,unchanged_no_signal
+kundan857/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+lekhankolla/StudyAssistant,,Google,added,,,unchanged_no_signal
+Lesterchia1/FPOC2_AI-Tutor_Chatbot,Groq,Groq,unchanged_same,User-managed runtime,User-managed runtime,unchanged_same
+Lipely/FYP-lesson-plan-generator,,Google,added,,,unchanged_no_signal
+louiecerv/problem_solving_ai_tutor,Google,Google,unchanged_same,,,unchanged_no_signal
+LoveJesus/biblical-language-tutor-chirho,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+LSATAdaptiveTutor/chatbot_tutor,Google,Google,unchanged_same,,,unchanged_no_signal
+lynnnnrz/ai-teaching-assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+lynnnnrz/ai_teaching_assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Madni2025/MDCAT-AI-TUTOR,Groq,Groq,unchanged_same,,,unchanged_no_signal
+Madni2025/MDCAT_AI_TUTOR,Groq,Google;Groq,changed,,,unchanged_no_signal
+maheshj90/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+ManarMagdy6/Professional-Quiz-Generator,,Hugging Face,added,,,unchanged_no_signal
+Mani-krishna/StudyAssistant,,Google,added,,,unchanged_no_signal
+Manikanta2793/my-study-assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Maram-almasary/AI_Study_Assistant,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+maria355/Ai_teaching_assistant,Groq,Groq,unchanged_same,,,unchanged_no_signal
+maria355/Quiz-Generator,,,unchanged_no_signal,,,unchanged_no_signal
+marty331/AI_Tutor,Cohere;OpenAI,OpenAI,changed,,,unchanged_no_signal
+mashetti-17varshitha/AI_tutor,,Google,added,,,unchanged_no_signal
+Masterlew/math-tutor-chatbot,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+mattdotvaughn/reachy_mini_language_tutor,,OpenAI,added,,,unchanged_no_signal
+mayankjen/AI-Powered_Teaching-Assistant,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+MeetThakkar/quiz-generator,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+Megana10/ai_study_assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Mehak0711/AI_TUTOR,Hugging Face,Google;Hugging Face,changed,,,unchanged_no_signal
+mehakkhan/Kaggle_Study_Assistant,Groq,Groq,unchanged_same,,User-managed runtime,added
+Mehrann123/AI-tutor,,,unchanged_no_signal,,User-managed runtime,added
+Mehrann123/MMB-Quiz-Generator,Groq,Groq,unchanged_same,,,unchanged_no_signal
+mehwishafsa/education_chatbot,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+mercLH44/new-ai-tutor,Google,Google,unchanged_same,,,unchanged_no_signal
+midlajvalappil/AI-Powered-YouTube-Transcript-Tutor,,OpenAI,added,,,unchanged_no_signal
+mithilesh22/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+mkT83303/spanish-tutor-chatbot,Hugging Face,,removed,,User-managed runtime,added
+MMustafa313/RAG_Study_Assistant,Groq,Groq,unchanged_same,,,unchanged_no_signal
+mogbuehi/LO_AI_Tutor,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+mogbuehi/YT_Language_Tutor,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+mogbuehi/YT_Language_Tutor_2,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+MohammadYaseen/personalized-study-assistant-chatbot,Groq,Groq,unchanged_same,,,unchanged_no_signal
+mohammednouman/CB-Quiz-Generator,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+Mohd-Dilshan/ai-quiz-generator,Groq,Groq,unchanged_same,,,unchanged_no_signal
+Mohit99Chand/EducationalAIChatbot,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+Mohitha/Conversational_AI_Data_Science_Tutor,,Google,added,,,unchanged_no_signal
+montue/Teaching_Assistant,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+Moon33/linda-quiz-generator,,,unchanged_no_signal,,User-managed runtime,added
+MOrgan27/AI-study-assistant,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+motsimaslam/Afri-AI-Tutor,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+mounikathatikonda/AI_TUTOR,,Google,added,,,unchanged_no_signal
+Mpavan45/Ai_Data-Science_Tutor,Google,Google,unchanged_same,,,unchanged_no_signal
+mrhamxa/Gradio-based-RAG-study-assistant,,Groq,added,,User-managed runtime,added
+MrSimple01/QuizGenerator,,Anthropic;Google,added,User-managed runtime,User-managed runtime,unchanged_same
+muhammadHassan123/quiz-generator-ai,Google,Google,unchanged_same,,,unchanged_no_signal
+Mujahid1122/AI-Based-Quiz-Generator,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+mukeshpatel1006/Study_Assistant,Groq,Groq,unchanged_same,,,unchanged_no_signal
+Murtaza249/Text_to_Quiz_Generator,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+N-Mothish/personalized-study-assistant,,,unchanged_no_signal,,User-managed runtime,added
+nakshatravuppula25/AI_TUTOR,,,unchanged_no_signal,,,unchanged_no_signal
+nandigamavamshi/StudyAssistant,,Google,added,,,unchanged_no_signal
+nandini1810/AI_TUTOR,Google,Google,unchanged_same,,,unchanged_no_signal
+naveensngc/AI-Tutor,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+NavenTheRaven/Quiz_Generator,Groq,Groq,unchanged_same,,,unchanged_no_signal
+nersyan/quiz-generator,,,unchanged_no_signal,,User-managed runtime,added
+nhu445/ai-english-tutor,Google;Groq,Groq,changed,,,unchanged_no_signal
+Nijanth/teaching-assistant-backend,Google,Google,unchanged_same,,,unchanged_no_signal
+NIKHITHA913/aitutor,Hugging Face,Google,changed,,,unchanged_no_signal
+Nishanthan02/quiz-generator,,Cohere;Google;Groq,added,,,unchanged_no_signal
+nishayaseen001/StudyAssistant,Groq,Groq,unchanged_same,,,unchanged_no_signal
+Nitinane/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+nohitha05/AI-TUTOR,,Google,added,,,unchanged_no_signal
+npinar/quiz-generator,,,unchanged_no_signal,,,unchanged_no_signal
+nruhh/Ai_tutor,Hugging Face,Google,changed,,,unchanged_no_signal
+nublelouch/study-assistant,Groq,Groq,unchanged_same,,,unchanged_no_signal
+Nullpointer-KK/ai-tutor-chatbot_KK,Anthropic;Cohere;Google;OpenAI,Anthropic;Cohere;Google;OpenAI,unchanged_same,User-managed runtime,User-managed runtime,unchanged_same
+oluinioluwa814/Ai-tutor,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+omprasadmahapatra/Ai_Math_Tutor,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+One2SkipAfew/tutormina-ai,Google,Groq,changed,,,unchanged_no_signal
+patilyash22/Python-tutor-chatbot,Hugging Face,Google,changed,,,unchanged_no_signal
+pattato1/language-tutor,Groq,Groq,unchanged_same,,,unchanged_no_signal
+pattato1/languagetutor,Groq,Groq,unchanged_same,,,unchanged_no_signal
+Pavan-Kumar23/quiz-generator,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+phanisrigandla/AI_Tutor,,Google,added,,,unchanged_no_signal
+philipobiorah/socratic-tutor,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+Phoenix3274/AI-Quiz-Generator,,Hugging Face,added,,,unchanged_no_signal
+Pooja1218/ai-quiz-generator,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+poojithathalla/AI_TUTOR,,Google,added,,,unchanged_no_signal
+pradeepodela/AI-tech-tutor,,,unchanged_no_signal,,,unchanged_no_signal
+Prak2005/AI-Powered-Personal-Study-Assistant,,OpenAI,added,,,unchanged_no_signal
+pranaymachi/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+praneeth300/AI-Quiz-Generator,,Hugging Face,added,,,unchanged_no_signal
+Pranshuu/educational-chatbot,,,unchanged_no_signal,,User-managed runtime,added
+prasanth22118131/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Pratap1928/AI_Teaching_Assistant,,OpenAI,added,,,unchanged_no_signal
+pratikshahp/Education-Chatbot-Guardrail,OpenAI,OpenAI;Together AI,changed,,,unchanged_no_signal
+Premsp2005/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+provokingdiaries/AI_TUTOR,,Google,added,,,unchanged_no_signal
+pseudolab/AI_Tutor_BERT,,,unchanged_no_signal,,User-managed runtime,added
+pydeoxy/quiz_generator,,,unchanged_no_signal,,User-managed runtime,added
+qhaData/quiz-generator-pipeline,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+RabiaAbsar/genai-tutor-chatbot,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+rachapich/PISA-Teaching-Assistant-ChatBot-Guru,Google,Google,unchanged_same,,,unchanged_no_signal
+Rahul2298/QuizGenerator,,Hugging Face,added,,,unchanged_no_signal
+RAHYDV/teaching-assistant,Groq,Groq,unchanged_same,,,unchanged_no_signal
+Raja02424/education-chatbot,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+Rajeev0102/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Rajesh20/AI_Tutor,Google,Google,unchanged_same,,,unchanged_no_signal
+RAJKUMAR2504/AI-Study-Assistant,,Hugging Face,added,,,unchanged_no_signal
+Ram05saran/ai-language-tutor,Google,Google,unchanged_same,,,unchanged_no_signal
+ramashandoubeh/Education-chatbot,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+Ramya8637/quiz-generator,Google,Google,unchanged_same,,,unchanged_no_signal
+RamyaKammari/jee_ai_tutor,Hugging Face;OpenAI,Hugging Face;OpenAI,unchanged_same,,,unchanged_no_signal
+Rashpinder/RAG-based-Agentic-AI-tutor,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+RayaRam11/Study-assistant,,Groq,added,,,unchanged_no_signal
+Rayi-ss/AI-Powered-Study-Assistant,,Hugging Face,added,User-managed runtime,,removed
+Razzaqi3143/Engineering_Quiz_Generator,Groq,Groq,unchanged_same,,,unchanged_no_signal
+rcventura108000/Sophia-Ai-english-tutor,Hugging Face,OpenAI,changed,,,unchanged_no_signal
+rexiy/study_assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+rgos20000/Quiz_Generator,Groq,Groq,unchanged_same,,,unchanged_no_signal
+ridgebradley888/Smart-AI-Tutor-APP,,,unchanged_no_signal,,,unchanged_no_signal
+Rishabh12j/AI_Powered_Teaching_Assistant,,Google;Groq;OpenAI,added,User-managed runtime,,removed
+Rishabh12j/Teaching_Assistant_AI,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+Riya00/quiz_generator,,,unchanged_no_signal,,User-managed runtime,added
+rk803/Data_Science_Tutor_Ai,Google,Google,unchanged_same,,,unchanged_no_signal
+Rohit8827/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Rosh-2/physics_tutor_chatbot,Groq,Groq,unchanged_same,,,unchanged_no_signal
+roshandakhore2003/nuron-teaching-assistant,Hugging Face,Hugging Face,unchanged_same,,User-managed runtime,added
+roxqtang/ai-teaching-assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+rugvedaa/Ai-tutorApp,,,unchanged_no_signal,,,unchanged_no_signal
+Rupesx007/quiz_generator,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+Rushi420/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+s1313/Quiz_Generator,,Groq,added,,,unchanged_no_signal
+SaanviWatrana/saanvi-ai-study-tutor,,,unchanged_no_signal,,,unchanged_no_signal
+sabahat-shakeel/study-assistant,Groq,Groq,unchanged_same,,,unchanged_no_signal
+sabrineoueslati/quiz-generator,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+sachi2004/ai-study-assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Sadem-12/AI_Study_Assistant,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+SahilGupta4/Study_Assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+SaiAbhiYaswanth/study_assistant,,Google,added,,,unchanged_no_signal
+saicharantej/aitutor,,,unchanged_no_signal,,,unchanged_no_signal
+saikumar27/AI_Powered_Data_Science_Tutor,,Google,added,User-managed runtime,,removed
+saimahashmi/ai-study-assistant,Google;Groq,Google;Groq,unchanged_same,User-managed runtime,User-managed runtime,unchanged_same
+sairaarif89/AITutor,Google,Google,unchanged_same,,,unchanged_no_signal
+SaiRithwik2004/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Sajid1974/Socratic_QA_GenAI_Tutor,,Groq,added,,,unchanged_no_signal
+salsh093/SEG_StudyAssistant,Hugging Face,Google,changed,,User-managed runtime,added
+samadjunejo/ai_study_assistant,,Groq,added,,,unchanged_no_signal
+samakanishkareddy/AI_TUTOR,,Google,added,,,unchanged_no_signal
+Samanfatima563474/tutor-ai,,Hugging Face,added,,,unchanged_no_signal
+SambaReshma/AI_TUTOR,,Google,added,,,unchanged_no_signal
+sameekghosh/ai-python-teaching-assistant,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+samekbotfactorycz/aitutor,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+Samyakj69/Study_Assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+SanaBegum23/AI_tutor,Google,Google,unchanged_same,,,unchanged_no_signal
+sanakousar/AI_TUTOR,Google,Google,unchanged_same,,,unchanged_no_signal
+sanchezpaez/speech_to_text_to_speech_language_tutor,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+sandariyogitha/AI_TUTOR,,Google,added,,,unchanged_no_signal
+sangareddijaswanth/study_assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+sanjana033/my-study-assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Sanjay-Ai/AI-Powered-Socratic-Teaching-Assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Sanjay0102/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+sanketh2334/biology_ai_tutor,,,unchanged_no_signal,,User-managed runtime,added
+santhoshi-123/AITUTOR,,Google,added,,,unchanged_no_signal
+santosh7/AI_converstion_Data_Science_Tutor,,Google,added,,,unchanged_no_signal
+Santoshtambe/ai-study-assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Santoshtambe/study_Assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+saraHamza/Engli-Tutor-Chatbot,,Google,added,,,unchanged_no_signal
+Saravana-Saro14/Educational-chatbot,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+saru21/study_assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+satvik452007/Study_assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Sayan21/Video-Tutor-AI,Google,Google,unchanged_same,,,unchanged_no_signal
+SBDeploy/Study_Assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Selenophile786/physics-ai-tutor,,,unchanged_no_signal,,,unchanged_no_signal
+SerotoninRonin/Quiz-Generator,Hugging Face,Hugging Face,unchanged_same,,User-managed runtime,added
+sewusida/statistics_study_assistant,,OpenAI,added,,User-managed runtime,added
+SH1VAM-2027/studyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Shahbazakbar/AI-Tutor,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+Shahbazakbar/RAG-AI-Tutor,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+shaheerawan3/AI-Teaching-Assistant,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+shahzaib41202/AI_ML_Tutor,Hugging Face,,removed,,User-managed runtime,added
+shankar-dev24/StudyAssistant,,Google,added,,,unchanged_no_signal
+shawarnaditya121/ai-teaching-assistant,,,unchanged_no_signal,,User-managed runtime,added
+shb59na/ai-study-tutor,Google,Google,unchanged_same,,,unchanged_no_signal
+sheraz00/ai-teaching-assistant,,Google,added,,,unchanged_no_signal
+shikhahaljmili/ai-quiz-generator,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+shirosh/ai-tutor,Google,Google,unchanged_same,,,unchanged_no_signal
+Shivam10lm/ai-teaching-assistant,,Groq,added,,,unchanged_no_signal
+shivasai02/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Shivateja23/DS_AI_TUTOR,,Google,added,,,unchanged_no_signal
+Shlok1005/Voice_chatbot_tutor,,,unchanged_no_signal,User-managed runtime,,removed
+shroukelnagdy/quiz-generator,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+shukdevdatta123/Language-Learning-Companion,,OpenRouter,added,,,unchanged_no_signal
+shukdevdatta123/Smart-AI-Tutor-APP,,,unchanged_no_signal,,,unchanged_no_signal
+shuklavartika/AI_Study_Assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Siddhisapkal/AI_Tutor,Google,Google,unchanged_same,,,unchanged_no_signal
+Sindu31/IntelliGent-AI-Tutor-System,,Google;Groq,added,,,unchanged_no_signal
+siphiwesibisi/quiz-and-study-guide-generator,,,unchanged_no_signal,,User-managed runtime,added
+siphiwesibisi/quiz-generator,,,unchanged_no_signal,,User-managed runtime,added
+Sirichandanasamala/AI_TUTOR,,Google,added,,,unchanged_no_signal
+SirigajjeDurga/AI-Personal-Tutor,,Groq,added,,,unchanged_no_signal
+siriItis/pdf-study-assistant,,Google,added,,,unchanged_no_signal
+sk-12/EDUBUDDY-AI-TUTOR,Google,Google,unchanged_same,,,unchanged_no_signal
+Solkyash/Ai-study-assistant,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+sravani30/AI_QUIZ_GENERATOR,Google,Google,unchanged_same,,,unchanged_no_signal
+Sree1216/AI_tutor,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+sreejamanthena/StudyAssistant,,Groq,added,,,unchanged_no_signal
+sreenivasulaReddy/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Sri921980/Ai_Tutor,,Google,added,,,unchanged_no_signal
+SrihithaReddy123/AI_TUTOR,Google,Google,unchanged_same,,,unchanged_no_signal
+srinivas25046/ai-study-assistant,,,unchanged_no_signal,,User-managed runtime,added
+Srushtii-13/Study_Assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+starkbyte45896/Quiz_Generator,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+sudeepthitellapally/AITutor,,Google,added,,,unchanged_no_signal
+sudipta26889/Quiz-Generator,,Hugging Face,added,,User-managed runtime,added
+Sujithraam/StudyAssistant,,Google,added,,,unchanged_no_signal
+SujithRaam07/StudyAssistant,,Google,added,,,unchanged_no_signal
+sultan-hassan/adaptive_language_tutor,Google,Google,unchanged_same,,,unchanged_no_signal
+tariqm603/study-assistant,,Groq,added,,,unchanged_no_signal
+tarunkanugu/study_Assistant,,Google,added,,,unchanged_no_signal
+tayy786/Ai_Tutor_App,Groq,Groq,unchanged_same,,User-managed runtime,added
+TeerthPurohit/RAG-TradingWithML-Teaching-Assistant,Google,Google,unchanged_same,User-managed runtime,User-managed runtime,unchanged_same
+tejuu23/ai-tutor,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+tfitzge134/gemini-learning-companion,,Google,added,,,unchanged_no_signal
+thabassum9/ai_tutor,Hugging Face,Google,changed,,,unchanged_no_signal
+Thepatelsuraj12/Rag-based-AI-Teaching-Assistant,,,unchanged_no_signal,,User-managed runtime,added
+theSriram/StudyAssistant,,Google,added,,,unchanged_no_signal
+thilak1/RAG-BASED-AI-TEACHING-ASSISTANT,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+Tomjedo/Education_Chatbot,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+Tonic/open-gpt-Lesson-Plan-Generator,,,unchanged_no_signal,,,unchanged_no_signal
+tools4ds/ai_tutor,,OpenAI,added,,,unchanged_no_signal
+towardsai-tutors/ai-tutor-chatbot,Anthropic;Cohere;Google;OpenAI,Anthropic;Cohere;DeepSeek;Google;OpenRouter,changed,User-managed runtime,,removed
+Trinesh16/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Trivikrama/Physics_Lesson_Plan_Generator,Groq,Groq,unchanged_same,,,unchanged_no_signal
+Troy88/Quiz-Generator,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+Turbiling/Backward-Design-Lesson-Plan-Generator,Groq,Groq,unchanged_same,,,unchanged_no_signal
+Turbiling/GB_Education_Chatbot,Groq,Groq,unchanged_same,,,unchanged_no_signal
+Turbiling/Lesson_Plan_Generator,Groq,Groq,unchanged_same,,,unchanged_no_signal
+Turbiling/Sharqi_Education_Chatbot,,Groq,added,,User-managed runtime,added
+Tutor-Ai-100/AI_Tutor_Chatbot,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+tyapab/ai-study-assistant,Hugging Face,Hugging Face,unchanged_same,,User-managed runtime,added
+uc-msai631-2025-spring/group2_study_assistant,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+Udayveer1990/Language_tutor,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+Ukhanyo/quiz-generator-ai,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+UlliInduSree/AI_Tutor_Chatbot,Hugging Face,,removed,,User-managed runtime,added
+UmarIqbal000/quiz-generator-ai,,,unchanged_no_signal,,User-managed runtime,added
+umerforsure/AI-Study-Assistant,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+Us-er-na-me/QuizGenerator,,,unchanged_no_signal,,User-managed runtime,added
+Vaibhava24/my-study-assistant,,Google,added,,,unchanged_no_signal
+Vaishnav-00299/my-study-assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Varshareddy1106/AI_TUTOR,Google,Google,unchanged_same,,,unchanged_no_signal
+VarunGoud314/Study_assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+VinayKarthik800/ai-tutor,,Google,added,,,unchanged_no_signal
+vinitwaghmare/ai-study-assistant,,OpenRouter,added,,,unchanged_no_signal
+vinitwaghmare/bilingual-ai-study-assistant,Hugging Face,OpenRouter,changed,,,unchanged_no_signal
+vipin1143/eva-teaching-assistant,,Groq,added,,,unchanged_no_signal
+viraja1/AI-Quiz-Generator,,,unchanged_no_signal,,,unchanged_no_signal
+vishalraaj1/AI-STUDY_ASSISTANT,Google,Google,unchanged_same,,,unchanged_no_signal
+VishnuSai05/Study_Assistant,Google,Google,unchanged_same,,,unchanged_no_signal
+vivicake666/math-tutor-chatbot,OpenAI,,removed,,User-managed runtime,added
+VSrilekha/AI-Tutor,Hugging Face,Google,changed,,,unchanged_no_signal
+wajahatkhan/AI_tutor,,Google,added,,,unchanged_no_signal
+wangzy217/Teaching_Assistant,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+wimida/socratic-tutor-bot,Hugging Face,,removed,,User-managed runtime,added
+windsoldier/ai-teaching-assistant,,DeepSeek,added,,,unchanged_no_signal
+wupeiwen2001/reachy-mini-language-tutor,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+yadavnirmal002/CBSE10-AI-Tutor,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+Yasir-Bhatti/Education_tutor_chatbot,Hugging Face,Groq,changed,,,unchanged_no_signal
+YasirAnsari/AI_tutor,Groq,Groq,unchanged_same,,,unchanged_no_signal
+Yasirkhalil12/ai-quiz-generator,,Google,added,,,unchanged_no_signal
+Yenuli-Bimanya-404/ai-study-assistant-multilang,,,unchanged_no_signal,User-managed runtime,User-managed runtime,unchanged_same
+yiyiyi999/ai-tutor-classroom,,,unchanged_no_signal,,,unchanged_no_signal
+YKDep/StudyAssistant,Google,Google,unchanged_same,,,unchanged_no_signal
+Younis123/Education_Assistant_chatbot,Groq,Groq,unchanged_same,,,unchanged_no_signal
+yuvabe-ai/AI-Tutor,OpenAI,OpenAI,unchanged_same,,,unchanged_no_signal
+Yuvasriiii/personalized_study_assistant,,Google,added,,,unchanged_no_signal
+zaini1234/pdf-quiz-generator,Hugging Face,Hugging Face,unchanged_same,,,unchanged_no_signal
+zara65724/AI-Vocabulary-Tutor,Anthropic,Groq,changed,,,unchanged_no_signal
+zizo66/AI-Language-Tutor,Hugging Face,,removed,,User-managed runtime,added

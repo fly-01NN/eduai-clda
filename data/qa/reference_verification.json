@@ -1,0 +1,518 @@
+{
+  "status": "PASS",
+  "references": 38,
+  "pass": 38,
+  "review": 0,
+  "checks": [
+    {
+      "key": "KerssensNicholsPangrazio2024",
+      "route": "crossref_doi",
+      "identifier": "10.1080/17439884.2023.2258339",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2023,
+        2024
+      ],
+      "remote_title": "Googlization(s) of education: intermediary work brokering platform dependence in three national school systems",
+      "source": "https://api.crossref.org/works/10.1080%2F17439884.2023.2258339"
+    },
+    {
+      "key": "SriprakashEtAl2025",
+      "route": "crossref_doi",
+      "identifier": "10.1080/03054985.2024.2348459",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2024,
+        2025
+      ],
+      "remote_title": "Sociodigital futures of education: reparations, sovereignty, care, and democratisation",
+      "source": "https://api.crossref.org/works/10.1080%2F03054985.2024.2348459"
+    },
+    {
+      "key": "BirchEtAl2025",
+      "route": "crossref_doi",
+      "identifier": "10.1080/17439884.2024.2405850",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2024,
+        2025
+      ],
+      "remote_title": "Data as asset, data as rent? Rentiership practices in EdTech startups",
+      "source": "https://api.crossref.org/works/10.1080%2F17439884.2024.2405850"
+    },
+    {
+      "key": "Persson2024",
+      "route": "crossref_doi",
+      "identifier": "10.1007/s40593-023-00347-0",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2023,
+        2024
+      ],
+      "remote_title": "Artificial Intelligence and UK Education: Research, the Redistribution of Authority, and Rights",
+      "source": "https://api.crossref.org/works/10.1007%2Fs40593-023-00347-0"
+    },
+    {
+      "key": "BondEtAl2024",
+      "route": "crossref_doi",
+      "identifier": "10.1186/s41239-023-00436-z",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2024
+      ],
+      "remote_title": "A meta systematic review of artificial intelligence in higher education: a call for increased ethics, collaboration, and rigour",
+      "source": "https://api.crossref.org/works/10.1186%2Fs41239-023-00436-z"
+    },
+    {
+      "key": "GousetiShaw2026",
+      "route": "crossref_doi",
+      "identifier": "10.1080/17439884.2026.2653746",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2026
+      ],
+      "remote_title": "When platformisation meets schooling: exploring teachers, students and parents’ experiences of digital platform use",
+      "source": "https://api.crossref.org/works/10.1080%2F17439884.2026.2653746"
+    },
+    {
+      "key": "Decuypere2021",
+      "route": "crossref_doi",
+      "identifier": "10.1080/17508487.2020.1866050",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2021
+      ],
+      "remote_title": "Introduction: Critical studies of digital education platforms",
+      "source": "https://api.crossref.org/works/10.1080%2F17508487.2020.1866050"
+    },
+    {
+      "key": "KerssensVanDijck2021",
+      "route": "crossref_doi",
+      "identifier": "10.1080/17439884.2021.1876725",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2021
+      ],
+      "remote_title": "The platformization of primary education in The Netherlands",
+      "source": "https://api.crossref.org/works/10.1080%2F17439884.2021.1876725"
+    },
+    {
+      "key": "PlantinEtAl2018",
+      "route": "crossref_doi",
+      "identifier": "10.1177/1461444816661553",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2016,
+        2018
+      ],
+      "remote_title": "Infrastructure studies meet platform studies in the age of Google and Facebook",
+      "source": "https://api.crossref.org/works/10.1177%2F1461444816661553"
+    },
+    {
+      "key": "Gillespie2010",
+      "route": "crossref_doi",
+      "identifier": "10.1177/1461444809342738",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2010
+      ],
+      "remote_title": "The politics of ‘platforms’",
+      "source": "https://api.crossref.org/works/10.1177%2F1461444809342738"
+    },
+    {
+      "key": "ZawackiRichterEtAl2019",
+      "route": "crossref_doi",
+      "identifier": "10.1186/s41239-019-0171-0",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2019
+      ],
+      "remote_title": "Systematic review of research on artificial intelligence applications in higher education – where are the educators?",
+      "source": "https://api.crossref.org/works/10.1186%2Fs41239-019-0171-0"
+    },
+    {
+      "key": "OsborneDingKirk2024",
+      "route": "crossref_doi",
+      "identifier": "10.1007/s42001-024-00300-8",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2024
+      ],
+      "remote_title": "The AI community building the future? A quantitative analysis of development activity on Hugging Face Hub",
+      "source": "https://api.crossref.org/works/10.1007%2Fs42001-024-00300-8"
+    },
+    {
+      "key": "PepeEtAl2024",
+      "route": "crossref_doi",
+      "identifier": "10.1145/3643916.3644412",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2024
+      ],
+      "remote_title": "How do Hugging Face Models Document Datasets, Bias, and Licenses? An Empirical Study",
+      "source": "https://api.crossref.org/works/10.1145%2F3643916.3644412"
+    },
+    {
+      "key": "CastanoEtAl2024",
+      "route": "crossref_doi",
+      "identifier": "10.1145/3643991.3644898",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2024
+      ],
+      "remote_title": "Analyzing the Evolution and Maintenance of ML Models on Hugging Face",
+      "source": "https://api.crossref.org/works/10.1145%2F3643991.3644898"
+    },
+    {
+      "key": "AitIzquierdoCabot2025",
+      "route": "crossref_doi",
+      "identifier": "10.1007/s10664-024-10608-8",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2025
+      ],
+      "remote_title": "On the suitability of hugging face hub for empirical studies",
+      "source": "https://api.crossref.org/works/10.1007%2Fs10664-024-10608-8"
+    },
+    {
+      "key": "RahmanGaoJi2025",
+      "route": "crossref_doi",
+      "identifier": "10.1145/3746252.3761510",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2025
+      ],
+      "remote_title": "HuggingGraph: Understanding the Supply Chain of LLM Ecosystem",
+      "source": "https://api.crossref.org/works/10.1145%2F3746252.3761510"
+    },
+    {
+      "key": "StalnakerEtAl2026",
+      "route": "crossref_doi",
+      "identifier": "10.1145/3776739",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2025,
+        2026
+      ],
+      "remote_title": "An Empirical Analysis of Machine Learning Model and Dataset Documentation, Supply Chain, and Licensing Challenges on Hugging Face",
+      "source": "https://api.crossref.org/works/10.1145%2F3776739"
+    },
+    {
+      "key": "SensEtAl2025",
+      "route": "crossref_doi",
+      "identifier": "10.1109/ICSE55347.2025.00185",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2025
+      ],
+      "remote_title": "A Large-Scale Study of Model Integration in ML-Enabled Software Systems",
+      "source": "https://api.crossref.org/works/10.1109%2FICSE55347.2025.00185"
+    },
+    {
+      "key": "AjibodeEtAl2025",
+      "route": "crossref_doi",
+      "identifier": "10.1007/s10664-025-10631-3",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2025
+      ],
+      "remote_title": "Towards semantic versioning of open pre-trained language model releases on hugging face",
+      "source": "https://api.crossref.org/works/10.1007%2Fs10664-025-10631-3"
+    },
+    {
+      "key": "ChenEtAl2026",
+      "route": "authoritative_url",
+      "identifier": "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/129/A-First-Look-at-Model-Supply-Chain-From-the-Risk-Perspective",
+      "status": "PASS",
+      "http_status": 200,
+      "resolved_url": "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/129/A-First-Look-at-Model-Supply-Chain-From-the-Risk-Perspective",
+      "source": "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/129/A-First-Look-at-Model-Supply-Chain-From-the-Risk-Perspective"
+    },
+    {
+      "key": "JiangEtAl2024PeaTMOSS",
+      "route": "crossref_doi",
+      "identifier": "10.1145/3643991.3644907",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2024
+      ],
+      "remote_title": "PeaTMOSS: A Dataset and Initial Analysis of Pre-Trained Models in Open-Source Software",
+      "source": "https://api.crossref.org/works/10.1145%2F3643991.3644907"
+    },
+    {
+      "key": "JonesEtAl2024",
+      "route": "crossref_doi",
+      "identifier": "10.1145/3674805.3686665",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2024
+      ],
+      "remote_title": "What do we know about Hugging Face? A systematic literature review and quantitative validation of qualitative claims",
+      "source": "https://api.crossref.org/works/10.1145%2F3674805.3686665"
+    },
+    {
+      "key": "CobbeVealeSingh2023",
+      "route": "crossref_doi",
+      "identifier": "10.1145/3593013.3594073",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2023
+      ],
+      "remote_title": "Understanding accountability in algorithmic supply chains",
+      "source": "https://api.crossref.org/works/10.1145%2F3593013.3594073"
+    },
+    {
+      "key": "JiangEtAl2023",
+      "route": "crossref_doi",
+      "identifier": "10.1109/ICSE48619.2023.00206",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2023
+      ],
+      "remote_title": "An Empirical Study of Pre-Trained Model Reuse in the Hugging Face Deep Learning Model Registry",
+      "source": "https://api.crossref.org/works/10.1109%2FICSE48619.2023.00206"
+    },
+    {
+      "key": "SajnaniEtAl2016",
+      "route": "crossref_doi",
+      "identifier": "10.1145/2884781.2884877",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2016
+      ],
+      "remote_title": "SourcererCC: scaling code clone detection to big-code",
+      "source": "https://api.crossref.org/works/10.1145%2F2884781.2884877"
+    },
+    {
+      "key": "Efron1979",
+      "route": "crossref_doi",
+      "identifier": "10.1214/aos/1176344552",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        1979,
+        2007
+      ],
+      "remote_title": "Bootstrap Methods: Another Look at the Jackknife",
+      "source": "https://api.crossref.org/works/10.1214%2Faos%2F1176344552"
+    },
+    {
+      "key": "LiesenfeldDingemanse2024",
+      "route": "crossref_doi",
+      "identifier": "10.1145/3630106.3659005",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2024
+      ],
+      "remote_title": "Rethinking open source generative AI: open washing and the EU AI Act",
+      "source": "https://api.crossref.org/works/10.1145%2F3630106.3659005"
+    },
+    {
+      "key": "LongpreEtAl2024",
+      "route": "crossref_doi",
+      "identifier": "10.1038/s42256-024-00878-8",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2024
+      ],
+      "remote_title": "A large-scale audit of dataset licensing and attribution in AI",
+      "source": "https://api.crossref.org/works/10.1038%2Fs42256-024-00878-8"
+    },
+    {
+      "key": "LiangEtAl2024",
+      "route": "crossref_doi",
+      "identifier": "10.1038/s42256-024-00857-z",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2024
+      ],
+      "remote_title": "Systematic analysis of 32,111 AI model cards characterizes documentation practice in AI",
+      "source": "https://api.crossref.org/works/10.1038%2Fs42256-024-00857-z"
+    },
+    {
+      "key": "BommasaniEtAl2024",
+      "route": "crossref_doi",
+      "identifier": "10.1609/aies.v7i1.31629",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2024
+      ],
+      "remote_title": "Ecosystem Graphs: Documenting the Foundation Model Supply Chain",
+      "source": "https://api.crossref.org/works/10.1609%2Faies.v7i1.31629"
+    },
+    {
+      "key": "GorwaVeale2024",
+      "route": "crossref_doi",
+      "identifier": "10.1080/17579961.2024.2388914",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2024
+      ],
+      "remote_title": "Moderating model marketplaces: platform governance puzzles for AI intermediaries",
+      "source": "https://api.crossref.org/works/10.1080%2F17579961.2024.2388914"
+    },
+    {
+      "key": "LiesenfeldEtAl2023",
+      "route": "crossref_doi",
+      "identifier": "10.1145/3571884.3604316",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2023
+      ],
+      "remote_title": "Opening up ChatGPT: Tracking openness, transparency, and accountability in instruction-tuned text generators",
+      "source": "https://api.crossref.org/works/10.1145%2F3571884.3604316"
+    },
+    {
+      "key": "MitchellEtAl2019",
+      "route": "crossref_doi",
+      "identifier": "10.1145/3287560.3287596",
+      "status": "PASS",
+      "title_similarity": 1.0,
+      "author_coverage": 1.0,
+      "year_match": true,
+      "remote_years": [
+        2019
+      ],
+      "remote_title": "Model Cards for Model Reporting",
+      "source": "https://api.crossref.org/works/10.1145%2F3287560.3287596"
+    },
+    {
+      "key": "UNESCO2019",
+      "route": "authoritative_url",
+      "identifier": "https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer",
+      "status": "PASS",
+      "http_status": 200,
+      "resolved_url": "https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer",
+      "source": "https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer"
+    },
+    {
+      "key": "OSI2024",
+      "route": "authoritative_url",
+      "identifier": "https://opensource.org/ai/open-source-ai-definition",
+      "status": "PASS",
+      "http_status": 200,
+      "resolved_url": "https://opensource.org/ai/open-source-ai-definition",
+      "source": "https://opensource.org/ai/open-source-ai-definition"
+    },
+    {
+      "key": "HuggingFaceSpaces2026",
+      "route": "authoritative_url",
+      "identifier": "https://huggingface.co/docs/hub/en/spaces-overview",
+      "status": "PASS",
+      "http_status": 200,
+      "resolved_url": "https://huggingface.co/docs/hub/en/spaces-overview",
+      "source": "https://huggingface.co/docs/hub/en/spaces-overview"
+    },
+    {
+      "key": "HuggingFaceHubAPI2026",
+      "route": "authoritative_url",
+      "identifier": "https://huggingface.co/docs/huggingface_hub/en/package_reference/hf_api",
+      "status": "PASS",
+      "http_status": 200,
+      "resolved_url": "https://huggingface.co/docs/huggingface_hub/en/package_reference/hf_api",
+      "source": "https://huggingface.co/docs/huggingface_hub/en/package_reference/hf_api"
+    },
+    {
+      "key": "HuggingFaceModelCards2026",
+      "route": "authoritative_url",
+      "identifier": "https://huggingface.co/docs/hub/en/model-cards",
+      "status": "PASS",
+      "http_status": 200,
+      "resolved_url": "https://huggingface.co/docs/hub/en/model-cards",
+      "source": "https://huggingface.co/docs/hub/en/model-cards"
+    }
+  ],
+  "note": "Metadata agreement verifies citation identity; it does not validate every manuscript claim."
+}

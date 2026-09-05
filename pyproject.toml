@@ -1,0 +1,24 @@
+[project]
+name = "eduai-clda"
+version = "0.1.0"
+description = "Reproducible cross-layer audit of public educational AI project dependencies"
+requires-python = ">=3.11"
+dependencies = [
+  "httpx>=0.28,<0.29",
+  "matplotlib>=3.10,<4",
+  "networkx>=3.6,<4",
+  "numpy>=2.3,<3",
+  "pandas>=3.0,<4",
+  "pycountry>=24.6,<25",
+  "pyyaml>=6,<7",
+  "scipy>=1.17,<2",
+]
+
+[dependency-groups]
+dev = [
+  "pytest>=9,<10",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

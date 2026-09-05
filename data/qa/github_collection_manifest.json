@@ -1,0 +1,13 @@
+{
+  "http_requests_this_run": 97,
+  "http_retries_this_run": 0,
+  "interpretive_boundary": "README links may identify mirrors, dependencies, examples, or templates; derived edges are not part of the primary concentration estimand",
+  "raw_source_cache_released": false,
+  "repositories_resolved": 16,
+  "repositories_unresolved": 7,
+  "retrieved_files": 71,
+  "snapshot_date": "2026-08-31",
+  "strict_spaces_with_github_link": 18,
+  "supplementary_dependency_edges": 42,
+  "unique_readme_linked_repositories": 23
+}

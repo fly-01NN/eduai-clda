@@ -1,0 +1,14 @@
+task,stratum,sample_n,resolved_yes,resolved_no
+education_relevance,broad_only,17,17,0
+education_relevance,no_detected_construct,41,38,3
+education_relevance,strict_dependency_observable,60,57,3
+education_relevance,strict_not_dependency_observable,60,58,2
+dependency_evidence,inference_service|code_signature|high,40,39,1
+dependency_evidence,inference_service|configuration_signature|medium,17,17,0
+dependency_evidence,inference_service|package|high,35,35,0
+dependency_evidence,model_dependency|code_model_id|medium,24,21,3
+dependency_evidence,model_dependency|hf_linked_model|high,44,44,0
+service_negative,docker,12,2,10
+service_negative,gradio,50,8,42
+service_negative,static,3,1,2
+service_negative,streamlit,15,4,11
